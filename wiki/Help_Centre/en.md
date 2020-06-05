@@ -19,17 +19,17 @@ Usually, these issues resolve themselves within a few hours, and our systems wil
 
 If it has been over 24 hours and you still do not have your supporter tag, please email [support@ppy.sh](mailto:support@ppy.sh) and let us know about your problem.
 
-Make sure to include any receipts that you received during the process (paypal transaction IDs, Xsolla receipts, etc) - these help us a lot in tracking down what happened to your payment!
+Make sure to include any receipts that you received during the process (paypal transaction IDs, Xsolla receipts, etc) - these help us a ton in tracking down what happened to your payment.
 
 ### Restriction
 
 #### What is "restricted" mode, exactly?
 
-**A person with a restricted account is temporarily or permanently prevented from interacting with the community in any meaningful way, including chatting, participating in multiplayer, and having their scores on leaderboards.**
+**A person with a restricted account is temporarily or permanently prevented from interacting with the community in any meaningful way: including chatting, participating in multiplayer, and having their scores on leaderboards.**
 
 If your account has been restricted, you'll likely know why after a brief conversation with the support team.
 
-In situations where we are absolutely assured that foul play or wrongdoing has taken place, we will ask you to wait out a period of **three (3) months** from the date of your last offense before we consider an appeal from you to let you back into the game.
+In situations where we are absolutely sure that foul play or wrongdoing has taken place, we will ask you to wait out a period of **three months** from the date of your last offense before we consider an appeal from you to let you back into the game.
 
 Refer to *[Account Restrictions](/wiki/Help_Centre/Account_Restrictions)* for more information on account restrictions and the appeal process.
 
@@ -41,42 +41,42 @@ Refer to *[Account Restrictions](/wiki/Help_Centre/Account_Restrictions)* for mo
 
 If this does not work for you (or you do not have access to your registration email), please send an email to our [support team](mailto:accounts@ppy.sh) with as much information as you can think of to help us acknowledge you as the owner of your account.
 
-Good information to include this email would be:
+Good information to include in this email:
 
-- The name of the email address that you registered the account on, or any other email the account has been associated with since
+- The name of the email address that you registered the account on (or any other email the account has been associated with since)
 - Any receipts for purchased osu!supporter tags or other items from the osu!store
 - The last date you can remember being able to access your account normally
-- Any other identifying information that you think could be helpful (excluding scores or replays, those do not help us very much!)
+- Any other identifying information that you think could be helpful (excluding scores or replays; those do not help us very much!)
 
 #### My account has been stolen!
 
-**Try using [the password recovery page](https://osu.ppy.sh/home/password-reset) to see if your account's email is still valid.**
+**Try using [the password recovery page](https://osu.ppy.sh/home/password-reset) to see if your account's email address is still valid.**
 
 If this succeeds, you will be able to reset your own password without the assistance of the support staff.
 
-If this does not work for you, please send us a support ticket immediately to [accounts@ppy.sh](mailto:accounts@ppy.sh) with as much identifying information as possible that will help us establish you as the owner of your account.
+If this does not work for you, please send us a support ticket as soon as possible to [accounts@ppy.sh](mailto:accounts@ppy.sh) with as much identifying information as possible that will help us establish you as the owner of your account.
 
-Emailing from your registration address is a huge bonus here, as well as any other information you can provide that only the holder of the account would know.
+Contacting us via the original email address you signed-up with, as well as any other information you can provide that only the holder of the account would know, would help us out immensely.
 
-Please do not include replay or score data in your ticket - we cannot use this to verify your ownership of the account.
+Please do not include replay or score data in your ticket as we cannot use this to verify your ownership of the account.
 
-#### The website is telling me that I have tried to sign in too many times!
+#### The website is telling me that I've tried to sign-in too many times!
 
-**This is a temporary protection measure after repeated failures to access your account. Try signing in again after 10-20 minutes.**
+**This is a temporary protection measure after consecutive repeated failures to access your account. Try signing-in again after 10–20 minutes.**
 
-If this happens to you, simply wait for a while and try to sign in a little later.
+If this happens to you, simply wait for awhile and try to sign-in a little later. <!-- Not sure about everyone else, but don't you think we should give more specific lengths of time than "awhile" and "a little later?" -toaster -->
 
-A couple of hours at the absolute maximum will clear the status for most people and allow them to sign in again.
+A couple of hours at the absolute maximum will clear the status for most people and allow them to sign-in again. <!-- I feel like one of those smaller text "note" things should be placed here. But I haven't learned much of GitHub's formatting yet. -toaster -->
 
 #### I didn't receive any emails from osu!/I forgot my email address!
 
-**There might be an issue with your account's current email address.**
+**Please keep in-mind that there might be an issue with your osu! account's current email address.**
 
-If you remember your account's attached email address, or think you do, try visiting the [email recovery](https://osu.ppy.sh/p/forgot-email) page to file a request to have it changed. Fill in the form as best you can and you'll receive a reply within two days.
+If you remember (or think you remember) your account's attached email address, then try visiting the [email recovery](https://osu.ppy.sh/p/forgot-email) page to file a request in order to have it changed. Afterwards, fill-in the form as best you can and you'll receive a reply within two days. <!-- We should probably say something like, "If you haven't recieved a reply within two days, please contact our support email!" or something like that. But I don't know the specifics on that. -toaster -->
 
-If you have lost your account's password and are not receiving any password recovery emails, or you really cannot remember what email address you were using, please contact us at [accounts@ppy.sh](mailto:accounts@ppy.sh). Any information you have about your account (your username, any screenshots that show you signed in to the client, past transactions through the store or supporter payments, etc.) will be helpful!
+If you've lost your account's password and are not receiving any password recovery emails, or you really can't remember what email address you were using, please contact us at [accounts@ppy.sh](mailto:accounts@ppy.sh) and we'll take it from there. Any information you have about your account (such as your username, any screenshots that show you signed-in to the client, past transactions through the store or supporter payments, etc.) will be very helpful! 
 
-Lastly, we are aware that some providers do not accept automated emails from us. If you are using any of these providers, please contact us by mail and we'll change your email address for you:
+Lastly, please keep in-mind that some providers do not accept automated emails from us. If you are using any of the providers listed below, please contact us by physical mail and we'll change your email address for you: <!-- I would love to reword this sentence so that it's grammatically correct for a colon, but I can't think of any way to do that, so I'll just leave it be for now. -toaster --> 
 
 - `att.net`
 - `bellsouth.net`
@@ -92,19 +92,19 @@ Lastly, we are aware that some providers do not accept automated emails from us.
 
 **Yes, absolutely!**
 
-If you have purchased (or been gifted) a [supporter tag](https://osu.ppy.sh/home/support) at any point, you will be a able to change your name **once** for free. This name change can be redeemed at the [osu!store](https://osu.ppy.sh/store/products/32).
+If you've purchased (or been gifted) a [supporter tag](https://osu.ppy.sh/home/support) at any point in time, you'll be able to change your username **once** for free, which can be redeemed at the [osu!store](https://osu.ppy.sh/store/products/32).
 
-At any point thereafter, you may purchase a username change to change your name to whatever you wish. However, each change will become progressively more expensive - the second will cost $8 USD, the third $16 USD, and so on, up to a cap of $100 USD. We do this to prevent people from abusing the system to change their names in rapid succession.
+At any point thereafter, you may purchase a username change to change your username to whatever you wish (provided that it follows the [Community Rules](https://osu.ppy.sh/help/wiki/Rules#community-rules). However, each change will become progressively more expensive: the second will cost $8 USD, the third $16 USD, and so on, up to a cap of $100 USD. We do this to prevent people from abusing the system by changing their names in rapid succession.
 
-If you are only after minor capitalization or grammar/spelling changes, you can email [accounts@ppy.sh](mailto:accounts@ppy.sh) to request a free name change to fix these issues. We will not charge you for these sorts of name changes, but you **MUST** do them through a support email. Keep in mind we will only perform this a limited number of times, so make sure you really want it!
+If you're only after minor capitalization or grammar/spelling changes, you can email [accounts@ppy.sh](mailto:accounts@ppy.sh) to request a free username change to fix these issues. We will not charge you for these sorts of name changes, but you **MUST** do them through a support email. Keep in-mind that we will only perform this a limited number of times, so make sure you really want it!
 
 #### Can I take another player's username?
 
 **Yes, but only under certain circumstances.**
 
-If a player has not signed in for at least 6 months and has no plays, their username may be reclaimed via the [osu!store player name change page](https://osu.ppy.sh/store/products/32) for a standard fee associated with username changes.
+If a player has not signed-in for at least six months and has no plays, then their username may be reclaimed via the [osu!store player name change page](https://osu.ppy.sh/store/products/32) for a standard fee associated with username changes.
 
-If that player does have any plays across all game modes, a [non-linear function](https://www.desmos.com/calculator/b89siyv9j8 "Desmos graph") is used to calculate how much extra time is added to those 6 months. This is to prevent people from stealing the usernames of active or recently retired players.
+If that player **does** have any plays across all game modes, a [non-linear function](https://www.desmos.com/calculator/b89siyv9j8 "Desmos graph") is used to calculate how much extra time is added to those six months. This is to prevent people from stealing the usernames of active or recently retired players.
 
 #### Is it possible to change my name back or revert to my old username?
 
