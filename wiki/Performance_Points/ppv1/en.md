@@ -2,11 +2,11 @@
 
 # ppv1
 
-The **first performance score** (abbreviated as **ppv1**) is an ancient ranking system for players globally and nationally of all modes from osu!. It replaced the old system of *ranking by total score* and was abandoned for the benefit of [ppv2](..).
+The **first performance score** (abbreviated as **ppv1**) was an ancient ranking system for players globally across all modes in osu!. It replaced the old system of *ranking by total score* and was abandoned due to the implementation of [ppv2](..).
 
 ## History
 
-ppv1 was launched in April 2012 and initially mentioned in the players profiles under the name ``???`` during a test phase. Then finally renamed to **pp** (performance points) on 17. April 2012. This system existed with the previous ranking system (by total score) and eventually became the unique system in place on 24. July 2012 during the release of the version [20120722-24](https://osu.ppy.sh/community/forums/posts/1687719 "20120722-24") of the osu! client.
+ppv1 was launched in April 2012 and was initially mentioned in players' profiles under the name ``???`` during a test phase before finally being renamed to **pp** (performance points) on April 17, 2012. This system existed with the previous ranking system (*ranking by total score*) and eventually became the unique system in-place on July 24, 2012 during the release of the version [20120722-24](https://osu.ppy.sh/community/forums/posts/1687719 "20120722-24") of the osu! client.
 
 
 This system was initially updated at regular intervals, usually every 24 hours, to finally run in real-time on 16. August 2012.
