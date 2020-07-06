@@ -53,9 +53,9 @@ Good examples of tech maps that fit this definition are [Silentroom - Nhelv](htt
 - SV sliders
 - Difficult-to-read beatmap patterns (often described as having a hard "flow") (example shown below)
 
-![Difficult-to-read-pattern (Camelia)](/wiki/Beatmaps/difficult_to_read_beatmap.jpeg "Difficult-to-read-pattern")
+![Difficult-to-read-pattern (Camelia)](/wiki/Beatmaps/Technical_Maps/img/difficult_to_read_beatmap.jpeg "Difficult-to-read-pattern")
 
-![Irregular slider shape (MARENOL)](/wiki/Beatmaps/irregualr_slider.jpeg "Irregular slider shape (SV slider)")
+![Irregular slider shape (MARENOL)](/wiki/Beatmaps/Technical_Maps/img/irregular_slider.jpeg "Irregular slider shape (SV slider)")
 
 Good examples of tech maps that fit this definition are [Camelia - Exit This Earth's Atomosphere (Camellia's "PLANETARY//200STEP" Remix)](https://osu.ppy.sh/beatmapsets/855677#osu/1787848) and [LeaF - MARENOL](https://osu.ppy.sh/beatmapsets/1136149#osu/2404722).
 
