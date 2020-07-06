@@ -45,7 +45,7 @@ In [osu!standard](/wiki/Game_Modes/osu!), when encountered with a spinner, the A
 
 ## osu!taiko
 
-In [osu!taiko](/wiki/Game_Modes/osu!taiko), the Auto mod will attempt a perfect playthrough, but won't always get an SS grade: it will occasionally miss a tick on drumrolls that do not start on a whole or half beat and will not always be able to complete dendens on maps with a very high overall difficulty.
+In [osu!taiko](/wiki/Game_Modes/osu!taiko), the Auto mod will attempt a perfect playthrough, but won't always get an SS grade. It will occasionally miss a tick on drumrolls that do not start on a whole or half beat and will not always be able to complete dendens on maps with a very high overall difficulty.
 
 ## osu!catch
 
