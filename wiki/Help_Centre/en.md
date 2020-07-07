@@ -269,7 +269,9 @@ Below are the some of the common fonts bundled with Windows:
 
 See [this topic](https://answers.microsoft.com/en-us/windows/forum/windows_vista-windows_programs/font-tahoma-does-not-support-style-regular/80ad7a97-230f-41d4-9101-107a0bfa986a "Microsoft Answers") in Microsoft Answers for some more detailed advice and other options on getting lost fonts back.
 
-### Gameplay
+---
+
+## Gameplay
 
 ### Some of my beatmaps are missing!
 
@@ -369,149 +371,164 @@ Try closing any extra programs before playing osu! if you find that your scores 
 
 If the servers are offline, do not close osu! until we've fixed the issues and the servers come back up, as the game will try to submit your score again for up to an hour before it gives up.
 
-#### Can you upload a score I set for me?
+### Can you upload a score I set for me?
 
 **Unfortunately, no, we cannot upload scores upon request.**
 
 If you were denied a score due to technical reasons or whatever else, the best you can hope for is to repeat your display of skill and achieve it again. Sorry!
 
-#### The notes seem out of sync or out of time with the music!
+### The notes seem out of sync or out of time with the music!
 
-**This can be due to sound processing software running on your machine, such as *Razer Surround Audio*. It could also be due to your `Universal Offset` being set incorrectly.**
+**This can be due to sound processing software running on your machine (e.g., *Razer Surround Audio*). It could also be due to your `Universal Offset` being set incorrectly.**
 
-*Caution: the use of bluetooth audio devices tend to increase audio latency, which could be causing your audio to lag behind.*
+*Caution: the use of bluetooth audio devices tend to increase audio latency significantly, which could be causing your audio to lag behind.*
 
 Try closing any extra programs which alter or influence the sound coming out of your computer. If this doesn't help, you could try to adjust your `Universal Offset`.
 
-Every individual hardware configuration has a particular `Universal Offset` that determines whether you hear the game's audio a little later or earlier.
+*Notice: you should make sure you are using headphones/earbuds as opposed to speakers when using the `Offset wizard` to get the best experience possible.*
 
-The default values work for most people, but if you find it isn't for you, you can change it by following three simple steps:
+Every individual hardware configuration has a particular `Universal Offset` that determines whether you hear the game's audio a little later or earlier. The default values work for most people, but if you find it isn't for you, you can change it by following three simple steps:
 
 1. Go to the `Options` menu and find the `Universal offset` slider under the `Offset Adjustment` header. The default value is 0; you should only change it if needed.
 2. If the default value (0) isn't working for you, try using the `Offset wizard` button to walk you through setting a new one.
 3. If this still doesn't help, you may want to try updating your sound card or motherboard audio drivers.\
 
-*Notice: you should make sure you are using headphones/earbuds as opposed to speakers when using the `Offset wizard` to get the best experience possible.*
+### I'm experiencing lag spikes or stuttering during play!
 
-#### I'm experiencing lag spikes or stuttering during play!
+**There are many reasons why osu! may be performing inconsistently. From programs on your computer, to out-of-date drivers, even simply having some settings too high could cause performance drops!**
 
-**There are many reasons why osu! may be performing inconsistently. From programs on your computer, to out-of-date drivers, simply having some settings too high could cause performance drops.**
-
-##### Do you have a lot of programs open at the same time while playing osu!?
+#### Do you have a lot of programs open at the same time while playing osu!?
 
 **Some background processes can fight with osu! for resources and make the game very unpleasant to play.**
 
-Try closing some programs that you do not need open while playing the game. You can check which programs are using up the most resources on your computer by pressing `Ctrl` + `Shift` + `Esc` to open the Task Manager.
+Try closing some programs that you don't need open while playing the game. You can check which programs are using up the most resources on your computer by pressing `Ctrl` + `Shift` + `Esc` to open the Task Manager.
 
-You can also try checking to see how much priority your computer is giving to osu!. To check or change this, open the Task Manager -> right click on osu! -> click `Go to details` -> right click on the highlighted program (this should be called `osu!.exe`) -> click on `Set priority` -> and if you want more resources to be sent to osu!, click on one of the six options shown in the sidebar. `Realtime` is not reccommended, and your computer may not even allow you to select this setting.
+You can also try checking to see how much priority your computer is giving to osu!. To check or change this, do the following:
 
-##### Is your computer secure?
+*Warning: We do not reccomend selecting priority `Realtime` as this may cause resource issues within your system. Your computer may even block you from selecting this setting.*
+
+- Open the Task Manager.
+- Right click on osu!.
+- Click `Go to details`.
+- Right click on the highlighted program (this should be called `osu!.exe`).
+- Click on `Set priority`.
+- If you want more resources to be sent to osu!, click on one of the six options shown in the sidebar. 
+
+#### Is your computer secure?
 
 **Viruses, spyware, malware or other unwanted software can cause serious performance problems for even high-end computers.**
 
-Please be sure to keep your computer clean and safe and you might notice an improvement.
+Please be sure to keep your computer clean and safe, and you might notice an improvement.
 
-##### How old is your computer?
+#### How old is your computer?
 
 **Very old computers that use even older Intel Integrated graphics chipsets may not be powerful to handle osu! at all, even on the lowest settings.**
 
-The only way to deal with this one is to upgrade your computer and/or graphics card!
+The only way to deal with this one is to upgrade your computer or graphics card!
 
-##### Are your drivers up-to-date?
+#### Are your drivers up-to-date?
 
 **Old drivers can cause serious performance issues. Make sure you keep all of your drivers up-to-date for everything, wherever possible.**
 
 Graphics card drivers are particularly important for osu!, as well as sound card drivers.
 
-##### Are you using a USB hub to connect lots of USB devices to your computer through one USB cable?
+#### Are you using a USB hub to connect lots of USB devices to your computer through one cable?
 
-**Connecting too many devices to one port via a splitter can cause input lag which is hard to detect but can seriously throw off your game.**
+**Connecting too many devices to one port via a splitter can cause input lag, which is hard to detect, but can seriously throw off your game.**
 
-An easy solution to this is to try unplugging your USB hub briefly. If your lag disappears, you know why!
+An easy solution to this is to try unplugging your USB hub briefly. If your lag disappears, you'll know why!
 
-##### Are you running osu! in windowed or borderless mode?
+#### Are you running osu! in Windowed or Borderless mode?
 
-**Both windowed and borderless mode introduce a *considerable* amount of input delay. Fullscreen is optimal for the smoothest gameplay experience.**
+**Both Windowed and Borderless mode introduce a *considerable* amount of input delay.** 
 
-##### Does your game freeze up for only a moment or so?
+We reccomend using Fullscreen as it is optimal for the smoothest gameplay experience. <!-- this line could be bolded with the line above, or stay down here, I can't decide tho (remove comment before merging) -->
+
+If you are using windowed or borderless mode to sync up your monitor's refresh rate, we reccomend you try selecting the `VSync` option under `Frame Limiter` first! <!-- this line and the line below are only one sentence long but they don't really fit together on the same line (remove comment before merging) -->
+
+If you are using windowed mode to lower the "sensitivity" of your tablet, we reccomend that you try adjusting your tablet area (which you can learn to do in the "Performance" section of this article!).
+
+#### Does your game freeze up for only a moment or so?
 
 **Sometimes background processes or other applications on your computer can send big requests for resources all at once, which will make your machine struggle.**
 
-This usually clears up after closing everything non-essential before playing osu!. Torrenting software is a big culprit for this—especially if it shares space with the drive that osu! is installed on.
+This usually clears up after closing everything non-essential before playing osu!. Torrenting software is a big culprit for this, especially if it shares space with the drive that osu! is installed on.
 
-##### Has the game recently updated?
+#### Has the game recently updated?
 
 **Sometimes, after a game update, the client may struggle for seemingly no reason.**
 
 If you have a lot of beatmaps, please wait at least 10–15 minutes before blaming the lag on the update. The osu! client may be reprocessing your maps to calculate their difficulty.
 
-If it does not resolve, a reboot can sometimes help.
+If this doesn't resolve the issue, a reboot can sometimes help.
 
-#### My game looks glitchy, like the graphics are torn!
+### My game looks glitchy, like the graphics are torn!
 
-**This is due to an effect called [screen tearing](https://en.wikipedia.org/wiki/Screen_tearing) and can be fixed by setting the in-game `Frame limiter` option to `VSync`.**
+**What you're experiencing may be due to an effect called [screen tearing](https://en.wikipedia.org/wiki/Screen_tearing), which can be fixed by setting the in-game `Frame limiter` option to `VSync`.**
 
-This is a completely harmless (albeit ugly!) effect that happens because the game's refresh rate is not synced up with your monitor's refresh rate.
+This is a completely harmless (albeit ugly) effect that happens because the game's refresh rate is not synced up with your monitor's refresh rate.
 
 You can also try playing in Windowed or Borderless mode, which will use your operating system's native VSync instead.
 
-Turning on VSync or playing in Windowed or Borderless mode will introduce a *considerable* amount of input lag, unfortunately. For most people, this will not cause significant issue though.
+Turning on VSync or playing in Windowed or Borderless mode will introduce a *considerable* amount of input lag, unfortunately. For most people, this will not cause a significant issue, though.
 
 Later NVidia graphics cards have a global option in the NVidia Control Panel to set the global refresh rate to a setting called 'Fast', which will also fix this issue.
 
-#### I received a server-side error when trying to play online!
+### I received a server-side error when trying to play online!
 
-**Please keep in-mind that the servers could be having issues.**
+**Please keep in-mind that our servers may be having issues.**
 
 Check the [osu! server status page](https://status.ppy.sh/) to see if there are any ongoing issues with the servers.
 
-**This can also happen if you are using a shared Internet connection, a proxy, or VPN.**
+**This can also happen if you are using a shared Internet connection, proxy, or VPN.**
 
 Try using another proxy or VPN provider. But if all else fails, send in a support ticket via email to [accounts@ppy.sh](mailto:accounts@ppy.sh).
 
 If you are not using any of the above, then you will need to send in a support ticket, as your connection has likely been blacklisted in error.
 
-Tor (The Onion Router) or networks associated with the Tor relay will not connect to the game servers for the most part. We do this to avoid malicious use, as these types of networks are typically associated with ill-intented purposes.
+Tor (The Onion Router) or networks associated with the Tor relay will not connect to the game servers, for the most part. We do this to avoid malicious use, as these types of networks are typically associated with [ill-intented purposes](https://en.wikipedia.org/wiki/Tor_(anonymity_network)#Usage "Wikipedia").
 
-### Online Features
+---
 
-#### I can't sign in or connect to osu! at all!
+## Online features
+
+### I can't sign in or connect to osu! at all!
 
 **Ensure that osu! can properly access the Internet through any firewall or anti-virus suites you have installed on your computer.**
 
-Read-on to learn about a few ways of allowing applications to have Internet access through several common anti-virus suites!
+Read on to learn about a few ways of allowing applications to have Internet access through several common anti-virus suites!
 
-##### Allowing a program through Windows Firewall
+#### Allowing a program through Windows Firewall
 
 **On most Windows installations, Windows Firewall will be the default firewall software.**
 
-To make sure osu! can access the Internet, we will need to allow it to communicate through Windows Firewall. You can check and add osu! to the program list in just seven steps:
+To make sure osu! can access the Internet, we're gonna need to allow it to communicate through Windows Firewall. You can check and add osu! to the program list by doing the following:
 
 1. Open the Start menu.
 2. Type `allow an app` into the search bar within the Start menu.
 3. You should see a Control Panel match titled `Allow an app through Windows Firewall`. Click it.
-4. A panel with a large list of applications with two checkboxes beside them will open. Click on any application, and then hit the `o` key. The list will scroll down to all applications beginning with "o".
+4. A panel with a large list of applications with two checkboxes beside them will open. Click on any application, and then hit the `O` key. The list will scroll down to all applications beginning with "o".
 5. Look for `osu!` or `osu!.exe`.
 6. If neither are present, click `Allow another app` at the bottom of the panel and search for your osu! installation directory, and choose `osu!.exe`.
 7. Make sure both `Private` and `Public` checkboxes are ticked. Click `OK` to save your settings. And then try opening osu! again.
 
-##### Allowing a program through AVG Firewall
+#### Allowing a program through AVG Firewall
 
 Please consult AVG's [official knowledgebase entry on the topic](https://support.avg.com/SupportArticleView?l=en&urlName=Allow-application-in-AVG-Firewall) for detailed instructions on how to do this.
 
-##### Allowing a program through Kaspersky Security Center
+#### Allowing a program through Kaspersky Security Center
 
 Please consult Kaspersky's [official help article](https://support.kaspersky.com/7834) on adding applications to the Trusted Zone for detailed instructions on how to do this.
 
-##### Allowing a program through McAfee
+#### Allowing a program through McAfee
 
 Please consult McAffee's [official knowledgebase entry on the topic](https://service.mcafee.com/webcenter/portal/cp/home/articleview?articleId=TS100813) for detailed instructions on how to do this.
 
-##### I've added osu! to my firewall but I still can't connect to the server!
+#### I've added osu! to my firewall but I still can't connect to the server!
 
-**If this happens, we will need extra information from you to help sort this out.**
+**If this happens, we'll need extra information from you to help sort this out.**
 
-If you are still having issues connecting to our game servers, please submit a support ticket by sending an email to [accounts@ppy.sh](mailto:accounts@ppy.sh). The following information below will help us resolve your issue quickly.
+If you are still having issues connecting to our game servers, please submit a support ticket by sending an email to [accounts@ppy.sh](mailto:accounts@ppy.sh). The following information below will help us resolve your issue quickly:
 
 - A trace route output log from the command `tracert` for the servers `cho.ppy.sh`, `osu.ppy.sh` and `m1.ppy.sh` (see below for instructions)
 - The `network.log` file from the `Logs` folder in your osu! installation directory
@@ -520,21 +537,25 @@ If you are still having issues connecting to our game servers, please submit a s
 
 **A trace route will help us detect exactly where the problem is between you and our servers.**
 
+*Note to less tech savvy users: to run a command in the Command Prompt, simply type the given name of the command into the window, and press `Enter`.*
+
 You can perform a trace route by opening the Command Prompt and running the command `tracert`.
 
 To open the Command Prompt, press and hold the `Windows` key and press `R`, then type `cmd` and click `OK`. For more information, see this [Windows knowledgebase article.](https://support.microsoft.com/en-us/kb/314868).
 
-You can then type the trace route command into the console. For example, the command `tracert cho.ppy.sh` will track how your computer connects to the game server over the Internet. Please keep in-mind that tracing routes takes a little bit of time, sometimes upwards of a minute or more depending on your connection.
+You can then type the trace route command into the console. For example, the command `tracert cho.ppy.sh` will track how your computer connects to the game server over the Internet. But please keep in-mind that tracing routes takes a little bit of time (sometimes upwards of a minute or more depending on your connection!).
 
 We will need the results from a trace route command for the servers `cho.ppy.sh`, `osu.ppy,sh` and `m1.ppy.sh`.
 
+*Notice: in many terminals and command lines like the Command Prompt, the `Ctrl`+`C` shortcut does not work the same as it does on most modern computers. In most instances, a right click will copy the text with no toolbar or dropdown menu appearing.*
+
 To copy the results of the command, simply click and drag from the bottom of the output all the way to the top so that the information turns white, then right click to instantly copy it to your clipboard.
 
-#### I have changed my settings, and now I can't start osu!/osu! is freezing!
+#### I changed my settings, and now I can't start osu!/osu! is freezing!
 
 **Resetting osu! back to its default settings will fix this in most cases.**
 
-Follow the steps below to restore osu! to its default settings.
+Follow the steps below to restore osu! to its default settings:
 
 1. Hold down the `Shift` key on your keyboard.
 2. While holding `Shift`, double click the osu! icon on your desktop.
@@ -542,22 +563,24 @@ Follow the steps below to restore osu! to its default settings.
 4. When the `osu! configuration` dialog opens, click the `reset settings` button.
 5. If you still aren't having any luck, open the dialog again and click `repair osu!`.
 
-#### I became a supporter but my name isn't yellow in-game!
+#### I became a supporter, but my name isn't yellow in-game!
 
-**You will always appear white to yourself on the in-game client. Other users will see your glorious yellowness, though!**
+**You will always appear white to yourself on the in-game client. Other users will be able to see your glorious yellowness, though!**
 
-This helps to identify your own messages from everyone else's. There is no option to disable it at this time.
+This helps to identify your own messages from everyone else's. There's no option to disable it at this time, sadly.
 
-### Performance
+---
 
-#### How can I make osu! run "cooler" if my computer is overheating?
+## Performance
 
-**The easiest way is to change your frame limiter settings.**
+### osu! is making my computer overheat/my computer fans are really loud when I play osu!
 
-To check what your frame limiter is set to, simply…
+**The easiest way to fix this is to change your frame limiter settings.**
+
+To check what your frame limiter is set to, do the following:
 
 1. Open osu!.
-2. Enter the `Options` menu (or hit `Ctrl` + `O`).
+2. Enter the Options menu (or press `Ctrl` + `O`).
 3. Type `frame` into the quick search to bring up the frame limiter options.
 
 If your frame limiter is set to `Unlimited`, you may notice a significant improvement by changing it to one of the other three options.
@@ -568,33 +591,33 @@ We recommend using `VSync` in situations where heat is an issue.
 
 You may also wish to look into utilities that allow you to control the speed of your CPU and GPU fans manually.
 
-#### My PC reboots while playing osu!
+### My PC reboots while playing osu!
 
-**Most of the time, this is due to overheating of one or more of your computer's components, usually your graphics card or CPU.**
+**Most of the time, this is due to the overheating of one or more of your computer's components, usually your graphics card or CPU.**
 
-To figure out what is causing this, we recommend you use a GPU/CPU temperature monitor and keep an eye on it as you play osu! in the background. A good choice of program to use for this would be [Piriform Speccy](https://www.piriform.com/speccy).
+To figure out what's causing this, we recommend you use a GPU/CPU temperature monitor and keep an eye on it as you play osu! in the background. We reccomend using [Piriform Speccy](https://www.piriform.com/speccy).
 
 If you notice either your GPU or CPU temperature exceeding values of 90°C (194°F), your computer is running very hot and dangerously close to most automatic shutdown thresholds.
 
-##### My computer isn't overheating, but the game still causes my computer to reboot!
+#### My computer isn't overheating, but the game still causes my computer to reboot!
 
-**The most common cause of forced restarts after overheating issues is sound card problems, followed by malfunctioning peripherals attached to your computer.**
+**The most common cause of forced restarts—aside from overheating issues—is sound card problems, followed by malfunctioning peripherals attached to your computer.**
 
-Old sound card drivers or software can cause problems with osu!, but this is not an issue for most people. Try updating your sound card or motherboard drivers.
+Old sound card drivers or software can cause problems with osu!, but this is not an issue for most people. Try updating your sound card or motherboard drivers if you think this may be the issue.
 
-You may also wish to try removing some of the peripherals attached via USB to your computer, especially if they interact with sound in any way. Headphones or USB sound cards can sometimes cause problems if they or the port they are in begins malfunctioning.
+You may also wish to try removing some of the peripherals attached via USB to your computer, especially if they interact with sound in any way. Headphones or USB sound cards can sometimes cause problems if they, or the port they are in, begins malfunctioning.
 
-##### It's still happening!
+#### It's still happening!
 
-If none of this helps, please send in a support ticket to [accounts@ppy.sh](mailto:accounts@ppy.sh) with more information on the issue. Please remember to includ your computer's technical specifications, model (where appropriate) and any other information you think may help us discern the cause of your problem.
+If none of this helps, please send in a support ticket to [accounts@ppy.sh](mailto:accounts@ppy.sh) with more information on the issue. We ask that you please remember to include your computer's technical specifications, model (where appropriate), and any other information you think may help us discern the cause of your problem.
 
 #### I can't hold more than a few keys at once while playing osu!mania
 
-**This is due to a hardware issue common to most keyboards called *ghosting*.**
+**This issue may be due to a hardware issue common to most keyboards called "ghosting".**
 
 Ghosting is a somewhat complex topic, but essentially boils down to issues with the way your keyboard is made that prevents it from sending more than a few keys down at once from certain places on the board.
 
-Most newer keyboards will allow up to **six** keys to be held down at once, albeit in random combinations.
+Most newer keyboards will allow up to 6 keys to be held down at once, albeit in random combinations.
 
 You can test your keyboard's ghosting limits by using [drakeirving's Anti-Ghosting utility](https://drakeirving.github.io/MultiKeyDisplay).
 
@@ -602,7 +625,7 @@ While the Ranking Criteria for osu!mania tries to alleviate the issue of ghostin
 
 The only true solution is to purchase a keyboard that can support more concurrent keypresses. You may wish to look for a feature known as *n-key rollover* (*NKRO*). NKRO keyboards do not have issues with ghosting for the most part, but are usually expensive.
 
-#### My cursor goes crazy whenever I try to play osu!
+### My cursor goes crazy whenever I try to play osu!
 
 **The most common cause of this is having your in-game mouse sensitivity set too high.**
 
@@ -610,24 +633,24 @@ Jumpy, erratic movement is a prime example of this, particularly if you are usin
 
 Setting the in-game sensitivity to 1.0x (which is default) will fix this in most cases, but may leave your cursor feeling sluggish. We suggest enabling *raw input* in the game options and using the drivers for your peripheral of choice to alter sensitivity.
 
-You may also wish to adjust the *DPI* setting of your mouse, if you are using one. Higher DPI settings provide more accurate positioning to the game client and may smooth out any jitters.
+You may also wish to adjust the DPI setting of your mouse, if you are using one. Higher DPI settings provide more accurate positioning to the game client and may smooth out any jitters.
 
-We also suggest ensuring your peripherals are clean and free from dirt or debris. A hair or bit of dust in front of a mouse's optical sensor can do very strange things to the way a cursor moves.
+We also suggest ensuring your peripherals are clean and free from dirt or debris. A string of hair or bit of dust in front of a mouse's optical sensor can do very strange things to the way a cursor moves.
 
-##### What is raw input, and how do I turn it on?
+#### What is raw input, and how do I turn it on?
 
 **Raw input forces the game to use a cleaner and more direct means to access the information from your peripherals. This generally increases the accuracy of the output from the device.**
 
-*Notice: If you are using a tablet, turning on raw input may cause the cursor to jump to the corner of the screen. This is due to the way tablets are designed, as they use Absolute Positioning.*
+*Notice: If you are using a tablet, turning on raw input may cause the cursor to be stuck in the corner of the screen. This is due to the way tablets are designed, as they use absolute positioning (unlike computer mice, which use relative positioning)*
 
-To enable raw input, follow these steps:
+To enable raw input, do the following:
 
 1. Open osu!.
-2. Enter the `Options` menu or hit `Ctrl` + `O`.
+2. Enter the `Options` menu or press `Ctrl` + `O`.
 3. Type `raw` into the quick search to jump straight to the option.
 4. Click the `Raw input` radio button.
 
-#### I'm playing from a tablet and my cursor feels too slow!
+### I'm playing from a tablet and my cursor feels too slow!
 
 **You can solve this problem by defining a smaller tablet area for your device.**
 
@@ -635,9 +658,9 @@ On most Wacom tablets, this is done via the `Mapping` tab of the `Wacom Tablet P
 
 ![Wacom Tablet Properties screen showing Mapping options](img/Tabarea.png "Interface for changing tablet area on Wacom devices")
 
-You will need to consult your tablet's manufacturer to find out how to set your tablet area for your particular peripheral.
+You will need to consult your tablet's manufacturer page to find out how to set your tablet area for your particular peripheral.
 
-All osu! branded tablets support raw input by default, and may have their sensitivity easily adjusted on the fly by using the raw input option in-game and using the mouse sensitivity slider.
+All osu! branded tablets support raw input by default, and may have their sensitivity easily adjusted on the fly by using the raw input option in-game and using the mouse sensitivity slider. Unfortunately,<!--as of ____,--> osu! branded tablets are no longer being officially sold or manufactured.
 
 #### My song list keeps scrolling!
 
@@ -645,15 +668,13 @@ All osu! branded tablets support raw input by default, and may have their sensit
 
 Applications which emulate or change keybindings such as *Xpadder* or *X-Mouse Button Control* may also cause these issues. Try disabling them if you use them for other games.
 
-This can also happen due to issues with the numpad keys, as they can be used to scroll the song selection list. Pressing the `NumLock` key to disable the numpad and then pressing either `9` or `3` on the numpad will fix the issue.
-
-You may also wish to check for any jammed or damaged buttons on your peripherals.
+This can also happen due to issues with the numpad keys, as they can be used to scroll the song selection list. Pressing the `NumLock` key to disable the numpad and then pressing either `9` or `3` on the numpad will fix the issue. You should also check for any jammed or damaged buttons on your peripherals while doing this.
 
 #### I downloaded a Beatmap Pack but osu! is always trying to "repair" the file!
 
-**You will need to extract the pack into your Songs directory.**
+**You'll need to extract the pack into your Songs directory.**
 
-Most beatmap packs come in a `.rar` file format, which means they are a compressed archive of beatmap files. You will need to extract them using your utility of choice (we recommend [7-Zip](https://7-zip.org)) to your Songs directory first.
+Most beatmap packs come in a `.rar` file format, which means they are a compressed archive of beatmap files. You'll need to extract them using your utility of choice. (We recommend [7-Zip](https://7-zip.org)) to your Songs directory first.) <!-- do we though. WinRar is widely recognized to be the first option for unzipping files imo -->
 
 Once all of the `.osz` files within the pack are in the Songs directory, hitting `F5` at the song selection menu will refresh the game's beatmap cache and load your new songs into osu!.
 
