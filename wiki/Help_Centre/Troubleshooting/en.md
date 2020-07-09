@@ -1,5 +1,7 @@
 # Troubleshooting
 
+*For a list of all Help Centre articles, see: [Help Centre](/wiki/Help_Centre)*
+
 ## What are "log files" and how do I make them?
 
 **Log files are detailed recordings of what the game client is doing at any given point in time. We can use them to help determine what's causing your issue.**
