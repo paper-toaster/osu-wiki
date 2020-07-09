@@ -1,5 +1,7 @@
 # Gameplay
 
+*For a list of all Help Centre articles, see: [Help Centre](/wiki/Help_Centre)*
+
 ## Some of my beatmaps are missing!
 
 **Make sure you aren't searching for beatmaps within a certain criteria (e.g. star rating, approach rate, etc.).**
