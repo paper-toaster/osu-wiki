@@ -21,7 +21,7 @@ If a support team member has asked you for these logs, you can learn how to get 
 
 ## What is this "Bancho authentication error" I keep receiving?
 
-**This typically happens when there are networking issues between you and our servers.**
+**This typically happens when there are networking issues between you ssand our servers.**
 
 There are a few things you can try in order to resolve this issue.
 
