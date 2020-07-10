@@ -34,7 +34,7 @@ By default, every user has **2 pending slots**. 1 slot is added for every Ranked
 
 ## FAQ
 
-#### Where can I get new beatmaps?
+### Where can I get new beatmaps?
 
 **The Beatmap Listing is a great place to start!**
 
@@ -42,13 +42,13 @@ By default, every user has **2 pending slots**. 1 slot is added for every Ranked
 
 To get there and download new beatmaps, go to [`beatmaps`](https://osu.ppy.sh/beatmapsets) on the Home page. Just remember that you need to sign in in order to download beatmaps.
 
-#### Can I disable Kiai Time?
+### Can I disable Kiai Time?
 
 **No.**
 
 You cannot disabled Kiai Time. This is because, unlike video, it's a feature integrated into the game (as a part with the [hit objects](/wiki/Hit_objects)), and thus cannot be disabled.
 
-#### The maps are too hard! Where can I find some easier maps?
+### The maps are too hard! Where can I find some easier maps?
 
 **Some very kind community members have compiled sets of beatmaps for beginners for each game mode.**
 
