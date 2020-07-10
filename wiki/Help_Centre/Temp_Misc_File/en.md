@@ -358,3 +358,31 @@ For any questions regarding pp, please refer to the [wiki page for pp first](/wi
 Keep in mind that osu! has four game modes so you might be looking at the wrong game mode.
 
 ![Profile_Mode_Buttons](img/Profile_mode_buttons.gif "Profile mode buttons")
+
+#### Why do I not have the max possible combo when I have no misses? <!-- this article is *very lengthy* and also unneeded because a stub will do its job just fine (which i am working on atm), so I won't be changing this very much | cleaned-up: false -->
+
+**A slider was probably released early (meaning that the ball was released before it had finished the ending slider point).**
+
+<!-- *For more information on slider breaks, see: [Slider break](/wiki/Glossary/Slider_break)* -->
+
+![Image showing a slider with slider ticks, with top part during Edit and bottom part during play](/wiki/shared/Sliderticks.png "Image showing a slider with slider ticks, with top part during Edit and bottom part during play")
+
+A slider is composed of a starting circle point, spaced smaller circles known as slider ticks, reverse arrow points (if used, it will be treated as starting circle point instead; it is a proper slider in reverse), and an ending circle point. Each of those points on a slider will add one to the combo. Note that the starting circle point is worth 30 points, the slider ticks are worth 10 points each, the reverse arrow points are worth 30 points each, and the end circle point is worth 300 (or geki), 100 (or katu), or 50 points depending on how the slider was completed.
+
+Slider ticks only appears inside its own slider path; if the slider ticks are too close to the start or end circle as shown in the image above, it will be hidden inside the start or end circle. Hidden slider ticks still counts into combo and score, so it must be collected along with the visible slider ticks. If the slider has one or more reverse arrow points, then the slider ticks will reappear at the same place to be collected in reverse.
+
+If miss the timing to tap the starting circle point, miss the slider ticks, or miss the reverse arrow points, combo will break (it should trigger a combo break sound when the combo is high enough) but it is not considered a miss. However, if miss the ending circle point, combo does not break and does not increment by one. It is also not considered a miss; instead, a 100 (or katu for end of the combo) will be given for the entire slider, assuming at least the slider starting circle point done properly, and completed all the slider ticks/reverse arrow points when given. Notably, [Sudden Death](/wiki/Game_Modifiers) game mod will not trigger its effect of immediate game over when missing the ending circle point (since the combo did not break, the Sudden Death effect was not triggered).
+
+These situations, caused by a slider, are collectively called **sliderbreak**. A max combo play can be known by checking the result screen for the *Perfect* notice on the performance graph; not having the *Perfect* notice, especially without any miss, usually means there is one or more sliderbreak occurred during play.
+
+[Answer source with test example in gaming section of stackexchange](https://gaming.stackexchange.com/questions/221663/i-fcd-a-song-why-is-my-combo-lower-than-people-on-the-high-scores)
+
+### osu!taiko <!-- RSF | cleaned-up: false -->
+
+#### What does "Use Taiko skin for Taiko mode" in `Options` under `Skin` section do?
+
+The button only works if a folder named `taiko` (capitalisation does not matter) inside the `Skins` folder of the `osu!` file directory existed.
+
+When enabled, it will use the `taiko` folder's skin elements when playing in osu!taiko, regardless of current skin's taiko elements. If the `taiko` folder was not found, or disabled, it will use the current skin's taiko elements when available; default if all/certain taiko skin element was not found.
+
+**Ancient trivia note:** `taiko` folder used to hold *[Taiko by LuiginHann](https://osu.ppy.sh/community/forums/topics/41319)* skin, which could be downloaded from the now-deprecated `osume.exe` (an osu! updater when osu! need to update) under Skin tab. As the button does not check whether the folder contains elements from *LuigiHann's skin*, it was quickly noted by the community and used as a personal global osu!taiko skin folder.
