@@ -216,3 +216,27 @@ Try using another proxy or VPN provider. But if all else fails, send in a suppor
 If you are not using any of the above, then you will need to send in a support ticket, as your connection has likely been blacklisted in error.
 
 Tor (The Onion Router) or networks associated with the Tor relay will not connect to the game servers, for the most part. We do this to avoid malicious use, as these types of networks are typically associated with [ill-intented purposes](https://en.wikipedia.org/wiki/Tor_(anonymity_network)#Usage "Wikipedia").
+
+---
+
+## FAQ
+
+### I've never played this "Ouendan" thing, so what is it? <!-- Gameplay -->
+
+***[Osu! Tatakae! Ouendan](https://en.wikipedia.org/wiki/Osu!_Tatakae!_Ouendan "Wikipedia")* is a rhythm game for the *Nintendo DS*.**
+
+It's the initial game that osu! is based off of! The gameplay consists of only 3 elements: tapping circles on the touchscreen, dragging a ball across a fixed path, and rotating a spinner very fast. All of these elements are timed to covers of popular Japanese songs. Below shows what the gameplay looks like.
+
+![Gameplay example of Osu! Tatakae! Ouendan in Nintendo DS](/wiki/shared/Ouendan.jpg "Gameplay example of Osu! Tatakae! Ouendan in Nintendo DS")
+
+The gameplay circles can be seen on the bottom screen, and the story on the top screen. Each stage is basically a self-contained story about a person in trouble. That's where the *Ouendan* (cheer squad) come in. Through the magical power of male cheerleading, the player taps on to the beat to cheer and help the people in trouble.
+
+### How do I play osu!?
+
+*Full explanation: [osu!](/wiki/Game_Modes/osu!)*
+
+**First, try paying close attention to the tutorial beatmap that should've been included with your download of osu!.**
+
+If you cannot find the tutorial beatmap, you can re-download it [here](https://osu.ppy.sh/beatmapsets/3756#osu/22538).
+
+While most players may not have a touchscreen at their disposal, osu! was made to be playable with a normal mouse, as well as any creative variations of input device usage (e.g., tablets or joysticks). You can find other common play styles in the [play styles](/wiki/Play_Styles) page. If you're new to osu! and are wondering how to play, you can play the tutorial [beatmap](/wiki/Beatmaps) or go to the [game modes](/wiki/Game_Modes) page and select your preferred game mode to learn more!
