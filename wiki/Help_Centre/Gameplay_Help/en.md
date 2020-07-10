@@ -257,4 +257,15 @@ Click on the `Mode` button to open up a list of game modes available on osu!. Th
 
 There's absolutely no difference in any way when comparing a Level 100 player against a Level 1 player, except for the player's own skills and experience of the [game mode](/wiki/Game_Modes) in question. There's no handicap for lower-level players, and nor is there any advantage for the higher-level players (except maybe personal experience).
 
+#### How do I change the default keyboard key input for my game mode of choice?
+
+*Full explanation: [Options](/wiki/Options)*
+
+**You can change the key inputs in the `Options` sidebar**
+
+![Options sidebar with quickicons](/wiki/shared/Options_quickicons.jpg "Options quickicons")
+
+You change the default keyboard key input from the `Input` section in the `Options` sidebar (as shown above), under the `Keyboard` section (as shown below).
+
+![Options keyboard section](/wiki/shared/Options_keyboard.jpg "Options Input icon, Keyboard section")
 Level is be based on total score accumulated when online with an account, regardless of pass or fail on the beatmap. You can find the given formula [here](/wiki/Score).
