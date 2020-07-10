@@ -257,7 +257,7 @@ Click on the `Mode` button to open up a list of game modes available on osu!. Th
 
 There's absolutely no difference in any way when comparing a Level 100 player against a Level 1 player, except for the player's own skills and experience of the [game mode](/wiki/Game_Modes) in question. There's no handicap for lower-level players, and nor is there any advantage for the higher-level players (except maybe personal experience).
 
-#### How do I change the default keyboard key input for my game mode of choice?
+### How do I change the default keyboard key input for my game mode of choice?
 
 *Full explanation: [Options](/wiki/Options)*
 
@@ -268,4 +268,16 @@ There's absolutely no difference in any way when comparing a Level 100 player ag
 You change the default keyboard key input from the `Input` section in the `Options` sidebar (as shown above), under the `Keyboard` section (as shown below).
 
 ![Options keyboard section](/wiki/shared/Options_keyboard.jpg "Options Input icon, Keyboard section")
+
+### Game over? Where did I mess up? <!-- Gameplay -->
+
+**To analyze your failed play, you can watch a replay of that play.**
+
+*Full explanation: [Replay](/wiki/Replay)*
+
+After failing a beatmap, you can press the `F1` key to replay the currently failed play. Watching this replay may help you better understand where and why you messed up. 
+
+The replay will end when the screen darkens, with an osu!logo in the middle, rather than the game over screen. To watch the replay again, you can hold the grave/tilde (`` ` ``/`~` respectively) key or `Ctrl`+`R` (by default). You can change this key in the `Options` sidebar inside `Change keyboard bindings` as `Quick Retry (hold briefly)`).
+
+Due to the nature of the fail replay screen, use the `Esc` key to return to Song Selection. Quick retrying the play (as in, the *actual play*) of the beatmap in this state is not possible. It currently works in Solo mode only when given the game over screen. But please keep in-mind that **this replay will not be saved nor allowed to be exported.** To record the failed replay, you'll have to use an external third-party software.
 Level is be based on total score accumulated when online with an account, regardless of pass or fail on the beatmap. You can find the given formula [here](/wiki/Score).
