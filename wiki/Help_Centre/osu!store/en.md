@@ -1,4 +1,4 @@
-# osu!store and merchandise help
+# osu!store (help page)
 
 *For a list of all Help Centre articles, see: [Help Centre](/wiki/Help_Centre)*
 
