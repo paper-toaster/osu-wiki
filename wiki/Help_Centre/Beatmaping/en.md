@@ -1,4 +1,4 @@
-# Beatmapping and editor help
+# Beatmapping (help page)
 
 *For a list of all Help Centre articles, see: [Help Centre](/wiki/Help_Centre)*
 
