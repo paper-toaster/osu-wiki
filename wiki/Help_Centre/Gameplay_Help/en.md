@@ -240,3 +240,13 @@ The gameplay circles can be seen on the bottom screen, and the story on the top 
 If you cannot find the tutorial beatmap, you can re-download it [here](https://osu.ppy.sh/beatmapsets/3756#osu/22538).
 
 While most players may not have a touchscreen at their disposal, osu! was made to be playable with a normal mouse, as well as any creative variations of input device usage (e.g., tablets or joysticks). You can find other common play styles in the [play styles](/wiki/Play_Styles) page. If you're new to osu! and are wondering how to play, you can play the tutorial [beatmap](/wiki/Beatmaps) or go to the [game modes](/wiki/Game_Modes) page and select your preferred game mode to learn more!
+
+### What's this Taiko/Catch/Mania thing I keep hearing about?
+
+**Taiko, Mania, and Catch the Beat are game modes available to play in osu!.**
+
+osu! actually has 4 separate [game modes](/wiki/Game_Modes): [osu!standard](/wiki/Game_Modes/osu!), [osu!taiko](/wiki/Game_Modes/osu!taiko), [osu!catch](/wiki/Game_Modes/osu!catch), and [osu!mania](/wiki/Game_Modes/osu!mania)! All 4 are based off of different types of rhythm games and they canbe accessed via the `Mode` button in the song selection screen.
+
+![Mode change interface](/wiki/shared/Interface_mode.png "Mode toolbox in Song Selection (Solo)")
+
+Click on the `Mode` button to open up a list of game modes available on osu!. Then, click on your desired game mode, and osu! will switch to that gameplay mode style, along with a relevant leaderboard change. Alternatively, you can use a shortcut to select a game mode by pressing `Ctrl` + the corresponding number. osu!standard uses the `1` key, osu!taiko use `2`, osu!catch uses `3`, and osu!mania uses `4`.
