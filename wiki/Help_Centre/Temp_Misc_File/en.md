@@ -352,3 +352,9 @@ There two different binding-styles, *Symmetrical* and *Left to Right*.
 Performance points(pp) is a ranking metric aiming to be more contextually relevant to a continuous game like osu!. It aims to shift the focus from being on the amount of time played to the actual skill of the player. Performance points is heavily based on map difficulty, determined by a unique algorithm in every game mode. Based on this difficulty alone, each of the scores will be rated and assigned a pp value. Performance rank is predominantly based on performance on individual maps. The easiest way to improve it is to score high on difficult songs, and playing more songs. Do note that game modes are counted separately; playing osu!, osu!taiko, osu!catch, or osu!mania will raise the pp for the respective game mode.
 
 For any questions regarding pp, please refer to the [wiki page for pp first](/wiki/Performance_Points).
+
+#### Why is my profile stats different ingame? <!-- RSF | cleaned-up: false -->
+
+Keep in mind that osu! has four game modes so you might be looking at the wrong game mode.
+
+![Profile_Mode_Buttons](img/Profile_mode_buttons.gif "Profile mode buttons")
