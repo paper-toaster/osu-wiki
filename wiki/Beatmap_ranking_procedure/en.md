@@ -1,4 +1,4 @@
-# Beatmap ranking procedure
+# Beatmap ranking procedure ooo ooo aaa aaa, me monkey man
 
 [Beatmaps](/wiki/Beatmaps) can be promoted to the community by following the beatmap ranking procedure and entering the [Ranked](/wiki/Beatmaps#ranked) category.
 
