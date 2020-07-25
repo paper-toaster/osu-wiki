@@ -32,8 +32,6 @@ This refill event will be signaled to the player with the ready sound (`readysou
 
 ### osu!standard
 
-**Reduces overall difficulty: larger circles, more forgiving [HP](/wiki/Beatmapping/Health), less accuracy required.**
-
 In [osu!standard](wiki/Game_Modes/osu!), the Easy mod decreases [circle size (CS)](/wiki/Beatmap_Editor/Song_Setup#circle-size), [approach rate (AR)](/wiki/Beatmapping/Approach_rate), [overall difficulty (OD)](/wiki/Beatmap_Editor/Song_Setup#overall-difficulty), and [HP drain](/wiki/Beatmap_Editor/Song_Setup#hp-drain-rate) (HP) by half.
 
 ![EZ making maps easier](/img/GM_EZ1.jpg "Comparison of a normal play vs. play with the Easy mod")
@@ -48,13 +46,11 @@ Although, it is worth mentioning that many players do not find the use of the Ea
 
 In osu!taiko, the Easy mod decreases the [slider velocity](/wiki/Glossary#slider-velocity), overall difficulty (OD) and HP drain by half.
 
-*Note: The amount of hits that are required to finish a [spinner](/wiki/Hit_object/Spinner) is reduced to the reduction of the OD.*
+*Note: The amount of hits that are required to finish a [spinner](/wiki/Hit_object/Spinner) is reduced to the value of the OD.*
 
 Unlike the other game modes the reudces note score requirement to gain health in osu!taiko makes the life bar fill up much more quickly to replace the two additional "lives" as it impossible to fail in the middle of a song in taiko. 
 
 ### osu!catch
-
-**Reduces overall difficulty: more forgiving HP drain, less accuracy required.**
 
 In [osu!catch](/wiki/Game_Modes/osu!catch), the effects the same as in osu!standard with a few parallels and adjustments: all fruits fall slower (increased AR), the camera is "zoomed in" (increased CS), the two additional "lives" are granted.
 
@@ -64,9 +60,7 @@ Despite only using one axis, the fruits' larger size and slower falling rate may
 
 ### osu!mania
 
-**Reduces overall difficulty: more forgiving HP drain, less accuracy required.**
-
-In [osu!mania](/wiki/Game_Modes/osu!mania), the effects are the same as in osu!taiko, except for the fact that the two additional "lives" *are* granted to the player, and that the slider velocity and default key count will still be the same.
+In [osu!mania](/wiki/Game_Modes/osu!mania), the effects are the same as in osu!taiko, except for the fact that the two additional lives *are* granted to the player, and that the slider velocity and default key count will still be the same.
 
 
 ## Trivia
