@@ -1,6 +1,6 @@
 
 <!-- TODO:
-- Add DC and TP sections -->
+- Add TP sections -->
 
 # Summary of game modifiers
 
@@ -43,7 +43,7 @@
 
 *Notice: This table only affects beatmaps converted from osu!standard to osu!mania during play, not on osu!mania-specific beatmaps!*
 
-|  | 1K | 2K | 3K | 4K | 5K | 6K | 7K | 8K | 9K | 
+| Default/Modifier | 1K | 2K | 3K | 4K | 5K | 6K | 7K | 8K | 9K | 
 | :-: | --: | --: | --: | --: | --: | --: | --: | --: | --: |
 | 4K | 0.78x | 0.82x | 0.86x | 1.00x | 0.90x | 0.90x | 0.90x | 0.90x | 0.90x |
 | 5K | 0.74x | 0.78x | 0.82x | 0.86x | 1.00x | 0.90x | 0.90x | 0.90x | 0.90x |
@@ -54,7 +54,7 @@
 
 *Notice: This table only affects beatmaps converted from osu!standard to osu!mania during play, not on osu!mania-specific beatmaps. And as such, the Co-Op mod gives no penalty on osu!mania-specific beatmaps.*
 
-|  | 1K | 2K | 3K | 4K | 5K | 6K | 7K | 8K | 9K |
+| Default/Modifier | 1K | 2K | 3K | 4K | 5K | 6K | 7K | 8K | 9K |
 | :-: | --: | --: | --: | --: | --: | --: | --: | --: | --: |
 | 4K | 0.82x | 1.00x | 0.90x | 0.90x | 0.90x | 0.90x | 0.90x | 0.90x | 0.90x |
 | 5K | 0.78x | 0.86x | 0.90x | 0.90x | 0.90x | 0.90x | 0.90x | 0.90x | 0.90x |
