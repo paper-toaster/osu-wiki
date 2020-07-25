@@ -23,7 +23,7 @@ tags:
 
 ## Description
 
-*Notice: all *xK mods do not work on osu!mania-specific beatmaps. Using the 1K, 2K, or 3K mod will result in an unranked play.*
+*Notice: all *x*K mods do not work on osu!mania-specific beatmaps. Using the 1K, 2K, or 3K mod will result in an unranked play.*
 
 The **4K** (collectively called ***x*K**) is a [game modifier](/wiki/Game_Modifiers) that will force all *converted* [osu!mania](/wiki/Game_Modes/osu!mania) [beatmaps](/wiki/Beatmaps) to use the selected K setting. This ignores the supposed K setting of the beatmap at the cost of decreasing the Score Multiplier, depending on the K difference. 
 
