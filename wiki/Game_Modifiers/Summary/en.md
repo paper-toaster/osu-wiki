@@ -35,7 +35,7 @@
 | ![Random](/wiki/shared/mods/RD.png) | Random (RD) | • ![][o!m]: 0.00x | • ![][o!m]: `Shuffle around the notes!` |
 | ![Auto](/wiki/shared/mods/AT.png) | Auto (AT) | • ![][o!s] ![][o!t] ![][o!c] ![][o!m]: 1.00x | • ![][o!s] ![][o!t] ![][o!c] ![][o!m]: `Watch a perfect automated play through the song.` |
 | ![Cinema](/wiki/shared/mods/CM.png) | Cinema (CM) | • ![][o!s] ![][o!t] ![][o!c] ![][o!m]: 1.00x |  |
-| ![ScoreV2](/wiki/shared/mods/SV2.png) | ScoreV2 (SV2) | • ![][o!s] ![][o!t] ![][o!c] ![][o!m]: 1.00x | `Try the future scoring system. ** UNRANKED **` | 
+| ![ScoreV2](/wiki/shared/mods/SV2.png) | ScoreV2 (SV2) | • ![][o!s] ![][o!t] ![][o!c] ![][o!m]: 1.00x | • ![][o!s] ![][o!t] ![][o!c] ![][o!m]: `Try the future scoring system. ** UNRANKED **` | 
 
 <!-- | ![Target Practice](/wiki/shared/mods/TP.png) | Target Practice (TP) | - | - | -->
 
