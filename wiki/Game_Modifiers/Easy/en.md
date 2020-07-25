@@ -34,8 +34,6 @@ This refill event will be signaled to the player with the ready sound (`readysou
 
 In [osu!standard](wiki/Game_Modes/osu!), the Easy mod decreases [circle size (CS)](/wiki/Beatmap_Editor/Song_Setup#circle-size), [approach rate (AR)](/wiki/Beatmapping/Approach_rate), [overall difficulty (OD)](/wiki/Beatmap_Editor/Song_Setup#overall-difficulty), and [HP drain](/wiki/Beatmap_Editor/Song_Setup#hp-drain-rate) (HP) by half.
 
-![EZ making maps easier](/img/GM_EZ1.jpg "Comparison of a normal play vs. play with the Easy mod")
-
 Although, it is worth mentioning that many players do not find the use of the Easy mod to be helpful in decreasing the relative difficulty of beatmaps, especially high-intensity ones. The argument for this goes that the decreased approach rate creates a messy, difficulty-to-read situation where the actual speed of the beatmap is not very well reflected visually (dispalayed below)
 
 <!-- placeholder image -->
