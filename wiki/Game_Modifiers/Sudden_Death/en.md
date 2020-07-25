@@ -19,9 +19,9 @@ tags:
 
 - Abbreviation: SD
 - Type: Difficulty Increasing
-- Score Multiplier: <!--placeholder (numbers may vary from game mode to game mode -->
+- Score Multiplier: 1.00x
 - Default shortcut key: `S`
-- Caption: <!--placeholder-->
+- Caption: `Miss a note and fail.`
 - Compatible game modes: ![][o!s] ![][o!t] ![][o!c] ![][o!m]
 - Variant: [Perfect](/wiki/Game_Modifiers/Perfect)
 
@@ -31,7 +31,7 @@ The **Sudden Death** mod is a [game modifier](/wiki/Game_Modifiers) that causes 
 
 To be more specific, the Sudden Death mod will only fail the beatmap if any of the following happen:
 
-- Missing a note (circle, [sliderhead](/wiki/Hit_object/Sliderhead))
+- Missing a note
 - Failing to collect a slider tick (osu!standard only)
 - Failing to complete a spinner
 
