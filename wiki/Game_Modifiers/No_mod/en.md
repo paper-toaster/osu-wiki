@@ -9,7 +9,8 @@ tags:
   - normal mod
 ---
 
-<!-- unfinished stub -->
+<!-- TODO:
+- add more info regarding usage in tournaments. preferably formatted as: ## Usage | ### Tournaments | ### Community -->
 
 # No mod (term)
 
