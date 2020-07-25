@@ -5,9 +5,6 @@ tags:
   - score
 ---
 
-<!-- Notes:
-- an empty HTML comment stands as a placeholder -->
-
 # Score Multiplier
 
 *See also: [Game Modifiers](/wiki/Game_Modifiers)*
