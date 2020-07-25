@@ -4,7 +4,7 @@ tags:
   - half time
   - mod
   - game modifier
-  - HR
+  - HT
 ---
 
 # Half Time (mod)
@@ -17,7 +17,7 @@ tags:
 
 - Abbreviation: HT 
 - Type: Difficulty Reduction
-- Score Multiplier: 0.50x
+- Score Multiplier: • ![][o!s] ![][o!t] ![][o!c]: 0.30x • ![][o!m]: 0.50x
 - Default shortcut key: `E`
 - Caption: `Less zoom.`
 - Compatible game modes: ![][o!s] ![][o!t] ![][o!c] ![][o!m]
