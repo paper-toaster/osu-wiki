@@ -4,7 +4,7 @@ tags:
  - game modifier
  - overview
  - list of mods
- ---
+---
  
 <!-- TODO:
 - add daycore mod -->
@@ -53,7 +53,7 @@ Each of the mods below listed will have their compitable game modes' icon (![][o
 - [Relax (RL)](/wiki/Game_Modifiers/Relax) ![][o!s] ![][o!t] ![][o!c]
 - [Autopilot (AP)](/wiki/Game_Modifiers/Autopilot) ![][o!s] ![][o!t] ![][o!c]
 - [Spun Out (SO)](/wiki/Game_Modifiers/Spun_Out) ![][o!s]
-- [4k (xK)](/wiki/Game_Modifiers/4k) ![][o!m]
+- [4K (xK)](/wiki/Game_Modifiers/4k) ![][o!m]
 - [Co-op (CP)](/wiki/Game_Modifiers/Co-op) ![][o!m]
 - [Mirror](/wiki/Game_Modifiers/Mirror) ![][o!m]
 - [Random (RD)](/wiki/Game_Modifiers/Random) ![][o!m]
@@ -66,7 +66,7 @@ Each of the mods below listed will have their compitable game modes' icon (![][o
 
 *Note: these mods were used and available some time ago, but are now unavailable.*
 
-- [10k](/wiki/Game_Modifiers/10k) ![][o!m]
+- [10K](/wiki/Game_Modifiers/10k) ![][o!m]
 - [Fade Out](/wiki/Game_Modifiers/Fad_Out) ![][o!m]
 - [No Video](/wiki/Game_Modifiers/No_Video) ![][o!s] ![][o!t] ![][o!c] ![][o!m]
 
