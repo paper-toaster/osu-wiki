@@ -28,15 +28,9 @@ The **Easy** mod is a [game modifier](/wiki/Game_Modifiers) that attempts to eas
 
 In all [game modes](/wiki/Game_Modes) except [osu!taiko](/wiki/Game_Modes/osu!taiko), the Easy mod wil grant the player two additional "lives" during a play if the [life bar](/wiki/Glossary#life-bar) drops to zero. In the case that this does happen, the game will pause to slowly refill the life bar to about 80% and remove one "life" from the player's life count. No sound will be played during this effect.
 
-This refill event will be signaled to the player with the ready sound (`readysound.wav`). Once the life bar has been finished being refilled, the player will be singaled again but with the go sound (`gos.wav`). After which the beatmap will then resume play and let the player continue. If the player has no remaining lives and the life bar has dropped to zero, the play will fail like normal.
+This refill event will be signaled to the player with the ready sound (`readysound.wav`). Once the life bar has been finished being refilled, the player will be singaled again but with the go sound (`gosound.wav`). After which the beatmap will then resume play and let the player continue. If the player has no remaining lives and the life bar has dropped to zero, the play will fail like normal.
 
-### Trivia
-
-- When watching a replay where an extra life is used, the health refill animation will be ignored and the replay will continue as if the player was playing with the [No Fail](/wiki/Game_Modifiers/No_Fail) mod on.
-- In [Multi](/wiki/Multi) mode, the effect of "lives" will not work in [Tag Co-op or Tag Team Vs.](/wiki/Multi#tag-coop-tag-team-vs) team mode.
-- The Easy mod will cancel out the [Hard Rock](/wiki/Game_Modifiers/Hard_Rock) mod, and vice-versa.
-
-## osu!standard
+### osu!standard
 
 **Reduces overall difficulty: larger circles, more forgiving [HP](/wiki/Beatmapping/Health), less accuracy required.**
 
@@ -48,7 +42,7 @@ Although, it is worth mentioning that many players do not find the use of the Ea
 
 <!-- placeholder image -->
 
-## osu!taiko
+### osu!taiko
 
 **Reduces overall difficulty: notes move slower, less accuracy required.**
 
@@ -58,7 +52,7 @@ In osu!taiko, the Easy mod decreases the [slider velocity](/wiki/Glossary#slider
 
 Unlike the other game modes the reudces note score requirement to gain health in osu!taiko makes the life bar fill up much more quickly to replace the two additional "lives" as it impossible to fail in the middle of a song in taiko. 
 
-## osu!catch
+### osu!catch
 
 **Reduces overall difficulty: more forgiving HP drain, less accuracy required.**
 
@@ -68,11 +62,18 @@ Despite only using one axis, the fruits' larger size and slower falling rate may
 
 <!-- placeholder image -->
 
-## osu!mania
+### osu!mania
 
 **Reduces overall difficulty: more forgiving HP drain, less accuracy required.**
 
 In [osu!mania](/wiki/Game_Modes/osu!mania), the effects are the same as in osu!taiko, except for the fact that the two additional "lives" *are* granted to the player, and that the slider velocity and default key count will still be the same.
+
+
+## Trivia
+
+- When watching a replay where an extra life is used, the health refill animation will be ignored and the replay will continue as if the player was playing with the [No Fail](/wiki/Game_Modifiers/No_Fail) mod on.
+- In [Multi](/wiki/Multi) mode, the effect of "lives" will not work in [Tag Co-op or Tag Team Vs.](/wiki/Multi#tag-coop-tag-team-vs) team mode.
+- The Easy mod will cancel out the [Hard Rock](/wiki/Game_Modifiers/Hard_Rock) mod, and vice-versa.
 
 [o!s]: /wiki/shared/mode/osu.png "osu!standard"
 [o!t]: /wiki/shared/mode/taiko.png "osu!taiko"
