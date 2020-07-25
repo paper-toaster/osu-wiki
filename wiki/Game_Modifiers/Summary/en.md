@@ -20,7 +20,7 @@
 | ![Half Time](/wiki/shared/mods/HT.png) | Half Time (HT) | • ![][o!s] ![][o!t] ![][o!c]: 0.30x • ![][o!m]: 0.50x | • ![][o!s] ![][o!t] ![][o!c] ![][o!m]: `Less zoom.` |
 | ![Hard Rock](/wiki/shared/mods/HR.png) | Hard Rock (HR) | • ![][o!s]: 1.12x ![][o!t]: 1.06x • ![][o!c]: 1.12x • ![][o!m]: 1.00x | • ![][o!s] ![][o!t] ![][o!c] ![][o!m]: `Everything just got a bit harder…` |
 | ![Sudden Death](/wiki/shared/mods/SD.png) | Sudden Death (SD) | • ![][o!s] ![][o!t] ![][o!c] ![][o!m]: 1.00x | • ![][o!s] ![][o!t] ![][o!c] ![][o!m]: `Miss a note and fail.`  |
-| ![Perfect](/wiki/shared/mods/PF.png) | Perfect (PF) | • ![][o!s] ![][o!t] ![][o!c] ![][o!m]: 1.00x | `SS or quit.` |
+| ![Perfect](/wiki/shared/mods/PF.png) | Perfect (PF) | • ![][o!s] ![][o!t] ![][o!c] ![][o!m]: 1.00x | • ![][o!s] ![][o!t] ![][o!c] ![][o!m]: `SS or quit.` |
 | ![Double Time](/wiki/shared/mods/DT.png) | Double Time (DT) | • ![][o!s]: 1.06x • ![][o!t]: 1.12x ![][o!c]: 1.06x • ![][o!m]: 1.00x | • ![][o!s] ![][o!t] ![][o!c] ![][o!m]: `Zoooooooooom.`  |
 | ![Nightcore](/wiki/shared/mods/NC.png) | Nightcore (NC) | • ![][o!s]: 1.06x • ![][o!t]: 1.12x ![][o!c]: 1.06x • ![][o!m]: 1.00x | • ![][o!s] ![][o!t] ![][o!c] ![][o!m]: `uguuuuuuuu` |
 | ![Hidden](/wiki/shared/mods/HD.png) | Hidden (HD) | • ![][o!s] ![][o!t] ![][o!c]: 1.06x • ![][o!m]: 1.00x | • ![][o!s]: `Play with no approach circles and fading notes for a slight score advantage.` • ![][o!t]: `The notes fade out before you hit them!` • ![][o!c] `Play with no approach circles and fading notes for a slight score advantage.` • ![][o!m]: `The notes fade out before you hit them!` |
