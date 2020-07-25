@@ -42,13 +42,11 @@ Although, it is worth mentioning that many players do not find the use of the Ea
 
 ### osu!taiko
 
-**Reduces overall difficulty: notes move slower, less accuracy required.**
-
-In osu!taiko, the Easy mod decreases the [slider velocity](/wiki/Glossary#slider-velocity), overall difficulty (OD) and HP drain by half.
+In [osu!taiko](/wiki/Game_Modes/osu!taiko), the Easy mod decreases the [slider velocity](/wiki/Glossary#slider-velocity), overall difficulty (OD) and HP drain by half.
 
 *Note: The amount of hits that are required to finish a [spinner](/wiki/Hit_object/Spinner) is reduced to the value of the OD.*
 
-Unlike the other game modes the reudces note score requirement to gain health in osu!taiko makes the life bar fill up much more quickly to replace the two additional "lives" as it impossible to fail in the middle of a song in taiko. 
+Unlike the other game modes, using the Easy mod in osu!taiko reudces note score requirement to gain health in osu!taiko makes the life bar fill up much more quickly to replace the two additional "lives" as it impossible to fail in the middle of a song in taiko. 
 
 ### osu!catch
 
