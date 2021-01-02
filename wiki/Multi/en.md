@@ -3,62 +3,43 @@ needs_cleanup: true
 ---
 <!-- TODO: needs a thorough review for writing style and organisation, this is one of the more awkward articles on the site -->
 
+<!--
+TODO (paper-toaster):
+- clear article of any placeholders (empty commnets)
+- spellcheck
+- check all headers and links
+- update all images
+-->
+
 # Multi
 
-Multi (also known as _Multiplayer_) was implemented on 03 June 2008 (2008-06-03) under osu! Public Release b335, and is a game mode in which up to sixteen(16) players can compete against each other on a single map decided by the host.
+**Multi** or **Multiplayer** is a game mode in which up to 16 players can compete against each other on a single map decided by the host. It has three different modes in which players can play competitively or cooperatively: [Team Mode](#team-mode), [Tag Coop](<!---->), and [Tag Team Versus](<!---->).
 
-The [osu!academy](/wiki/osu!academy) covered this topic in [Episode 6 (6:52)](https://www.youtube.com/watch?v=cyYRl-a5xII) along with the [Online Users Panel](/wiki/Chat_Console#extended-chat-console).
+Players can find the Multi mode by pressing the `Multi` button under `Play` on the main menu, or by pressing the `P` key followed by the `M` key on the main menu to enter through keyboard shortcuts.
 
-## How to enter
-
-### Minimum requirements
-
-![](/wiki/shared/Beatmaps_peppy.jpg "Official image on beatmap extraction.")
-
-- Decent online connection.
-- An osu!account signed in to Bancho (should be done automatically during in-game osu!account sign-in)
-- Knowing [how to transfer beatmaps without leaving the Match Setup.](/wiki/Beatmaps).
-
-### Ways to enter
-
-From the main menu:-
-
-- Press `Play` then `Multi`; or
-- Press `P` then `M`. (from Keyboard)
-
-If the connection request with Bancho was successful, the player will be directed to the **lobby**, the core of the Multi-play.
-
-### Notes
-
-- Keep in mind that downloading times can range from a few seconds to few minutes onwards depending on the player's connection speed.
-- Losing connection to Bancho will direct the player back to main menu.
-  - When playing a match, a "Quit" will be given on the player box.
-  - To re-enter the Lobby, wait until the reconnection to Bancho was successful and click on `Multi` again.
-    - If the connection problem persists, the player should rectify the connection device used to proper working order.
-- If the player is in the **cuttingedge** build, the in-game osu!account must have an active [osu!supporter](/wiki/osu!supporter) tag to enter.
-- To access the Options screen while in a Match Setup, `Ctrl`+`O`.
+In order to access multiplayer functions, users must be connected to the internet and be signed in to their osu! account. If these requirements are fulfilled, upon entering, users will be directed to the *lobby*.
 
 ## Lobby
 
-![](img/Multi_lobby.jpg "Example of a typical day in the Multi's Lobby")
+![](img/multi_lobby.jpg "Example of a typical day in the Multi lobby")
 
-The lobby will show all the currently available Match Setup in Bancho.
+The lobby is the main page of Multi mode and will show all the currently available [matches](<!---->) that are availble. This list of matches can be filtered through the toolbar at the top left to better help users find the matches they want quicker.
 
-At the top contains the filter options at the left and the jukebox at the right.
-
-The filter options provided are shown below; reading from left-to-right, top-to-bottom:-
+The aforementioned filter options are listed and described below.
 
 | Title | Description |
 | :-: | :-- |
-| `All`/`osu!`/`osu!taiko`/`osu!catch`/ `osu!mania` | Self-explanatory; show only Match Setup with the **currently specified game mode**. |
-| `Owned Beatmaps` | Show only Match Setup which the player **has the beatmap** when enabled. |
-| `Show Full` | Show Match Setup with **full slots**. Do note that the Match Setup cannot be entered as long as there are no available slots in the Match Setup. |
-| `Search` | Click on the searchbar and type in the title/beatmap used for the Match Setup or the host/player name to **find the Match Setup with the specified search term**. When using the searchbar, all filters will be ignored temporarily except `Show In-progress` (the only available filter option when the searchbar was used) until the searchbar is empty. |
-| `Games with Friends` | **Only show Match Setup hosted/entered by the friends of the player** when enabled. This filter option will overwrites all other filter options when enabled. |
-| `Show Locked` | Show **locked** Match Setup when enabled. Do note that to enter the Match Setup, a proper password must be given. |
-| `Show In-progress` | Show **currently-playing** Match Setup when enabled. If the Match Setup contains empty slots, it is possible to enter the Match Setup. The player should wait patiently until the currently-playing match concludes and prepare for the next match instead. The Match Setup text colour will change to grey with `(In progress)` appended to the back of the title until the match ends. |
+| `All`/`osu!`/`osu!taiko`/`osu!catch`/ `osu!mania` | Only displays matches that are made for the specified [**game mode**](/wiki/Game_mode); `All` displays all matches regardless of game mode |
+| `Owned Beatmaps` | Only displays matches that are playing or listening to beatmaps that the user already owns |
+| `Show Full` | Displays matches that have all available [slots](<!---->) filled |
+| `Search` | Only displays matches that are hosted by a user or playing/listening to a beatmap that is specified by the user; overwrites all other filters except `Show In-progress` when enabled |
+| `Games with Friends` | Only displays matches that the user's friends are in; overwrites all other filters when enabled |
+| `Show Locked` | Displays [locked](<!---->) matches when enabled |
+| `Show In-progress` | Displays matches that are currently playing a beatmap |
 
 ---
+
+By default, the lobby will filter by all game modes, and the `Show locked` and `Show In-progress` filters will be enabled.
 
 At the middle are rows of available Match Setup after being filtered.
 
@@ -71,6 +52,8 @@ Each row contains a Match Setup, with the explanation split between left and rig
   - No colour means the slot is locked.
 
 To enter a Match Setup, click on one of the desired row.
+
+The Match Setup text colour will change to grey with `(In progress)` appended to the back of the title until the match ends.
 
 ![](img/Multi_lobby_locked.jpg "An example of a locked Match Setup")
 
@@ -89,6 +72,20 @@ The three buttons above the Chat Console are special commands a player can use w
 | `Quick Join` | Place the player to an **available Match Setup** _randomly_ based on **current pp rank range**. |
 
 The [Chat Console](/wiki/Chat_Console) will be available at the bottom of the screen and connected to `#lobby` by default.
+
+![](/wiki/shared/Beatmaps_peppy.jpg "Official image on beatmap extraction.")
+
+If the connection request with Bancho was successful, the player will be directed to the **lobby**, the core of the Multi-play.
+
+### Notes
+
+- Keep in mind that downloading times can range from a few seconds to few minutes onwards depending on the player's connection speed.
+- Losing connection to Bancho will direct the player back to main menu.
+  - When playing a match, a "Quit" will be given on the player box.
+  - To re-enter the Lobby, wait until the reconnection to Bancho was successful and click on `Multi` again.
+    - If the connection problem persists, the player should rectify the connection device used to proper working order.
+- If the player is in the **cuttingedge** build, the in-game osu!account must have an active [osu!supporter](/wiki/osu!supporter) tag to enter.
+- To access the Options screen while in a Match Setup, `Ctrl`+`O`.
 
 ## New game
 
@@ -430,3 +427,5 @@ For Tag Team Vs result screen, refer to Team Vs's result screen explanation.
 - Match Setup used to only allows up to a total of 8 players only.
 - osu!mania game mode was noted as `3` in Lobby for players that have not yet updated their osu! to the latest release patch (which enables osu!mania mode with no ranking support yet).
 - No Video was the _only_ game modifier allowed for the players to use; however, it was removed in favour of its placement in the Visual Settings.
+- Multi was implemented on 03 June 2008 (2008-06-03) under osu! Public Release b335x
+- The [osu!academy](/wiki/osu!academy) covered this topic in [Episode 6 (6:52)](https://www.youtube.com/watch?v=cyYRl-a5xII) along with the [Online Users Panel](/wiki/Chat_Console#extended-chat-console).
