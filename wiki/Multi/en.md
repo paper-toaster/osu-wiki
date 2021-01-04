@@ -23,7 +23,7 @@ In order to access multiplayer functions, users must be connected to the interne
 
 ![](img/multi_lobby.jpg "Example of a typical day in the Multi lobby")
 
-The lobby is the main page of Multi mode and will show all the currently available [matches](<!---->) that are availble. This list of matches can be filtered through the toolbar at the top left to better help users find the matches they want quicker.
+The lobby is the main page of Multi mode and will show all the currently available [matches](<!---->) that are availble. This list of matches can be filtered through the toolbar at the top-left to better help users find the matches they want quicker.
 
 The aforementioned filter options are listed and described below.
 
@@ -37,15 +37,15 @@ The aforementioned filter options are listed and described below.
 | `Show Locked` | Displays [locked](<!---->) matches when enabled |
 | `Show In-progress` | Displays matches that are currently playing a beatmap |
 
----
-
 By default, the lobby will filter by all game modes, and the `Show locked` and `Show In-progress` filters will be enabled.
 
-At the middle are rows of available Match Setup after being filtered.
+---
 
-Each row contains a Match Setup, with the explanation split between left and right side for easier reading:-
+Below the filters is the list of currently available matches. The list will typically display between 4–5 matches at one time, and can be scrolled up or down through click-and-drag or mousewheel operations. Each of these listings contain elements that describe information about the match to the user. These elements are described in detail below:
 
-- On the left side, there is the game mode symbol, game mode name with (Team Mode) enclosed in brackets, number of players inside over number of players allowed, and rank difference from highest to lowest
+- The *game mode symbol* indicates which game mode ([osu!standard](/wiki/Game_mode/osu!), [osu!taiko](/wiki/Game_mode/osu!taiko), [osu!catch](/wiki/Game_mode/osu!catch), or [osu!mania](/wiki/Game_mode/osu!mania)) the match is playing in. These will be indicated via the following <!--LEFT OFF HERE-->
+
+name with (Team Mode) enclosed in brackets, number of players inside over number of players allowed, and rank difference from highest to lowest
 - On the right side, there is a large host profile image and smaller players profile image placement in the Match Setup along with the Match Setup's name and the beatmapset's name with \[beatmap/difficulty\] enclosed in square brackets to be played for this match.
   - Red colour means the slot is taken (by a player).
   - Green colour means the slot is available.
