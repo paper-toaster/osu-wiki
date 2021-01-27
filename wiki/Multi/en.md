@@ -4,7 +4,7 @@ needs_cleanup: true
 <!-- TODO: needs a thorough review for writing style and organisation, this is one of the more awkward articles on the site -->
 
 <!--
-TODO (paper-toaster):
+TODO (MilkyIQ):
 - clear article of any placeholders (empty commnets)
 - spellcheck
 - check all headers and links
@@ -25,6 +25,8 @@ In order to access multiplayer functions, users must be connected to the interne
 
 The lobby is the main page of Multi mode and will show all the currently available [matches](<!---->) that are availble. This list of matches can be filtered through the toolbar at the top-left to better help users find the matches they want quicker.
 
+*Note: By default, the lobby will filter by all game modes, and the `Show locked` and `Show In-progress` filters will be enabled.*
+
 The aforementioned filter options are listed and described below.
 
 | Title | Description |
@@ -37,29 +39,26 @@ The aforementioned filter options are listed and described below.
 | `Show Locked` | Displays [locked](<!---->) matches when enabled |
 | `Show In-progress` | Displays matches that are currently playing a beatmap |
 
-By default, the lobby will filter by all game modes, and the `Show locked` and `Show In-progress` filters will be enabled.
-
 ---
 
-Below the filters is the list of currently available matches. The list will typically display between 4–5 matches at one time, and can be scrolled up or down through click-and-drag or mousewheel operations. Each of these listings contain elements that describe information about the match to the user. These elements are described in detail below:
+Below the filters is the list of currently available matches. The list displays between 4–5 matches at one time and can be scrolled up or down through click-and-drag or mousewheel operations. Each of these listings contain elements that describe information about the match to the user, which are described in detail below:
 
-- The *game mode symbol* indicates which game mode ([osu!standard](/wiki/Game_mode/osu!), [osu!taiko](/wiki/Game_mode/osu!taiko), [osu!catch](/wiki/Game_mode/osu!catch), or [osu!mania](/wiki/Game_mode/osu!mania)) the match is playing in. These will be indicated via the following <!--LEFT OFF HERE-->
+*Note: If a match is currently in the middle of playing a beatmap, the text in its listing will change to grey with the text `(In progress)` appended to the end of the match title.*
 
-name with (Team Mode) enclosed in brackets, number of players inside over number of players allowed, and rank difference from highest to lowest
-- On the right side, there is a large host profile image and smaller players profile image placement in the Match Setup along with the Match Setup's name and the beatmapset's name with \[beatmap/difficulty\] enclosed in square brackets to be played for this match.
-  - Red colour means the slot is taken (by a player).
-  - Green colour means the slot is available.
-  - No colour means the slot is locked.
-
+- The *game mode symbol* indicates which game mode (![](wiki/shared/mode/osu.png) [osu!standard](/wiki/Game_mode/osu!), ![](wiki/shared/mode/taiko.png) [osu!taiko](/wiki/Game_mode/osu!taiko), ![](wiki/shared/mode/catch.png) [osu!catch](/wiki/Game_mode/osu!catch), or ![](wiki/shared/mode/mania.png) [osu!mania](/wiki/Game_mode/osu!mania)) the match is playing in.
+- The *match type* or *mode* that the match is playing in enclosed in brackets (e.g., "Tag Co-op" or "Head-to-head")
+- The amount of *player slots* that are currently filled in the match alongisde the maximum amount of players allowed in said match, represented via a fraction underneath the game mode symbol
+  - These player slots are also indicated via a row of red or green highlighted squares indicating that a slot is taken or available respectively. There is also a single larger square that is at the very left of the row of squares which indicates the host of the match
+  - The visual row of player slots contain the avatars of the players in the match. If the cursor is hovered above these avatars, a tooltip will display their username, rank, and country.
+- The *rank difference* indicates the range of the leaderboard rankings of the players within the match, ranked from highest to lowest (e.g., `rank: 35,000 - 200,000`). The rank difference may occasionally be represented by a question mark (`?`) which denotes that there are either no player slots filled in the match, or there is a player in the match who's rank is unkown.
+- The inclusion or exclusion of a *lock icon* (shown below) which indicates whether or not a match is locked
+- The *match title*, denoted in white text above the player slots
+- The *currently selected beatmap*, denoted in yellow text underneath the match title
 To enter a Match Setup, click on one of the desired row.
-
-The Match Setup text colour will change to grey with `(In progress)` appended to the back of the title until the match ends.
 
 ![](img/Multi_lobby_locked.jpg "An example of a locked Match Setup")
 
-**Note:** If the game mode symbol contains a lock icon, clicking on it will prompt an empty text box to enter the Match Setup password.
-The player should enter the correct password to access the locked Match Setup.
-Alternatively, the player can request an invite from the Match Setup's host directly to bypass the locked password requirement.
+Some matches may be labeled as *locked*, indicated via the inclusion of a lock icon being appended to the corner of the game mode symbol (shown above). Locked matches are matches that require a specified password to be entered before being able to join the match. This password is specified by the host during match setup. Alternatively, players can request an invite from the match's host directly to bypass the password.
 
 ---
 
