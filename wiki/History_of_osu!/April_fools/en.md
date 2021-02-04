@@ -39,10 +39,16 @@ After some time, the original beatmap was removed on request of its creator; the
 
 #### References
 
-- [Forum thread comment [peppy] - "Best of No.1 Hits - Lemon Tree"](https://osu.ppy.sh/community/forums/posts/105679)
-- [Forum thread comment [machol30] - "Best of No.1 Hits - Lemon Tree"](https://osu.ppy.sh/community/forums/topics/95725?start=106774)
+- [Forum thread comment (Beatmap Graveyard) [peppy] - "Best of No.1 Hits - Lemon Tree"](https://osu.ppy.sh/community/forums/topics/95725?start=105679)
+- [Forum thread comment (Beatmap Graveyard) [machol30] - "Best of No.1 Hits - Lemon Tree"](https://osu.ppy.sh/community/forums/topics/95725?start=106774)
 - [Reddit post (r/osugame) [u/5522Luca] - "Reminder the Osu! April Fools 2009? This beatmap was ranked."](https://www.reddit.com/r/osugame/comments/64it62/reminder_the_osu_april_fools_2009_this_beatmap/ "Reddit")
 - [Beatmap page - "Best of No.1 Hits - Lemon Tree (MillhioreF)"](https://osu.ppy.sh/beatmapsets/57878#osu/174267)
+
+<!--
+Temporary Archives:
+- Beatmap discussion page: https://web.archive.org/web/20210204190227/https://osu.ppy.sh/community/forums/topics/95725?start=105679
+- 
+-->
 
 ---
 
@@ -50,7 +56,7 @@ After some time, the original beatmap was removed on request of its creator; the
 
 ### touhosu!
 
-On 1 April 2010, the osu! website along with the main menu screen was changed to theme with the [Touhou Project](https://en.wikipedia.org/wiki/Touhou_Project "Wikipedia") (shown below). The changes included the inclusion of the character Marisa Kirisame from the Touhou Project, along with yellow, pink, and blue coloured butterflies in a circular pattern, along with the swapping of the name "osu!" to "touhosu!" in certain areas (shown below)
+On 1 April 2010, the osu! website along with the main menu screen was changed to theme with the [Touhou Project](https://en.wikipedia.org/wiki/Touhou_Project "Wikipedia") (shown below). The changes included the inclusion of the character Marisa Kirisam, the display of differently-coloured butterflies in a circular pattern across the main menu and website, along with the swapping of the name "osu!" to "touhosu!" in certain areas across the website (shown below).
 
 ![](img/2010-touhosu-main-screen.jpg "Screenshot of a user's main screen in osu! on 1 April 2010")
 
@@ -63,9 +69,9 @@ There was also a report at the time of [Ephemeral](https://osu.ppy.sh/users/1023
 #### References
 
 - [April Fools' Day On The Web entry - "Changed osu! to touhousu! throughout the website as well as the game."](http://aprilfoolsdayontheweb.com/joke/8120/?size=1 "April Fools' Day On The Web")
-- [Discord message (osu!dev) [Nivalyx#9577] - 27 January 2021 (05:06 UTC+0)](https://discord.com/channels/188630481301012481/218677502141399041/804215894762848296 "Discord")
-- [Forum thread [rcmero] - "touhousu! - April Fools joke? [Resolved]"](https://osu.ppy.sh/community/forums/topics/27612)
-- [Forum thread [rulingvenus] - "Naked Marisa????"](https://osu.ppy.sh/community/forums/topics/27531)
+- [Discord message (osu!dev) [Nivalyx#9577] - 27 January 2021 (05:06 UTC)](https://discord.com/channels/188630481301012481/218677502141399041/804215894762848296 "Discord")
+- [Forum thread (Resolved Issues) [rcmero] - "touhousu! - April Fools joke? [Resolved]"](https://osu.ppy.sh/community/forums/topics/27612)
+- [Forum thread (General Discussion) [rulingvenus] - "Naked Marisa????"](https://osu.ppy.sh/community/forums/topics/27531)
 
 ---
 
@@ -79,8 +85,8 @@ osu!core is the name given to osu!'s 2011 April Fools' day prank. The prank caus
 
 - [osu! wiki article - "Nightcore (mod)](https://osu.ppy.sh/wiki/el/Game_modifier/Nightcore)
 - [YouTube video [Nyaruko] - "When osu! tries to do April Fools"](https://www.youtube.com/watch?v=qD5ep6Fykao "YouTube")
-- [Wayback Machine snapshot (1 April 2011) - osu! home page](https://web.archive.org/web/20110401175252/http://osu.ppy.sh/ "Internet Archive — osu!")
-- [Forum thread comment [Melty Bagle] - "[Archived] 'Flashlight mod' on the site...?"](https://osu.ppy.sh/community/forums/posts/1430529)
+- [osu! home page, 1 April 2011](https://web.archive.org/web/20110401175252/http://osu.ppy.sh/ "Internet Archive — osu!")
+- [Forum thread comment (Resolved Issues) [Melty Bagle] - "[Archived] 'Flashlight mod' on the site...?"](https://osu.ppy.sh/community/forums/posts/1430529)
 
 ---
 
@@ -90,18 +96,18 @@ osu!core is the name given to osu!'s 2011 April Fools' day prank. The prank caus
 
 On 1 April 2012, the entire osu! website had a 50% chance of either the Flashlight mod or Hidden mod being "enabled" on the site per page load (3/10 for Hidden; 1/5 for Flashlight). A modern recreation of what the prank looked like for users at the time is shown below.
 
-![](img/2012-flashlight.gif "What the website would have looked like with the Flashlight mod "enabled")
+![](img/2012-flashlight.gif "What the website would have looked like with the Flashlight mod "enabled"")
 
-![](img/2012-flashlight.gif "What the website would have looked like with the Flashlight mod "enabled")
+![](img/2012-flashlight.gif "What the website would have looked like with the Flashlight mod "enabled"")
 
 #### References
 
 - [Discord message (osu!dev) [Тик#5580] - 28 January 2021 (08:05 UTC+0)](https://discord.com/channels/188630481301012481/218677502141399041/804260860331687946 "Discord")
 - [April Fools' Day On The Web entry - "'Flashlight' mode on beatmap search page"](http://aprilfoolsdayontheweb.com/joke/11484/?size=1 "April Fools' Day On The Web")
-- [Forum thread [-----] - "[Archived] "flashlight mod" on the site...?"](https://osu.ppy.sh/community/forums/topics/79076)
-- [Forum thread comment [peppy] - "[Archived] "flashlight mod" on the site...?"](https://osu.ppy.sh/community/forums/topics/79076?start=1433063)
-- [Forum thread [kreph] - "[Archived] Flashlight bugs the website for some browsers"](https://osu.ppy.sh/community/forums/topics/79077)
-- [Discord message (osu!dev) [spaceman_atlas#0391] - 29 January 2021 (20:43 UTC+0)](https://discord.com/channels/188630481301012481/218677502141399041/804814051209117696 "Discord")
+- [Forum thread (Resolved Issues) [-----] - "[Archived] "flashlight mod" on the site...?"](https://osu.ppy.sh/community/forums/topics/79076)
+- [Forum thread comment (Resolved Issues) [peppy] - "[Archived] "flashlight mod" on the site...?"](https://osu.ppy.sh/community/forums/topics/79076?start=1433063)
+- [Forum thread (Resolved Issues) [kreph] - "[Archived] Flashlight bugs the website for some browsers"](https://osu.ppy.sh/community/forums/topics/79077)
+- [Discord message (osu!dev) [spaceman_atlas#0391] - 29 January 2021 (20:43 UTC)](https://discord.com/channels/188630481301012481/218677502141399041/804814051209117696 "Discord")
 
 ### Bad Apple ranking chart
 
@@ -113,7 +119,7 @@ On 1 April 2012, [a newspost](https://osu.ppy.sh/community/forums/topics/79128?s
 >
 > Look forward to our next charts, the Renai Circulation and Irony charts!
 
-<!-- how should we cite this quote? ^^^ -->
+— Cyclone, "Bad Apple Ranking Chart!"
 
 The ranking chart was real at the time and displayed the top 40 players who obtained the highest ranked score obtained in any one of the handpicked selection of "Bad Apple!!" beatmaps. The chart was opened on 1 April 2012 and closed on 2 April 2012. At the end of the ranking period, player [Mesita](https://osu.ppy.sh/users/201459) was the number one player with a ranked score of 145,623,328.
 
@@ -130,14 +136,14 @@ The beatmaps included in the ranking chart are listed below:
 - [Kommisar - Bad Apple!! (Chiptune Ver.) (Sushi)](https://osu.ppy.sh/beatmapsets/28222)
 - [Kalafina - Bad MagiApple (Makar8000)](https://osu.ppy.sh/beatmapsets/32003)
 
-The "Bad Apple!!" music video had been a some sort of an in-joke at the time with remixes of the song combined with other ironic twists being a prevalent occurence in beatmaps at the time, hence its appearance as an April Fools' joke. <!--i feel like an 80-year-old trying to define the word "meme"-->
+The "Bad Apple!!" music video had been a some sort of an in-joke at the time with remixes of the song combined with other ironic twists being a prevalent occurence in beatmaps at the time, hence its appearance as an April Fools' joke.
 
 #### References
 
 - [Wayback Machine snapshot (4 April 2012) - Bad Apple!! Ranking Chart](https://web.archive.org/web/20120404051938/http://osu.ppy.sh/p/chart?ch=BADAPPLE "Internet Archive — osu!")
 - [osu! newspost [Cyclone] (1 April 2012) - "Bad Apple!! Ranking Chart"](https://osu.ppy.sh/community/forums/topics/79128?start=1431905)
-- [Discord message (osu!dev) [Тик#5580] - 29 January 2021 (19:39 UTC+0)](https://discord.com/channels/188630481301012481/218677502141399041/804797922021081138 "Discord")
-- [Wayback Machine Snapshot (3 April 2012) - osu! home page](https://web.archive.org/web/20120403135741/http://osu.ppy.sh/ "Internet Archive — osu!")
+- [Discord message (osu!dev) [Тик#5580] - 29 January 2021 (19:39 UTC)](https://discord.com/channels/188630481301012481/218677502141399041/804797922021081138 "Discord")
+- [osu! home page, 3 April 2012](https://web.archive.org/web/20120403135741/http://osu.ppy.sh/ "Internet Archive — osu!")
 
 ---
 
@@ -147,18 +153,18 @@ The "Bad Apple!!" music video had been a some sort of an in-joke at the time wit
 
 On 1 April 2013, BanchoBot was turned into a tsundere. On this April Fools', anytime users would issue a command to BanchoBot or prompt it to speak in a public chat, its chat messages would be replaced with stereotypical tsundere-like responses to a romantic interest. A difference in language between normal BanchoBot and "tsundere BanchoBot" is shown below.
 
-![](img/2013-regular-banchobot.jpg "SCreenshot of a player interaction with BanchoBot in 2019")
+![](img/2013-regular-banchobot.jpg "Screenshot of a player interaction with BanchoBot in 2019")
 
-![](img/2013-tsundere-banchobot.jpg "SCreenshot of a player interaction with BanchoBot on 1 April 2013")
+![](img/2013-tsundere-banchobot.jpg "Screenshot of a player interaction with BanchoBot on 1 April 2013")
 
 #### References
 
 - [Reddit comment (r/osugame) [u/Saluya_Lv9] - "April 1st"](https://www.reddit.com/r/osugame/comments/2201so/april_1st/ "Reddit")
-- [Forum thread comment [Jazz] - "Your prediction of osu! April Fools"](https://osu.ppy.sh/community/forums/topics/125391?start=2215004)
-- [Forum thread comment [Brian OA] - "Your prediction of osu! April Fools"](https://osu.ppy.sh/community/forums/topics/125391?start=2215194)
-- [Discord message (osu!dev) [Тик#5580] - 28 January 2021 (08:05 UTC+0)](https://discord.com/channels/188630481301012481/218677502141399041/804260860331687946 "Discord")
-- [Forum thread comment [kingking9] - "osu! Community Localisation Project"](https://osu.ppy.sh/community/forums/topics/104342?start=2342998)
-- [Forum thread comment [peppy] - "osu! Community Localisation Project"](https://osu.ppy.sh/community/forums/topics/104342?start=2343044)
+- [Forum thread comment (Off-Topic) [Jazz] - "Your prediction of osu! April Fools"](https://osu.ppy.sh/community/forums/topics/125391?start=2215004)
+- [Forum thread comment (Off-Topic) [Brian OA] - "Your prediction of osu! April Fools"](https://osu.ppy.sh/community/forums/topics/125391?start=2215194)
+- [Discord message (osu!dev) [Тик#5580] - 28 January 2021 (08:05 UTC)](https://discord.com/channels/188630481301012481/218677502141399041/804260860331687946 "Discord")
+- [Forum thread comment (Development) [kingking9] - "osu! Community Localisation Project"](https://osu.ppy.sh/community/forums/topics/104342?start=2342998)
+- [Forum thread comment (Development) [peppy] - "osu! Community Localisation Project"](https://osu.ppy.sh/community/forums/topics/104342?start=2343044)
 - [Tweet [@little_2d] - 27 June 2019](https://twitter.com/little_2d/status/1144316731407683584 "Twitter")
 
 ---
@@ -167,11 +173,16 @@ On 1 April 2013, BanchoBot was turned into a tsundere. On this April Fools', any
 
 ### Shiba Inu appears in osu!
 
-<!--text-->
+On 1 April 2014, the osu! main menu screen was temporarily changed (shown below) to include multi-colored, grammatically incorrect statesments in the style of the [Doge meme](https://en.wikipedia.org/wiki/Doge_(meme) "Wikipedia") that was popular at that time.
+
+![](img/2014-main-screen-doge.jpg "Screenshot of the osu! main screen on 1 April 2014")
 
 #### References
 
-<!--sources-->
+- [Reddit comment (r/osugame) [u/mystry08] - "Can we save the start screen doge?"](https://www.reddit.com/r/osugame/comments/21vh6r/can_we_save_the_start_screen_doge/ "Reddit")
+- [Reddit comment (r/osugame) [u/dalollypop] - "Very April, Such fool, Much peppy. wow"](https://www.reddit.com/r/osugame/comments/21u293/very_april_such_fool_much_peppy_wow/ "Reddit")
+- [Forum thread (Off-Topic) [Decuke] - "Doge on Osu!"](https://osu.ppy.sh/community/forums/topics/198112)
+- [Discord message (osu!dev) [Тик#5580] - 28 January 2021 (08:05 UTC)](https://discord.com/channels/188630481301012481/218677502141399041/804260860331687946 "Discord")
 
 ---
 
@@ -179,19 +190,41 @@ On 1 April 2013, BanchoBot was turned into a tsundere. On this April Fools', any
 
 ### osu!coins
 
-<!--text-->
+*See also: [osu!coin](/wiki/osu!coin)*
+
+On 31 March 2015, [peppy](https://osu.ppy.sh/users/2) released [a newspost](https://osu.ppy.sh/home/news/2015-03-31-osucoins) that announced the addition of a new in-game currency to be added to osu!, dubbed "osu!coins." In the newspost, peppy jokingly explained that his reasoning behind the change was due to the current monetary gain from player donations would not have been enough to buy him a personal jet within his lifetime:
+
+> At the current rate of return, it would be unlikely for me to purchase a personal jet within my lifetime, which is one of my primary life goals. Thus I held discussions with the team on alternate forms of monetisation, studying the current trends in similar free-to-play games currently available on the market.
+
+— peppy, "osu!coins"
+
+*Note: Under [Coordinated Universal Time (UTC)](https://en.wikipedia.org/wiki/Coordinated_Universal_Time "Wikipedia"), the post was posted on 31 March 2015. However, at the time of the publication, peppy was currently living in Australia, in which the current date was 1 April 2015.*
+
+The in-game currency and how it worked was detailed in the newspost iteself, along with a specially-created osu!academy video. In short, to play or restart a beatmap, users would have to use one osu!coin, and would once they ran out of osu!coins, they would either have to stop playing and wait for the next day, or pay with real money to get more osu!coins. However, acutal gameplay was not affected, and users could just continue playing as normal once all their osu!coins were depleted.
+
+Shortly after the newspost was published, players would find themselves greeted with an osu! main screen that had a background of slowly falling osu!coins, along with a slightly changed main theme, in which the exclamation "circles!" was replaced with a robotic-sounding "and buy the coins" before the beat drop.
+
+New textures, sound effects, and music were created for this prank, including an counter that would display the amount of coins players had throughout the map. There were also videos at the time which detailed bugs with the system that allowed users to gain infinite osu!coins.
 
 #### References
 
-<!--sources-->
+- [osu! newspost [peppy] (31 March 2015) - "osu!coins!"](https://osu.ppy.sh/home/news/2015-03-31-osucoins)
+- [April Fools' Day On The Web entry - "osu!coins! (fake business model, obviously a joke from blog & video)"](http://aprilfoolsdayontheweb.com/joke/20150013/?size=1 "April Fools' Day On The Web")
+- [Forum thread (General Discussion) [Terriama] - "April Fools"](https://osu.ppy.sh/community/forums/topics/377157)
+- [YouTube video [synonia] - "Osu! Coin generator 14 coins in 30 seconds"](https://web.archive.org/web/20210204054554/https://www.youtube.com/watch?v=Cmt646ujDFc "Internet Archive — YouTube")
+
+<!-- video lost due to deletion: https://www.youtube.com/watch?v=xr4aOXyfV-k -->
+
+<!-- for some quick information, the original video was titled "osu! April Fools Day 2015" and was a video of the uploader replaying the same beatmap a over and over as the osu!coins count ticks down
+it was the only high-quality video showing the osu!coins in there actual intended state, but was deleted on request of the creator. if anyone knows how to finaggle youtube to let me watch or download or get the original uploader's name, that would be very helpful. -->
 
 ---
 
 ## 2016
 
-### osu! in Virtual Reality
+### osu! in virtual reality
 
-<!--text--> 
+<!--text-->
 
 <!--make sure to mention McOsu-->
 
