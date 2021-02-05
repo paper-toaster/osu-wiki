@@ -230,7 +230,7 @@ it was the only high-quality video showing the osu!coins in there actual intende
 
 #### References
 
-<!--sources-->
+- [osu! newspost [Evrien] (1 April 2016) - "Oculus Rift to be Supported as an Input Method (April Fools!)"](https://osu.ppy.sh/home/news/2016-04-01-oculus-rift-to-be-supported-as-an-input-method)
 
 ### Auto mod cursor dances/dancing pippi
 
@@ -238,7 +238,10 @@ it was the only high-quality video showing the osu!coins in there actual intende
 
 #### References
 
-<!--sources-->
+- [YouTube video [HoLLy] - "osu!'s april fools 2016 (auto mod improvement)"](https://www.youtube.com/watch?v=r9SCbYG4GYs "YouTube")
+- [YouTube= video [Hubz] - "osu! 2016 april fools (dancing pippi)"](https://www.youtube.com/watch?v=fYTdPqhAns0 "YouTube")
+- [YouTube video [mightyaleks] - "Osu! Dancing Auto-cursor and retard Spin | 1st April 2016"](https://www.youtube.com/watch?v=5Tj-1sgHl9g "YouTube")
+- [Reddit post (r/osugame) [u/osuisgameforweebs] - "Something about the april fools joke dancing that some might not have noticed"](https://www.reddit.com/r/osugame/comments/4crlw1/something_about_the_april_fools_joke_dancing_that/ "Reddit")
 
 ### Free osu! supporter tags
 
@@ -246,7 +249,12 @@ it was the only high-quality video showing the osu!coins in there actual intende
 
 #### References
 
-<!--sources-->
+- [Forum thread (Resolved Issues) [-AlieN] - "[resolved] April Fools??!??!??"](https://osu.ppy.sh/community/forums/topics/437855)
+- [Reddit post (r/osugame) [u/CraftyDart] - "The best April Fools day ever."](https://www.reddit.com/r/osugame/comments/4cshv3/the_best_april_fools_day_ever/ "Reddit")
+- [Forum thread comment (Off-Topic) [Epipheralis] - "april fools")](https://osu.ppy.sh/community/forums/topics/437866?start=5006805)
+- [osu! home page, 1 April 2016](https://web.archive.org/web/20160401001507/https://osu.ppy.sh/ "Internet Archive — osu!")
+- [Forum thread (Resolved Issues) [Bearial1] - "[resolved] Why am I a supporter?"](https://osu.ppy.sh/community/forums/topics/438118)
+- [Forum thread (Resolved Issues) [noah4678] - "[resolved] says im a supporter"](https://osu.ppy.sh/community/forums/topics/438119)
 
 ### Upside-down osu! logo on website
 
@@ -254,7 +262,9 @@ it was the only high-quality video showing the osu!coins in there actual intende
 
 #### References
 
-<!--sources-->
+- [Forum thread comment (Off-Topic) [Birdy] - "april fools")](https://osu.ppy.sh/community/forums/posts/5005957)
+- [osu! home page, 1 April 2016](https://web.archive.org/web/20160401001507/https://osu.ppy.sh/ "Internet Archive — osu!")
+- [Forum thread (Off-Topic) [Rilene] - "osu logo"](https://osu.ppy.sh/community/forums/topics/437755)
 
 ---
 
@@ -264,7 +274,7 @@ it was the only high-quality video showing the osu!coins in there actual intende
 
 <!--there was no april fools' joke this year-->
 
-<!--link tweet in-line-->
+<!--link tweet in-line https://twitter.com/ppy/status/848021525663842304-->
 
 ---
 
@@ -276,17 +286,26 @@ it was the only high-quality video showing the osu!coins in there actual intende
 
 #### References
 
-<!--sources-->
+- [Reddit post (r/osugame) [u/[deleted]] - "New April Fools Update now has a rotating osu! Logo"](https://www.reddit.com/r/osugame/comments/88kq23/new_april_fools_update_now_has_a_rotating_osu_logo/?st=JFGBCI5G&sh=49cf8677 "Reddit")
+- [Reddit post (r/osugame) [u/hi_im_marc] - "April Fools Patch Is Out Get Ready To Get BAMBOOZLED!!!1"](https://www.reddit.com/r/osugame/comments/88kbit/april_fools_patch_is_out_get_ready_to_get/ "Reddit")
+- [Reddit post (r/osugame) [u/AdriaLOL] - "{post title}"](https://www.reddit.com/r/osugame/comments/88qlwk/haha_nice_april_fools_peppy_xd/ "Reddit")
+- [Forum thread (General Discussion) [Aochie] - "The osu! logo is moving?"](https://osu.ppy.sh/community/forums/topics/724377)
+- [Forum thread (Resolved Issues [Jreen] - "[resolved] Osu! Logo Sideways?"](https://osu.ppy.sh/community/forums/topics/724094)
+- [osu! wiki article - "History of osu! 2018"](https://osu.ppy.sh/wiki/en/History_of_osu%21/2018#april)
 
 ---
 
 ## 2019
 
-### Sneezing girl sound effect
+### Sneezing girl sound effect (2019)
 
 <!--text-->
 
 #### References
+
+- [Reddit post (r/osugame) [u/jivko500] - "The April Fools joke in osu"](https://www.reddit.com/r/osugame/comments/b83pnl/the_april_fools_joke_in_osu/ "Reddit")
+- [Reddit post (r/osugame) [u/anoymaly2152] - "{post title}"](https://www.reddit.com/r/osugame/comments/b848ro/bless_you_pippi/ "Reddit")
+- [Forum thread ({forum}) [Brainage] - "{forum post title}"](https://osu.ppy.sh/community/forums/topics/888939)
 
 ---
 
@@ -298,12 +317,13 @@ it was the only high-quality video showing the osu!coins in there actual intende
 
 #### References
 
-<!--sources-->
+- [osu! newspost [Ephemeral] (1 April 2020) - "New Featured Artist: MillhioreF"](https://osu.ppy.sh/home/news/2020-04-01-new-featured-artist-millhioref)
 
-### Sneezing girl sound effect (again)
+### Sneezing girl sound effect (2020)
 
 <!--text-->
 
 #### References
 
-<!--sources-->
+- [Reddit post ({subreddit}) [{user}] - "{post title}"](https://www.reddit.com/r/osugame/comments/fsxfpk/does_anybody_sometimes_hear_the_achoo_sorry_for/ "Reddit")
+- [Reddit post ({subreddit}) [{user}] - "{post title}"](https://www.reddit.com/r/osugame/comments/fsq30l/this_years_osu_april_fools_day_joke/ "Reddit")
