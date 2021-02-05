@@ -15,6 +15,8 @@ TODO (MilkyIQ):
 
 **Multi** or **Multiplayer** is a game mode in which up to 16 players can compete against each other on a single map decided by the host. It has three different modes in which players can play competitively or cooperatively: [Team Mode](#team-mode), [Tag Coop](<!---->), and [Tag Team Versus](<!---->).
 
+*Notice to `Cutting Edge` build users: In order to access the Multiplayer lobby and its functions, the signed-in account must have an active [osu!supporter](/wiki/osu!supporter).*
+
 Players can find the Multi mode by pressing the `Multi` button under `Play` on the main menu, or by pressing the `P` key followed by the `M` key on the main menu to enter through keyboard shortcuts.
 
 In order to access multiplayer functions, users must be connected to the internet and be signed in to their osu! account. If these requirements are fulfilled, upon entering, users will be directed to the *lobby*.
@@ -39,11 +41,11 @@ The aforementioned filter options are listed and described below.
 | `Show Locked` | Displays [locked](<!---->) matches when enabled |
 | `Show In-progress` | Displays matches that are currently playing a beatmap |
 
----
-
 Below the filters is the list of currently available matches. The list displays between 4–5 matches at one time and can be scrolled up or down through click-and-drag or mousewheel operations. Each of these listings contain elements that describe information about the match to the user, which are described in detail below:
 
 *Note: If a match is currently in the middle of playing a beatmap, the text in its listing will change to grey with the text `(In progress)` appended to the end of the match title.*
+
+<!--this is ungodly long. is this even neccessary?-->
 
 - The *game mode symbol* indicates which game mode (![](wiki/shared/mode/osu.png) [osu!standard](/wiki/Game_mode/osu!), ![](wiki/shared/mode/taiko.png) [osu!taiko](/wiki/Game_mode/osu!taiko), ![](wiki/shared/mode/catch.png) [osu!catch](/wiki/Game_mode/osu!catch), or ![](wiki/shared/mode/mania.png) [osu!mania](/wiki/Game_mode/osu!mania)) the match is playing in.
 - The *match type* or *mode* that the match is playing in enclosed in brackets (e.g., "Tag Co-op" or "Head-to-head")
@@ -61,42 +63,6 @@ To enter a Match Setup, click on one of the desired row.
 Some matches may be labeled as *locked*, indicated via the inclusion of a lock icon being appended to the corner of the game mode symbol (shown above). Locked matches are matches that require a specified password to be entered before being able to join the match. This password is specified by the host during match setup. Alternatively, players can request an invite from the match's host directly to bypass the password.
 
 ---
-
-The three buttons above the Chat Console are special commands a player can use while in the Lobby, reading from left-to-right:-
-
-| Title | Description |
-| :-: | :-- |
-| `Back to Menu` | Self-explanatory; **leave the lobby and return to the main menu**. |
-| `New Game` | **Preparation to create a new Match Setup** |
-| `Quick Join` | Place the player to an **available Match Setup** _randomly_ based on **current pp rank range**. |
-
-The [Chat Console](/wiki/Chat_Console) will be available at the bottom of the screen and connected to `#lobby` by default.
-
-![](/wiki/shared/Beatmaps_peppy.jpg "Official image on beatmap extraction.")
-
-If the connection request with Bancho was successful, the player will be directed to the **lobby**, the core of the Multi-play.
-
-### Notes
-
-- Keep in mind that downloading times can range from a few seconds to few minutes onwards depending on the player's connection speed.
-- Losing connection to Bancho will direct the player back to main menu.
-  - When playing a match, a "Quit" will be given on the player box.
-  - To re-enter the Lobby, wait until the reconnection to Bancho was successful and click on `Multi` again.
-    - If the connection problem persists, the player should rectify the connection device used to proper working order.
-- If the player is in the **cuttingedge** build, the in-game osu!account must have an active [osu!supporter](/wiki/osu!supporter) tag to enter.
-- To access the Options screen while in a Match Setup, `Ctrl`+`O`.
-
-## New game
-
-![](img/Multi_new_game.jpg "Setting up configuration for a New Game")
-
-| Title | Description |
-| :-: | :-- |
-| **Game Name** | **Name of the Match Setup.** Default to `{accountname}`'s game. To make the Match Setup private, enable the `Require Password to join` button. |
-| **Password** | **Password to enter the Match Setup.** Only appears if the `Require Password to join` button was enabled. Match Setup game mode symbol will be shown with a lock. |
-| **Max players** | **Total number of players allowed to join the Match Setup.** Default to 8 players, with range from 2 to a total of 16 players, including the player as host. It can be adjusted later by locking/unlocking the slots. |
-
-Press the `1. Start Game` button to **create the Match Setup** with the **player as the host** of the Match Setup and the **beatmap playing in the jukebox as the match's beatmap/difficulty**.
 
 ## Match Setup
 
@@ -427,4 +393,7 @@ For Tag Team Vs result screen, refer to Team Vs's result screen explanation.
 - osu!mania game mode was noted as `3` in Lobby for players that have not yet updated their osu! to the latest release patch (which enables osu!mania mode with no ranking support yet).
 - No Video was the _only_ game modifier allowed for the players to use; however, it was removed in favour of its placement in the Visual Settings.
 - Multi was implemented on 03 June 2008 (2008-06-03) under osu! Public Release b335x
-- The [osu!academy](/wiki/osu!academy) covered this topic in [Episode 6 (6:52)](https://www.youtube.com/watch?v=cyYRl-a5xII) along with the [Online Users Panel](/wiki/Chat_Console#extended-chat-console).
+- The [osu!academy](/wiki/osu!academy) covered this topic in [Episode 6 (6:52)](https://www.youtube.com/watch?v=cyYRl-a5xII) along with the [Online Users Panel](/wiki/Chat_Console#extended-chat-console)
+- Losing connection to Bancho will direct the player back to main menu
+- To access the Options screen while in a Match Setup, press `Ctrl`+`O`
+- Creating a new game with no name will default to "{host}'s game"
