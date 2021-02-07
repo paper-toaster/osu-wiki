@@ -14,13 +14,8 @@ tags:
 TODO:
 [ ] Archive references
 [ ] Add links for terms
-[ ] Adjust how references are referenced to not look like cancer
-  - Including too much information makes the references look cluttered and ugh (fuck MLA)
-  - Including too little information looks nice and concise but is also just unhelpful and filled with "Forum Thread Forum Thread Forum Thread Forum Thread"
-  - Could use numbers like APA, but thats kind of a pain and also forces me to be finnicky with some spots; quite a few references are just there confirming that people are even mentioning that its a thing
-  - Linking in-line is a pain, and will also cause the whole article to look blue-da-ba-dee-da-ba-die
-[ ] Should we put "Image courtesy of ___" in image alt text?
 [ ] Remove all frivorlous comments
+[ ] "On 1 April [insert year]" intensifies
 -->
 
 # List of osu! April Fools' day jokes
@@ -33,7 +28,7 @@ Every year, the osu! developers like to play pranks on the community on April Fo
 
 ### "Lemon Tree" gets ranked
 
-[Best of No.1 Hits - Lemon Tree (MillhioreF)](https://osu.ppy.sh/beatmapsets/57878) was ranked on 1 April 2009. The beatmap was very much a joke beatmap with users saracastically claiming that such a map should be kept ranked forever. It's ranked status was removed by moderators shortly afterwards.
+On 1 April 2009, the [beatmap](/wiki/Beatmap) [Best of No.1 Hits - Lemon Tree (MillhioreF)](https://osu.ppy.sh/beatmapsets/57878) was ranked. The beatmap was very much a joke beatmap with users saracastically claiming that such a map should be kept ranked forever. It's ranked status was removed by moderators shortly afterwards.
 
 After some time, the original beatmap was removed on request of its creator; the beatmap was reuploaded on 24 Aug 2012 by [MillhioreF](https://osu.ppy.sh/users/941094) (linked above) for archival purposes.
 
@@ -44,27 +39,21 @@ After some time, the original beatmap was removed on request of its creator; the
 - [Reddit post (r/osugame) [u/5522Luca] - "Reminder the Osu! April Fools 2009? This beatmap was ranked."](https://www.reddit.com/r/osugame/comments/64it62/reminder_the_osu_april_fools_2009_this_beatmap/ "Reddit")
 - [Beatmap page - "Best of No.1 Hits - Lemon Tree (MillhioreF)"](https://osu.ppy.sh/beatmapsets/57878#osu/174267)
 
-<!--
-Temporary Archives:
-- Beatmap discussion page: https://web.archive.org/web/20210204190227/https://osu.ppy.sh/community/forums/topics/95725?start=105679
-- 
--->
-
 ---
 
 ## 2010
 
 ### touhosu!
 
-On 1 April 2010, the osu! website along with the main menu screen was changed to theme with the [Touhou Project](https://en.wikipedia.org/wiki/Touhou_Project "Wikipedia") (shown below). The changes included the inclusion of the character Marisa Kirisam, the display of differently-coloured butterflies in a circular pattern across the main menu and website, along with the swapping of the name "osu!" to "touhosu!" in certain areas across the website (shown below).
+On 1 April 2010, the osu! website along with the in-game main menu screen was changed to theme with the [Touhou Project](https://en.wikipedia.org/wiki/Touhou_Project "Wikipedia") (shown below). The changes included the addition of the character Marisa Kirisam and a display of differently-coloured butterflies in a circular pattern across the main menu and website, along with the swapping of the name "osu!" to "touhosu!" in certain areas across the website (shown below).
 
 ![](img/2010-touhosu-main-screen.jpg "Screenshot of a user's main screen in osu! on 1 April 2010")
 
 ![](img/2010-touhosu-website.jpg "Screenshot of the osu! website on 1 April 2009")
 
-The joke largely stems from a [long-standing feature request](https://osu.ppy.sh/community/forums/topics/19307) to create a game mode based off of the currently-existing osu!catch game mode, and the core gameplay from the Touhou Project.
+The joke largely stems from a [long-standing feature request](https://osu.ppy.sh/community/forums/topics/19307) to create a [game mode](/wiki/Game_mode) based off of the currently-existing [osu!catch](/wiki/Game_mode/osu!catch) game mode, and the core gameplay from the Touhou Project.
 
-There was also a report at the time of [Ephemeral](https://osu.ppy.sh/users/102335) jokingly remarking that buying an osu!supporter tag would show a naked Marisa Kirisame on the main menu screen instead of a fully clothed one.
+There was also a report at the time of [Ephemeral](https://osu.ppy.sh/users/102335) jokingly remarking that buying an osu!supporter tag would show a naked Marisa Kirisame on the main menu screen instead of a fully clothed one, however this claim was only a joke and was quickly disproven by others.
 
 #### References
 
@@ -79,7 +68,7 @@ There was also a report at the time of [Ephemeral](https://osu.ppy.sh/users/1023
 
 ### osu!core
 
-osu!core is the name given to osu!'s 2011 April Fools' day prank. The prank caused every single map's audio to be pitched and sped up in the style of [Nightcore](https://en.wikipedia.org/wiki/Nightcore "Wikipedia") remixes. Although just an April Fools' day prank, it later became a reality when the [Nightcore mod](/wiki/Game_modifier/Nightcore) was introduced as an actual playable mod in osu!. Videos of the event in question can be accessed in the references section below.
+osu!core is the name given to osu!'s 2011 April Fools' day prank. The prank caused every single [beatmap](/wiki/Beatmap)'s audio to be pitched and sped up in the style of [Nightcore](https://en.wikipedia.org/wiki/Nightcore "Wikipedia") remixes. Although just an April Fools' day prank, it later became a reality when the [Nightcore mod](/wiki/Game_modifier/Nightcore) was introduced as an actual playable [game modifier](/wiki/Game_modifier) in osu!.
 
 #### References
 
@@ -94,7 +83,7 @@ osu!core is the name given to osu!'s 2011 April Fools' day prank. The prank caus
 
 ### Flashlight/Hidden mod on website
 
-On 1 April 2012, the entire osu! website had a 50% chance of either the Flashlight mod or Hidden mod being "enabled" on the site per page load (3/10 for Hidden; 1/5 for Flashlight). A modern recreation of what the prank looked like for users at the time is shown below.
+On 1 April 2012, the entire osu! website had a 50% chance of either the [Flashlight (FL) mod](/wiki/Game_modifier/Flashlight) or [Hidden (HD) mod](/wiki/Game_modifier/Hidden) being "enabled" on the site per page load (3/10 for HD; 1/5 for FL). A modern recreation of what the prank looked like for users at the time is shown below.
 
 ![](img/2012-flashlight.gif "What the website would have looked like with the Flashlight mod "enabled"")
 
@@ -151,7 +140,7 @@ The "Bad Apple!!" music video had been a some sort of an in-joke at the time wit
 
 ### BanchoBot becomes a tsundere
 
-On 1 April 2013, BanchoBot was turned into a tsundere. On this April Fools', anytime users would issue a command to BanchoBot or prompt it to speak in a public chat, its chat messages would be replaced with stereotypical tsundere-like responses to a romantic interest. A difference in language between normal BanchoBot and "tsundere BanchoBot" is shown below.
+On 1 April 2013, [BanchoBot](/wiki/BanchoBot) was turned into a [tsundere](https://en.wikipedia.org/wiki/Tsundere "Wikipedia"). On this April Fools' day, any time users would issue a command to BanchoBot or prompt it to speak in a public chat, its chat messages would be replaced with stereotypical tsundere-like responses to a romantic interest. A difference in language between normal BanchoBot and "tsundere BanchoBot" is shown below.
 
 ![](img/2013-regular-banchobot.jpg "Screenshot of a player interaction with BanchoBot in 2019")
 
@@ -188,7 +177,7 @@ On 1 April 2014, the osu! main menu screen was temporarily changed (shown below)
 
 ## 2015
 
-### osu!coins
+### osu!coins 
 
 *See also: [osu!coin](/wiki/osu!coin)*
 
@@ -224,17 +213,19 @@ it was the only high-quality video showing the osu!coins in there actual intende
 
 ### osu! in virtual reality
 
-<!--text-->
+On 1 April 2016, [a newspost](https://osu.ppy.sh/home/news/2016-04-01-oculus-rift-to-be-supported-as-an-input-method) was published detailing the announcement of plans to add support for the [Oculus Rift](https://en.wikipedia.org/wiki/Oculus_Rift "Wikipedia") as a new [input method](/wiki/Gameplay/Input_device) in osu!. The post, written by [Evrien](https://osu.ppy.sh/users/791660), referenced many quotes from a supposed interview of [peppy](https://osu.ppy.sh/users/2) that was conducted by [Flyte](https://osu.ppy.sh/users/3103765) in which peppy explained his reasoning for the announcment and ideas for how the concept might work.
 
-<!--make sure to mention McOsu-->
+Regarding how players might use the Oculus Rift as an input method, the newspost describes that "the player will experience a first person point-of-view of the cursor as it travels to and from hit-objects on screen…" and will hit hit objects by "…having the player produce vowel-like sounds using their mouth." No actual in-game changes were made relating to using the Oculus Rift or a similar [virtual reality (VR)](https://en.wikipedia.org/wiki/Virtual_reality "Wikipedia") device to control osu!.
+
+However, even though the official osu! developers have/had no intention of genuinely adding VR support, the idea of osu! in VR piqued interest in the minds of some fans. This interest eventually culminated into an unofficial fan project that was started shortly afterwards to aimed to create a free and open-source client to play osu! [beatmaps](/wiki/Beatmap) in VR. Named "[McOsu](https://store.steampowered.com/app/607260/McOsu "Steam")," the project was completed and released on [Steam](https://en.wikipedia.org/wiki/Steam_(service) "Wikipedia") on 20 March 2017.
 
 #### References
 
 - [osu! newspost [Evrien] (1 April 2016) - "Oculus Rift to be Supported as an Input Method (April Fools!)"](https://osu.ppy.sh/home/news/2016-04-01-oculus-rift-to-be-supported-as-an-input-method)
 
-### Auto mod cursor dances/dancing pippi
+### Dancing Auto mod cursor/dancing pippi
 
-<!--text-->
+"dancing pippi" (also known as "dancing Auto mod cursor") is the nickname given to one of the 2016 osu! April Fools' jokes in which an update was released that caused the game cursor in [Auto](/wiki/Game_modifier/Auto) mod [replays](/wiki/Replay) to <!--left off here-->
 
 #### References
 

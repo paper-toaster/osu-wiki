@@ -23,6 +23,6 @@ Records of osu!'s history, all in the osu! wiki.
 ## Other records
 
 - [History of the osu! wiki](/wiki/History_of_osu!/osu!_wiki)
-- [History of osu! April Fools' jokes](/wiki/History_of_osu!/April_fools)
+- [History of osu! April Fools' day jokes](/wiki/History_of_osu!/April_Fools)
 - [Staff log record](/wiki/Staff_Log)
 - [History of osu!'s official tournaments](/wiki/Tournaments)
