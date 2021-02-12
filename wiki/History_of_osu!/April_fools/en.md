@@ -86,9 +86,9 @@ There was also a report at the time of [Ephemeral](https://osu.ppy.sh/users/1023
 
 On 1 April 2012, the entire osu! website had a 50% chance of either the [Flashlight (FL) mod](/wiki/Game_modifier/Flashlight) or [Hidden (HD) mod](/wiki/Game_modifier/Hidden) being "enabled" on the site per page load (3/10 for HD; 1/5 for FL). A modern recreation of what the prank looked like for users at the time is shown below \[1,2,3,4,5,6\].
 
-![](img/2012-flashlight.gif "What the website would have looked like with the Flashlight mod "enabled"")
+![](img/2012-flashlight.gif "What the website would have looked like with the Flashlight mod enabled")
 
-![](img/2012-flashlight.gif "What the website would have looked like with the Flashlight mod "enabled"")
+![](img/2012-hidden.gif "What the website would have looked like with the Hidden mod enabled")
 
 #### References
 
