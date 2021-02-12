@@ -109,7 +109,7 @@ The "Bad Apple Ranking Chart" was a joke ranking chart based off of a variety of
 >
 > Look forward to our next charts, the Renai Circulation and Irony charts!
 
-— Cyclone, "Bad Apple Ranking Chart!"
+— Cyclone, "Bad Apple Ranking Chart!" \[2,3\]
 
 The chart was opened on 1 April 2012 and closed on 2 April 2012. At the end of the ranking period, player [Mesita](https://osu.ppy.sh/users/201459) was the number one player with a ranked score of 145,623,328 \[4\].
 
@@ -175,37 +175,37 @@ On 1 April 2014, the osu! main menu screen was temporarily changed (shown below)
 
 ---
 
-## 2015 <!--stopped citing numbers here-->
+## 2015
 
 ### osu!coins
 
 *See also: [osu!coin](/wiki/osu!coin)*
 
-On 31 March 2015, [peppy](https://osu.ppy.sh/users/2) released [a newspost](https://osu.ppy.sh/home/news/2015-03-31-osucoins) that announced the addition of a new in-game currency to be added to osu!, dubbed "osu!coins." In the newspost, peppy jokingly explained that his reasoning behind the change was due to the current monetary gain from player donations would not have been enough to buy him a personal jet within his lifetime:
+On 31 March 2015, [peppy](https://osu.ppy.sh/users/2) released [a newspost](https://osu.ppy.sh/home/news/2015-03-31-osucoins) that announced the addition of a new in-game currency to be added to osu!, dubbed "osu!coins" \[1,2\]. That newspost also explained what the in-game currency was and how it worked along with a specially-created [osu!academy video](https://www.youtube.com/watch?v=BImc5McuK1o "YouTube"). He also joked that his reasoning behind the change was due to the fact that the current monetary gain from player donations would not have been enough to buy him a personal jet within his lifetime:
 
 > At the current rate of return, it would be unlikely for me to purchase a personal jet within my lifetime, which is one of my primary life goals. Thus I held discussions with the team on alternate forms of monetisation, studying the current trends in similar free-to-play games currently available on the market.
 
-— peppy, "osu!coins"
+— peppy, "osu!coins" \[1\]
 
 *Note: Under [Coordinated Universal Time (UTC)](https://en.wikipedia.org/wiki/Coordinated_Universal_Time "Wikipedia"), the post was posted on 31 March 2015. However, at the time of the publication, peppy was currently living in Australia, in which the current date was 1 April 2015.*
 
-The in-game currency and how it worked was detailed in the newspost iteself, along with a specially-created osu!academy video. In short, to play or restart a beatmap, users would have to use one osu!coin, and would once they ran out of osu!coins, they would either have to stop playing and wait for the next day, or pay with real money to get more osu!coins. However, acutal gameplay was not affected, and users could just continue playing as normal once all their osu!coins were depleted.
+In short, to play or restart a beatto use one osu!coin, and once they ran out of osu!coins, they would either have to stop playing and wait until the next, or pay real money to get more osu!coins. In spite of this description, acutal gameplay was not affected, and users could just continue playing as normal once all their osu!coins were depleted \[1,3,4,5\].
 
-Shortly after the newspost was published, players would find themselves greeted with an osu! main screen that had a background of slowly falling osu!coins, along with a slightly changed main theme, in which the exclamation "circles!" was replaced with a robotic-sounding "and buy the coins" before the beat drop.
+A new osu! main screen was made that had a barrage of slowly rising osu!coins in the background, along with a slightly changed main theme, in which the exclamation "circles!" was replaced with a robotic-sounding "and buy the coins" before the beat drop. Additional new textures, sound effects, animations, and music were created for this prank, including an counter that would display the amount of coins players had throughout the map. \[5,6\]. <!--needs further verification-->
 
-New textures, sound effects, and music were created for this prank, including an counter that would display the amount of coins players had throughout the map. There were also videos at the time which detailed bugs with the system that allowed users to gain infinite osu!coins.
+The update was generally well-recieved by players and saw some actualmap, users would have  support for a future implemention without the monetization, however peppy rolled back the implemention of osu!coins the following day with [a remark in its corresponding changelog update] about the feedback \[3,7,8,9\].
 
 #### References
 
-- [osu! newspost [peppy] (31 March 2015) - "osu!coins!"](https://osu.ppy.sh/home/news/2015-03-31-osucoins)
-- [April Fools' Day On The Web entry - "osu!coins! (fake business model, obviously a joke from blog & video)"](http://aprilfoolsdayontheweb.com/joke/20150013/?size=1 "April Fools' Day On The Web")
-- [Forum thread (General Discussion) [Terriama] - "April Fools"](https://osu.ppy.sh/community/forums/topics/377157)
-- [YouTube video [synonia] - "Osu! Coin generator 14 coins in 30 seconds"](https://web.archive.org/web/20210204054554/https://www.youtube.com/watch?v=Cmt646ujDFc "Internet Archive — YouTube")
-
-<!-- video lost due to deletion: https://www.youtube.com/watch?v=xr4aOXyfV-k -->
-
-<!-- for some quick information, the original video was titled "osu! April Fools Day 2015" and was a video of the uploader replaying the same beatmap a over and over as the osu!coins count ticks down
-it was the only high-quality video showing the osu!coins in there actual intended state, but was deleted on request of the creator. if anyone knows how to finaggle youtube to let me watch or download or get the original uploader's name, that would be very helpful. -->
+1. [osu! newspost [peppy] (31 March 2015) - "osu!coins!"](https://osu.ppy.sh/home/news/2015-03-31-osucoins)
+2. [April Fools' Day On The Web entry - "osu!coins! (fake business model, obviously a joke from blog & video)"](http://aprilfoolsdayontheweb.com/joke/20150013/?size=1 "April Fools' Day On The Web")
+3. [osu! wiki article - "osu!coin"](https://osu.ppy.sh/wiki/en/osu%21coin)
+4. [YouTube video [synonia] - "Osu! Coin generator 14 coins in 30 seconds"](https://www.youtube.com/watch?v=Cmt646ujDFc "YouTube")
+5. [YouTube video [osu!] - "Introduction to osu!coins (April Fools'2015)"](https://www.youtube.com/watch?v=BImc5McuK1o "YouTube")
+6. [YouTube video [BananCho] - "Osu!Coins."](https://www.youtube.com/watch?v=0yWlUzG_tb8&t=39s "YouTube")
+7. [YouTube video [TheRexster] - "HOW TO GET OSU COINS VERY FAST!"](https://www.youtube.com/watch?v=wRVd5Bdf9rk "YouTube")
+8. [Forum thread (General Discussion) [Terriama] - "April Fools"](https://osu.ppy.sh/community/forums/topics/377157)
+9. [osu! changelog comment [peppy] - "Cutting Edge 20150401"](https://osu.ppy.sh/comments/121803)
 
 ---
 
@@ -213,26 +213,32 @@ it was the only high-quality video showing the osu!coins in there actual intende
 
 ### osu! in virtual reality
 
-On 1 April 2016, [a newspost](https://osu.ppy.sh/home/news/2016-04-01-oculus-rift-to-be-supported-as-an-input-method) was published detailing the announcement of plans to add support for the [Oculus Rift](https://en.wikipedia.org/wiki/Oculus_Rift "Wikipedia") as a new [input method](/wiki/Gameplay/Input_device) in osu!. The post, written by [Evrien](https://osu.ppy.sh/users/791660), referenced many quotes from a supposed interview of [peppy](https://osu.ppy.sh/users/2) that was conducted by [Flyte](https://osu.ppy.sh/users/3103765) in which peppy explained his reasoning for the announcment and ideas for how the concept might work.
+On 1 April 2016, [a newspost](https://osu.ppy.sh/home/news/2016-04-01-oculus-rift-to-be-supported-as-an-input-method) was published detailing the announcement of plans to add support for the [Oculus Rift](https://en.wikipedia.org/wiki/Oculus_Rift "Wikipedia") as a new [input method](/wiki/Gameplay/Input_device) in osu!. The post, written by [Evrien](https://osu.ppy.sh/users/791660), referenced many quotes from a supposed interview of [peppy](https://osu.ppy.sh/users/2) in which he explained his reasoning for the announcment and ideas for how the concept might work \[1\].
 
-Regarding how players might use the Oculus Rift as an input method, the newspost describes that "the player will experience a first person point-of-view of the cursor as it travels to and from hit-objects on screen…" and will hit hit objects by "…having the player produce vowel-like sounds using their mouth." No actual in-game changes were made relating to using the Oculus Rift or a similar [virtual reality (VR)](https://en.wikipedia.org/wiki/Virtual_reality "Wikipedia") device to control osu!.
+Regarding how players might use the Oculus Rift as an input method, the newspost describes that "the player will experience a first person point-of-view of the cursor as it travels to and from hit-objects on screen…" and will hit hit objects by "…having the player produce vowel-like sounds using their mouth." No actual in-game changes were made relating to using the Oculus Rift or a similar [virtual reality (VR)](https://en.wikipedia.org/wiki/Virtual_reality "Wikipedia") device to control osu! \[1\].
 
-However, even though the official osu! developers have/had no intention of genuinely adding VR support, the idea of osu! in VR piqued interest in the minds of some fans. This interest eventually culminated into an unofficial fan project that was started shortly afterwards to aimed to create a free and open-source client to play osu! [beatmaps](/wiki/Beatmap) in VR. Named "[McOsu](https://store.steampowered.com/app/607260/McOsu "Steam")," the project was completed and released on [Steam](https://en.wikipedia.org/wiki/Steam_(service) "Wikipedia") on 20 March 2017.
+*Notice: McOsu is developed separately from and has no direct affiliation with osu! or ppy Pty Ltd.*
+
+However, even though the official osu! developers have/had no intention of genuinely adding VR support, the idea of osu! in VR piqued interest in the minds of some fans. This interest eventually culminated into an unofficial fan project that was started shortly afterwards to aimed to create a free and open-source client to practice osu! [beatmaps](/wiki/Beatmap) with more features and [game modifiers](/wiki/Game_modifier) including the ability to play in VR. Named "[McOsu](https://store.steampowered.com/app/607260/McOsu "Steam")," the project was completed and released on [Steam](https://en.wikipedia.org/wiki/Steam_(service) "Wikipedia") on 20 March 2017 \[2,3,4,5\].
 
 #### References
 
-- [osu! newspost [Evrien] (1 April 2016) - "Oculus Rift to be Supported as an Input Method (April Fools!)"](https://osu.ppy.sh/home/news/2016-04-01-oculus-rift-to-be-supported-as-an-input-method)
+1. [osu! newspost [Evrien] (1 April 2016) - "Oculus Rift to be Supported as an Input Method (April Fools!)"](https://osu.ppy.sh/home/news/2016-04-01-oculus-rift-to-be-supported-as-an-input-method)
+2. [Reddit post ({subreddit}) [{user}] - "{post title}"](https://www.reddit.com/r/osugame/comments/4vuksd/mcosu_alpha_20_public_release_custom_practice/ "Reddit")
+3. [YouTube video [{user}] - "{video title}"](https://www.youtube.com/watch?v=PCLpOdcMQuc "YouTube")
+4. [GameSkinny - "What Even Is McOsu? Because It's Not Osu!"](https://www.gameskinny.com/mhaa0/what-even-is-mcosu-because-its-not-osu "GameSkinny")
+5. [Github - "McKay42/McOsu"](https://github.com/McKay42/McOsu "GitHub")
 
 ### Dancing Auto mod cursor/dancing pippi
 
-"dancing pippi" (also known as "dancing Auto mod cursor") is the nickname given a 2016 osu! April Fools' joke in which an update was released that caused the game cursor in [Auto](/wiki/Game_modifier/Auto) mod [replays](/wiki/Replay) to circle around the current [hit object](/wiki/Hit_object) in pixel-perfect fashion before eventually hitting the object right on time. This is in contrast to the Auto mod's typical robotic, perfectly straight movements.
+"dancing pippi" (also known as "dancing Auto mod cursor") is the nickname given to one of osu!'s April Fools' jokes for 2016 in which an update was released that caused the game cursor in [Auto](/wiki/Game_modifier/Auto) mod [replays](/wiki/Replay) to circle around the current [hit object](/wiki/Hit_object) in pixel-perfect fashion before eventually hitting the object right on time, which is in contrast to the Auto mod's typical robotic and perfectly straight movements. The aforementioned update was rolled back in a subsequent one the next day \[1,2,3,4\]. <!--still needs official official verification-->
 
 #### References
 
-- [YouTube video [HoLLy] - "osu!'s april fools 2016 (auto mod improvement)"](https://www.youtube.com/watch?v=r9SCbYG4GYs "YouTube")
-- [YouTube= video [Hubz] - "osu! 2016 april fools (dancing pippi)"](https://www.youtube.com/watch?v=fYTdPqhAns0 "YouTube")
-- [YouTube video [mightyaleks] - "Osu! Dancing Auto-cursor and retard Spin | 1st April 2016"](https://www.youtube.com/watch?v=5Tj-1sgHl9g "YouTube")
-- [Reddit post (r/osugame) [u/osuisgameforweebs] - "Something about the april fools joke dancing that some might not have noticed"](https://www.reddit.com/r/osugame/comments/4crlw1/something_about_the_april_fools_joke_dancing_that/ "Reddit")
+1. [YouTube video [HoLLy] - "osu!'s april fools 2016 (auto mod improvement)"](https://www.youtube.com/watch?v=r9SCbYG4GYs "YouTube")
+2. [YouTube= video [Hubz] - "osu! 2016 april fools (dancing pippi)"](https://www.youtube.com/watch?v=fYTdPqhAns0 "YouTube")
+3. [YouTube video [mightyaleks] - "Osu! Dancing Auto-cursor and retard Spin | 1st April 2016"](https://www.youtube.com/watch?v=5Tj-1sgHl9g "YouTube")
+4. [Reddit post (r/osugame) [u/osuisgameforweebs] - "Something about the april fools joke dancing that some might not have noticed"](https://www.reddit.com/r/osugame/comments/4crlw1/something_about_the_april_fools_joke_dancing_that/ "Reddit")
 
 ### Free osu! supporter tags
 
@@ -240,12 +246,12 @@ However, even though the official osu! developers have/had no intention of genui
 
 #### References
 
-- [Forum thread (Resolved Issues) [-AlieN] - "[resolved] April Fools??!??!??"](https://osu.ppy.sh/community/forums/topics/437855)
-- [Reddit post (r/osugame) [u/CraftyDart] - "The best April Fools day ever."](https://www.reddit.com/r/osugame/comments/4cshv3/the_best_april_fools_day_ever/ "Reddit")
-- [Forum thread comment (Off-Topic) [Epipheralis] - "april fools")](https://osu.ppy.sh/community/forums/topics/437866?start=5006805)
-- [osu! home page, 1 April 2016](https://web.archive.org/web/20160401001507/https://osu.ppy.sh/ "Internet Archive — osu!")
-- [Forum thread (Resolved Issues) [Bearial1] - "[resolved] Why am I a supporter?"](https://osu.ppy.sh/community/forums/topics/438118)
-- [Forum thread (Resolved Issues) [noah4678] - "[resolved] says im a supporter"](https://osu.ppy.sh/community/forums/topics/438119)
+1. [Forum thread (Resolved Issues) [-AlieN] - "[resolved] April Fools??!??!??"](https://osu.ppy.sh/community/forums/topics/437855)
+2. [Reddit post (r/osugame) [u/CraftyDart] - "The best April Fools day ever."](https://www.reddit.com/r/osugame/comments/4cshv3/the_best_april_fools_day_ever/ "Reddit")
+3. [Forum thread comment (Off-Topic) [Epipheralis] - "april fools")](https://osu.ppy.sh/community/forums/topics/437866?start=5006805)
+4. [osu! home page, 1 April 2016](https://web.archive.org/web/20160401001507/https://osu.ppy.sh/ "Internet Archive — osu!")
+5. [Forum thread (Resolved Issues) [Bearial1] - "[resolved] Why am I a supporter?"](https://osu.ppy.sh/community/forums/topics/438118)
+6. [Forum thread (Resolved Issues) [noah4678] - "[resolved] says im a supporter"](https://osu.ppy.sh/community/forums/topics/438119)
 
 ### Upside-down osu! logo on website
 
@@ -253,9 +259,9 @@ However, even though the official osu! developers have/had no intention of genui
 
 #### References
 
-- [Forum thread comment (Off-Topic) [Birdy] - "april fools")](https://osu.ppy.sh/community/forums/posts/5005957)
-- [osu! home page, 1 April 2016](https://web.archive.org/web/20160401001507/https://osu.ppy.sh/ "Internet Archive — osu!")
-- [Forum thread (Off-Topic) [Rilene] - "osu logo"](https://osu.ppy.sh/community/forums/topics/437755)
+1. [Forum thread comment (Off-Topic) [Birdy] - "april fools")](https://osu.ppy.sh/community/forums/posts/5005957)
+2. [osu! home page, 1 April 2016](https://web.archive.org/web/20160401001507/https://osu.ppy.sh/ "Internet Archive — osu!")
+3. [Forum thread (Off-Topic) [Rilene] - "osu logo"](https://osu.ppy.sh/community/forums/topics/437755)
 
 ---
 
@@ -277,12 +283,12 @@ However, even though the official osu! developers have/had no intention of genui
 
 #### References
 
-- [Reddit post (r/osugame) [u/[deleted]] - "New April Fools Update now has a rotating osu! Logo"](https://www.reddit.com/r/osugame/comments/88kq23/new_april_fools_update_now_has_a_rotating_osu_logo/?st=JFGBCI5G&sh=49cf8677 "Reddit")
-- [Reddit post (r/osugame) [u/hi_im_marc] - "April Fools Patch Is Out Get Ready To Get BAMBOOZLED!!!1"](https://www.reddit.com/r/osugame/comments/88kbit/april_fools_patch_is_out_get_ready_to_get/ "Reddit")
-- [Reddit post (r/osugame) [u/AdriaLOL] - "{post title}"](https://www.reddit.com/r/osugame/comments/88qlwk/haha_nice_april_fools_peppy_xd/ "Reddit")
-- [Forum thread (General Discussion) [Aochie] - "The osu! logo is moving?"](https://osu.ppy.sh/community/forums/topics/724377)
-- [Forum thread (Resolved Issues [Jreen] - "[resolved] Osu! Logo Sideways?"](https://osu.ppy.sh/community/forums/topics/724094)
-- [osu! wiki article - "History of osu! 2018"](https://osu.ppy.sh/wiki/en/History_of_osu%21/2018#april)
+1. [Reddit post (r/osugame) [u/[deleted]] - "New April Fools Update now has a rotating osu! Logo"](https://www.reddit.com/r/osugame/comments/88kq23/new_april_fools_update_now_has_a_rotating_osu_logo/?st=JFGBCI5G&sh=49cf8677 "Reddit")
+2. [Reddit post (r/osugame) [u/hi_im_marc] - "April Fools Patch Is Out Get Ready To Get BAMBOOZLED!!!1"](https://www.reddit.com/r/osugame/comments/88kbit/april_fools_patch_is_out_get_ready_to_get/ "Reddit")
+3. [Reddit post (r/osugame) [u/AdriaLOL] - "{post title}"](https://www.reddit.com/r/osugame/comments/88qlwk/haha_nice_april_fools_peppy_xd/ "Reddit")
+4. [Forum thread (General Discussion) [Aochie] - "The osu! logo is moving?"](https://osu.ppy.sh/community/forums/topics/724377)
+5. [Forum thread (Resolved Issues [Jreen] - "[resolved] Osu! Logo Sideways?"](https://osu.ppy.sh/community/forums/topics/724094)
+6. [osu! wiki article - "History of osu! 2018"](https://osu.ppy.sh/wiki/en/History_of_osu%21/2018#april)
 
 ---
 
@@ -294,9 +300,9 @@ However, even though the official osu! developers have/had no intention of genui
 
 #### References
 
-- [Reddit post (r/osugame) [u/jivko500] - "The April Fools joke in osu"](https://www.reddit.com/r/osugame/comments/b83pnl/the_april_fools_joke_in_osu/ "Reddit")
-- [Reddit post (r/osugame) [u/anoymaly2152] - "{post title}"](https://www.reddit.com/r/osugame/comments/b848ro/bless_you_pippi/ "Reddit")
-- [Forum thread ({forum}) [Brainage] - "{forum post title}"](https://osu.ppy.sh/community/forums/topics/888939)
+1. [Reddit post (r/osugame) [u/jivko500] - "The April Fools joke in osu"](https://www.reddit.com/r/osugame/comments/b83pnl/the_april_fools_joke_in_osu/ "Reddit")
+2. [Reddit post (r/osugame) [u/anoymaly2152] - "{post title}"](https://www.reddit.com/r/osugame/comments/b848ro/bless_you_pippi/ "Reddit")
+3. [Forum thread ({forum}) [Brainage] - "{forum post title}"](https://osu.ppy.sh/community/forums/topics/888939)
 
 ---
 
@@ -308,7 +314,7 @@ However, even though the official osu! developers have/had no intention of genui
 
 #### References
 
-- [osu! newspost [Ephemeral] (1 April 2020) - "New Featured Artist: MillhioreF"](https://osu.ppy.sh/home/news/2020-04-01-new-featured-artist-millhioref)
+1. [osu! newspost [Ephemeral] (1 April 2020) - "New Featured Artist: MillhioreF"](https://osu.ppy.sh/home/news/2020-04-01-new-featured-artist-millhioref)
 
 ### Sneezing girl sound effect (2020)
 
@@ -316,5 +322,5 @@ However, even though the official osu! developers have/had no intention of genui
 
 #### References
 
-- [Reddit post ({subreddit}) [{user}] - "{post title}"](https://www.reddit.com/r/osugame/comments/fsxfpk/does_anybody_sometimes_hear_the_achoo_sorry_for/ "Reddit")
-- [Reddit post ({subreddit}) [{user}] - "{post title}"](https://www.reddit.com/r/osugame/comments/fsq30l/this_years_osu_april_fools_day_joke/ "Reddit")
+1. [Reddit post ({subreddit}) [{user}] - "{post title}"](https://www.reddit.com/r/osugame/comments/fsxfpk/does_anybody_sometimes_hear_the_achoo_sorry_for/ "Reddit")
+2. [Reddit post ({subreddit}) [{user}] - "{post title}"](https://www.reddit.com/r/osugame/comments/fsq30l/this_years_osu_april_fools_day_joke/ "Reddit")
