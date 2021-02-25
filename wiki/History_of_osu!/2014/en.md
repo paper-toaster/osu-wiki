@@ -1,5 +1,15 @@
 # History of osu! 2014
 
+## January
+
+The entire [performance points (pp)](/wiki/Performance_points) system was completely disabled for maintenance on 20 January 2014 due to miscalculations that had occurred over the previous few months \[1\]. This disabling was then followed by an announcment on 26 January 2014 that detailed a complete, from-the-ground-up redesign of the pp system that was set live the next day \[2,3\]. The new system was designed and implemented by [Tom94](https://osu.ppy.sh/users/1857058) and had aimed to base pp scores off of a new "difficulty value" (separate from [star rating](/wiki/Beatmapping/Star_rating)) that was determined for every [beatmap](/wiki/Beatmap) and [mod](/wiki/Game_modifier) combination in the game \[1\]. As a result of this, the old pp system was renamed to "ppv1" and the new system was named "ppv2".
+
+### References
+
+1. [osu! newspost [peppy] (20 January 2014) - "Performance Ranking Maintenance"](https://osu.ppy.sh/home/news/2014-01-20-performance-ranking-maintenance)
+2. [osu! newspost [Tom94] (20 January 2014) - "Performance Ranking Maintenance"](https://osu.ppy.sh/home/news/2014-01-20-performance-ranking-maintenance)
+3. [osu! wiki article - "Performance points"](/wiki/Performance_points)
+
 ## March
 
 As skinning elements expanded, the element, `playfield.jpg` was removed in it's line of duty and replaced with a new generic one that is unskinnable. `playfield.jpg` was an element that allowed you to use any image as the default background of a beatmap, if one isn't supplied.
