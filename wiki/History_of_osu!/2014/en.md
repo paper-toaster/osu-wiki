@@ -8,7 +8,7 @@ The entire [performance points (pp)](/wiki/Performance_points) system was comple
 
 On 1 March 2014 the performance points system redesign by Tom94 in months prior was ready to be set live for [osu!taiko](/wiki/Game_mode/osu!taiko), [osu!catch](/wiki/Game_mode/osu!catch), and [osu!mania](/wiki/Game_mode/osu!mania) as the official ranking system for those modes, along with a reminder that the current system was not yet 100% finished, and further feedback from players was still needed \[4\].
 
-As [skinning](/wiki/Skinning) elements expanded, the element, `playfield.jpg` was deprecated and replaced with a new generic one that is not modifiable. `playfield.jpg` was an element that allowed skinners to use any image as the default background of a beatmap if one was not supplied. This functionality was later brought in the form of `menu-background.jpg`, which change both the main screen and default playfield backgrounds \[5,6\]. <!--date needed-->
+As [skinning](/wiki/Skinning) elements expanded, the element, `playfield.jpg` was deprecated and replaced with a new generic one that is not modifiable. `playfield.jpg` was an element that allowed skinners to use any image as the default background of a beatmap if one was not supplied. This functionality was later brought in the form of `menu-background.jpg`, which changed both the main screen and default playfield backgrounds \[5,6\]. <!--date needed-->
 
 ![](img/2014-03_01.jpg "Default background for beatmaps without specified backgrounds")
 
@@ -18,7 +18,7 @@ The first ever "osu! Monthly Fanart Contest" was announced on 3 April 2014. The 
 
 ## June
 
-On 18 June 2014, [peppy](https://osu.ppy.sh/users/2) announced that the download limitations would be removed for all users; however, there was still a, quote, "sanity limit" that would prevent bots from downloading an inhuman amount of beatmaps \[9\]. <!--more information needed-->
+On 18 June 2014, [peppy](https://osu.ppy.sh/users/2) announced that the download limitations would be removed for all users; however, there was still a, quote, "sanity limit" that would prevent bots from downloading an inhuman amount of beatmaps \[9\].
 
 ## August
 
