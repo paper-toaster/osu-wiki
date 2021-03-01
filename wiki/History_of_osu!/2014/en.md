@@ -18,7 +18,7 @@ The first ever "osu! Monthly Fanart Contest" was announced on 3 April 2014. The 
 
 ## June
 
-On 18 June 2014, [peppy](https://osu.ppy.sh/users/2) announced that the download limitations would be removed for all users; however, there was still a, quote, "sanity limit" that would prevent bots from downloading too much \[9\]. <!--more information needed-->
+On 18 June 2014, [peppy](https://osu.ppy.sh/users/2) announced that the download limitations would be removed for all users; however, there was still a, quote, "sanity limit" that would prevent bots from downloading an inhuman amount of beatmaps \[9\]. <!--more information needed-->
 
 ## August
 
