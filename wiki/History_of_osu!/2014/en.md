@@ -20,15 +20,15 @@ The first ever "osu! Monthly Fanart Contest" was announced on 3 April 2014. The 
 
 On 18 June 2014, [peppy](https://osu.ppy.sh/users/2) announced that the download limitations would be removed for all users; however, there was still a, quote, "sanity limit" that would prevent bots from downloading too much \[9\]. <!--more information needed-->
 
+## August
+
+On 21 August 2014, a [newspost](https://osu.ppy.sh/home/news/2014-08-21-restructuring-of-the-bat) was released announcing a new restructuring of the [Beatmap Appreciation Team (BAT)](/wiki//Modding/Beatmap_Appreciation_Team), which detailed the separation of the original team into the Beatmap Appreciation Team and the [Quality Assurance Team (QAT)](/wiki//Modding/Quality_Assurance_Team) \[10\].
+
 ## October
 
-As always, many new things were added to osu!. One being the new sign-in screen. Another being the new system for scrolling in [osu!mania](/wiki/Game_mode/osu!mania). It was to be based off of the beatmap's bpm rather than a fixed scroll! New intro and outro sequence and an awesome theme song were added into osu!, rather than a random beatmap's music to be played. And many discovered that osu! was pronounced as \\oss!\\, not \\osU!\\.
+October brought a handful of new additions to the base game, including a new sign in screen and new system for scrolling in [osu!mania](/wiki/Game_mode/osu!mania) based off of beatmap BPM, new intro and outro sequences, and a custom theme song that was to be played on startup (as opposed to a random beatmap). <!--citation needed-->
 
-Lastly, leading to peppy making a tough decision to release *osu!test.exe* (now *osu!cuttingedge*) for **anyone**. This was to allow non-osu!supporters to *debug* osu! where the newest (or latest) builds of osu! would be updated to any client. That was, if they're wanting to use it's unstable/experimental features. Every function was given in osu!cuttingedge **except** for multiplayer (osu!supporter was required).
-
-## December
-
-"Merry Christmas" as peppy wrote with an update that had snow (current game mode icon) falling in the main screen!
+Additionally, [peppy](https://osu.ppy.sh/users/2) also released the "osu!test" build (now known as "Cutting Edge) to all players, as opposed to just [osu!supporters](https://osu.ppy.sh/home/support) in an attempt to help debugging efforts. <!--citation needed-->
 
 ## References
 
@@ -41,3 +41,4 @@ Lastly, leading to peppy making a tough decision to release *osu!test.exe* (now 
 7. [osu! newspost [LuigiHann] (3 April 2014) - "osu! Monthly Fanart Contest #1 - Ends this week!"](https://osu.ppy.sh/home/news/2014-04-03-osu-monthly-fanart-contest-1-ends-this-week)
 8. [osu! newspost [LuigiHann] (21 May 2014) - "First Official osu! Fanart Contest Results!"](https://osu.ppy.sh/home/news/2014-05-21-first-official-osu-fanart-contest-results)
 9. [osu! newspost [peppy] (18 June 2014) - "Download restrictions removed"](https://osu.ppy.sh/home/news/2014-06-18-download-restrictions-removed)
+10. [osu! newspost [Ephemeral] (21 August 2014) - "Restructuring of the BAT"](https://osu.ppy.sh/home/news/2014-08-21-restructuring-of-the-bat)
