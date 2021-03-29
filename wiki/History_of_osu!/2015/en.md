@@ -5,46 +5,55 @@ tags:
   - legacy
 ---
 
-<!--TODO
-[ ] Link all in-text citations to the references header
---
--->
-
 # History of osu! 2015
 
 ## February
 
-Storyboard rules were updated to allow for image sizes larger than 854x640 on 16 February 2015. As  suggested by [Xgor](https://osu.ppy.sh/users/98661), the new maximum rankable image size in storyboards was updated to 1366x768 \[1,2\].
+Storyboard rules were updated to allow for image sizes larger than 854x640 on 16 February 2015. As  suggested by [Xgor](https://osu.ppy.sh/users/98661), the new maximum rankable image size in storyboards was updated to 1366x768 [[1,2]][r].
 
 ## March
 
-Ther first ever edition of osu!weekly was released on 13 March 2015, written by [Tasha](https://osu.ppy.sh/users/1031958), positioning itself as "a weekly news digest covering the latest happenings of the game and its community" \[2\].
+Ther first ever edition of osu!weekly was released on 13 March 2015, written by [Tasha](https://osu.ppy.sh/users/1031958), positioning itself as "a weekly news digest covering the latest happenings of the game and its community" [[2]][r].
 
-The first ever osu! Beatmap Blueprint stickers were added to the [osu!store](https://osu.ppy.sh/store/listing) on 20 March 2015. The stickers came in two packs of 8.5" x 11" custom sitcker sheets featuring elements such hit circles, combo counters, sliders, and much more \[3\]. In celebration of the launch, a contest was also run to see who could make the best [beatmaps](/wiki/Beatmap) using the stickers, with a first place prize of an osu! tablet and osu! sticker sets 1 and 2. Despite this, no actual follow-up towards this contest was ever publicly announced, thus it is presumed that the contest was cancelled \[3,4\]. <!--official verification needed; price needed; discontinue date needed-->
+The first ever osu! Beatmap Blueprint stickers were added to the [osu!store](https://osu.ppy.sh/store/listing) on 20 March 2015. The stickers came in two packs of 8.5" x 11" custom sitcker sheets featuring elements such hit circles, combo counters, sliders, and much more [[3]][r]. In celebration of the launch, a contest was run to see who could make the best [beatmaps](/wiki/Beatmap) using the stickers, with a first place prize of an osu! tablet and osu! sticker sets 1 and 2. Despite this, no actual follow-up towards this contest was ever publicly announced, thus it is presumed that the contest was cancelled [[3,4]][r]. <!--official verification needed; price needed; discontinue date needed-->
 
-[Wii Remote](https://en.wikipedia.org/wiki/Wii_Remote "Wikipedia") support was added for [osu!taiko](/wiki/Game_mode/osu!taiko) on 26 March 2015 \[5\]. <!--changelog entry missing-->
+[Wii Remote](https://en.wikipedia.org/wiki/Wii_Remote "Wikipedia") support was added for [osu!taiko](/wiki/Game_mode/osu!taiko) on 26 March 2015 [[5]][r]. <!--changelog entry missing-->
 
-[osu!coins](/wiki/osu!coin) were a joke in-game currency addded to osu! by [peppy](https://osu.ppy.sh/users/2) on 31 March 2015 as part of an April Fools' day joke. The coins were made to parody [free-to-play](https://en.wikipedia.org/wiki/Free-to-play "Wikipedia") mobile games' common use of in-game currencies and [microtransactions](https://en.wikipedia.org/wiki/Microtransaction "Wikipedia") and were quickly removed the next day.
+On 31 March 2015, [osu!coins](/wiki/osu!coin) were added as a joke in-game currency for osu! as part of an April Fools' day joke. The coins were made to parody [free-to-play](https://en.wikipedia.org/wiki/Free-to-play "Wikipedia") mobile games' common use of in-game currencies and [microtransactions](https://en.wikipedia.org/wiki/Microtransaction "Wikipedia") and were quickly removed the next day.
 
 ## April
 
-Some small, miscellaneous changes were made during April: the `#balkan` channel was re-added to the game as per a [feature request](https://osu.ppy.sh/community/forums/topics/152009&start=0) on 2 April 2015 \[6,7\], the [Co-op mod](/wiki/Game_modifier/Co-op) became an unranked mod on 6 April 2015 \[8\], and 9K was made rankable after being given proper use support in the editor on 30 April 2015 \[9\].
+The `#balkan` channel was re-added to the game as per a [feature request](https://osu.ppy.sh/community/forums/topics/152009&start=0) on 2 April 2015 [[6,7]][r].
+
+The [Co-op mod](/wiki/Game_modifier/Co-op) became an unranked mod on 6 April 2015 [[8]][r].
+
+9K was made rankable after being given proper use support in the editor on 30 April 2015 [[9]][r].
 
 ## May
 
 *Notice: The [forum post](https://osu.ppy.sh/community/forums/topics/334994) that announced news of the new ranking system was released on 4 June 2015, although the old system was actually fully deprecated on 1 May 2015, and full implementation of the new system was still yet to be available to the public by the end of 2015.*
 
-The old Beatmap Nominator (BN) ranking was fully deprecated on 1 May 2015, and replaced with a new, real-time ranking. This new ranking retained the original goal of the previous one, although it focused on challenge and collaboration as opposed to individual performance over a set timeframe. Public reception towards this new change was overall mostly positive, although many users did remark that the new system was confusing \[10,11\].
+The old Beatmap Nominator (BN) ranking was fully deprecated on 1 May 2015, and replaced with a new, real-time ranking. This new ranking retained the original goal of the previous one, although it focused on challenge and collaboration as opposed to individual performance over a set timeframe. Public reception towards this new change was overall mostly positive, although many users did remark that the new system was confusing [[10,11]][r].
 
-The [osu!news YouTube Channel](https://www.youtube.com/channel/UCZKQIqv9O2tddMNUMAxWaqQ "YouTube") uploaded its [first video](https://www.youtube.com/watch?v=KQbudVxEjr8 "YouTube") to the public on 8 May 2015. The channel was run by various members of the community and aimed to create videos on skin showcases, tournaments, mapping, contests, and other news from the community [12,13]
+Among the changes and announcemnts made surrounding beatmap ranking, [a change was made in the ranking process](https://osu.ppy.sh/community/forums/topics/325973) on 5 May 2015 that allowed players to dipsute disqualifications made by the Quality Assurance Team (QAT), due to the lack of any way to dispute issues that the QAT may bring up. The new change made it from then on possible to submit a form if there was a dispute, where a final decision could be made regarding the map and whether it is ready to be ranked [[12]][r].
 
-## July
+The [osu!news YouTube Channel](https://www.youtube.com/channel/UCZKQIqv9O2tddMNUMAxWaqQ "YouTube") uploaded its [first video](https://www.youtube.com/watch?v=KQbudVxEjr8 "YouTube") to the public on 8 May 2015. The channel was run by various members of the community and aimed to create videos on skin showcases, tournaments, mapping, contests, and other news from the community [[12,13]][r].
 
-peppy and flyte briefly explained why the temporary osu!web redesign subdomain was `jizz.ppy.sh` in an episode of osu!talk.
+The osu!keyboard (also known as the "osu! 'nono' keyboard") was added to the osu!store on 30 May 2015, retailing for about $40 at launch. Initially announced in a [tweet by peppy](https://twitter.com/ppy/status/603797988742336512) on 28 May 2015, there were only 100 keyboards available at launch, and were more akin to modern-day osu! keypads than a full-sized keyboard [[14,15]][r].
 
-Links:
+## June
 
-- [osu!talk - osu!next Discussion (10:22)](https://youtu.be/tICLLkOlpno?t=10m22s)
+Implementation of the username change system in the osu!store was set live on 16 June 2015, although full functionality of the system was not available until 18 June 2015. The changes made it so that players must pay $4 USD for their first name change, $8 USD for their second, $16 USD for their third, doubling the price each time with a cap at $100 USD; however, if a user has bought an [osu!supporter tag](https://osu.ppy.sh/home/support), then their first change is free [[16,17,18,19]][r].
+
+The ability to see what a replay would look like without mods was added on 23 June 2015 as per a [feature request](https://osu.ppy.sh/community/forums/topics/97560), although the change only made the mods [Double Time](/wiki/Game_modifier/Double_Time), [Half Time](/wiki/Game_modifier/Half_Time), and [Flashlight](/wiki/Game_modifier/Flashlight) toggle-able [[20]][r].
+
+## August
+
+The Chat Moderators were officially merged into the Global Moderation Team (GMT) on 20 August 2015 [[21,22]][r].
+
+## September
+
+The old FPS counter was replaced with a new "refresh and latency display" on 2 September 2015. This new display would still display the current FPS (frames per second), but the new change caused it to hide from view if it exceeded 500 FPS. In addition, a new counter was added below the FPS counter that would display exactly how much latency was being intrtoduced frame rendering (measured in milliseconds). "Stuttered" or "dropped" frames would be shown as coloured rectangles to the left of the counter to better visualise excactly how much frame render latency a user was experiencing [[23,24]][r].
 
 ## References
 
@@ -61,11 +70,22 @@ Links:
 11. [osu! newspost [Tasha] (13 June 2015) - "osu!weekly #14"](https://osu.ppy.sh/home/news/2015-06-13-osuweekly-14)
 12. [osu! newspost [Tahsa] (8 May 2015) - "osu!weekly #9"](https://osu.ppy.sh/home/news/2015-05-08-osuweekly-9)
 13. [YouTube video [osu!news] (8 May 2015) - "Welcome to the osu!news"](https://www.youtube.com/watch?v=iAhKcQK5Iw8 "YouTube")
+14. [osu! newspost [Tasha] (30 May 2015) - "osu!weekly 12"](https://osu.ppy.sh/home/news/2015-05-30-osuweekly-12)
+15. [Tweet [@ppy] - 28 May 2015](https://twitter.com/ppy/status/603797988742336512)
+16. [ppy blog - "20150604 /VOCAL/"](https://blog.ppy.sh/post/120685091453/20150604-vocal "ppy blog")
+17. [ppy blog - "20150616 /BOXED/"](https://blog.ppy.sh/post/121678619658/20150616-boxed "ppy blog")
+18. [ppy blog - "20150617"](https://blog.ppy.sh/post/121762218848/20150617 "ppy blog")
+19. [ppy blog - "20150618"](https://blog.ppy.sh/post/121862035218/20150618 "ppy blog")
+20. [ppy blog - "20150623"](https://blog.ppy.sh/post/122272830393/20150623 "ppy blog")
+21. [osu! newspost [Tasha] (22 August 2015) - "osu!weekly #24"](https://osu.ppy.sh/home/news/2015-08-22-osuweekly-24)
+22. [osu! forum comment (Development) [IamKwaN] - "Staff Promotion/Retirement Log"](https://osu.ppy.sh/community/forums/topics/179514?start=4435972)
+23. [ppy blog - "20150902"](https://blog.ppy.sh/post/128182041198/20150902 "ppy blog")
+24. [osu! newspost [Tasha] (8 September 2015) - "osu!weekly #26"](https://osu.ppy.sh/home/news/2015-09-08-osuweekly-26)
 
 ---
 
 osu! Forum Thread: `osu! forum thread ({forum}) [{user}] - "{forum post title}"`
-osu! Forum Thread Comment: `osu! forum comment ({forum}) [{user}] - "{forum post title}")`
+osu! Forum Thread Comment: `osu! forum comment ({forum}) [{user}] - "{forum post title}"`
 osu! Newspost: `osu! newspost [{author}] ({date}) - "{newspost title}"`
 osu! Wiki Article: `osu! wiki article - "{article title}"`
 osu! Beatmap Page: `osu! beatmap - "{artist} - {song}" (mapper)`
@@ -79,3 +99,5 @@ Other websites/osu! pages: `{name of website} - "{identifiable name of the page}
 Snapshots/archives of other websites/osu! pages: `{name of website} - "{identifiable name of the page}", {date of snapshot}`
 
 <!-- I won't be mentioning anything about osu!next development in these articles (2015 specifically as thats when a lot of stuff was being "leaked" to the public), as lazer could—and should—have its own entire article dedicated to it. This also goes for Cutting Edge as well, as both lazer and Cutting Edge could have entire systems implemented, only to be reversed the very next day; nothing is concrete-->
+
+[r]: #references
