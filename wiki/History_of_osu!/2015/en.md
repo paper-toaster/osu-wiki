@@ -55,13 +55,23 @@ The Chat Moderators were officially merged into the Global Moderation Team (GMT)
 
 The old FPS counter was replaced with a new "refresh and latency display" on 2 September 2015. This new display would still display the current FPS (frames per second), but the new change caused it to hide from view if it exceeded 500 FPS. In addition, a new counter was added below the FPS counter that would display exactly how much latency was being intrtoduced frame rendering (measured in milliseconds). "Stuttered" or "dropped" frames would be shown as coloured rectangles to the left of the counter to better visualise excactly how much frame render latency a user was experiencing [[23,24]][r].
 
-On 26 September 2015, [cYsmix](http://cysmix.com/ "cysmix.com") became one of the first official osu! artists. This partnership entailed the creation of four unique tracks made specifically for osu!, along with the creation of a mapping contest using those tracks. The aforementioned four tracks are as follows:
+On 26 September 2015, [cYsmix](http://cysmix.com/ "cysmix.com") became one of the first official osu! artists. This partnership entailed the creation of four  along with the creation of a mapping contest using those tracks. The aforementioned four tracks are as followunique tracks made specifically for osu!:
 
-- ["Manic"]
+- ["Manic"](https://soundcloud.com/olemlanglie/cysmix-manic-osu)
+- ["House with Legs"](https://soundcloud.com/olemlanglie/cysmix-house-with-legs-osu)
+- ["Dovregubben's Hall (New Ver.)"](https://soundcloud.com/olemlanglie/cysmix-dovregubbens-hall-new-ver-osu)
 
-Each track had its own pre-timed `.osz` file included with it and were released to soundcloud
+Each track had its own pre-timed `.osz` file included with it and were released on [cYsmix's SoundCloud](https://soundcloud.com/olemlanglie "SoundCloud") on 28 September 2015.
 
-<!--I personally don't like mentioning anything about future years in the history posts as I want to make the posts as seamless as possible so that we only have to update the current (previous) year and not go back and fix anything  -->
+In addition to this, an "open bounty" (more commonly known as "Mapping With Rewards") was created for this event, that allowed anyone to map one of the aforementioned tracks, get it into a rankable state, and if it was "amazingly awesome" enough, that person would recieve a bounty of it. The bounty reward offered at the time was as follows: one song bundled with client (for a limited period of time), $50 osu!store credit, 6 months supporter tag, and a unique profile badge. This open bounty was reportedly created due to a want for rewarding players for quality beatmaps and to celebrate the new tracks but without having to go through the hassle that comes with running traditional mapping contests [[23]][r].
+
+Despite [promises from peppy on his blog](https://blog.ppy.sh/post/132009865043/mapping-with-rewards-oct-2015 "ppy blog"), however, the results for Mapping With Rewards were not posted by the end of the year.
+
+<!--I don't think we should be mentioning anything about future years in the history posts as I want to make the posts as seamless as possible so that we only have to update the current (previous) year and not go back and fix anything, thus im not mentioning any future competitions, nor am I mentining the results of the competition, as they were announced in 2016-->
+
+## October
+
+After many months of work, a full migration form [DirectX](https://en.wikipedia.org/wiki/DirectX "Wikipedia") to [OpenGL](https://en.wikipedia.org/wiki/OpenGL "Wikipedia") graphics rendering was completed and pushed out to all users on the Stable release stream on 16 October 2015. Users who were not able to run the new update due to compatibility issues, however, were switched to a new release stream named "Stable (Fallback)", which used the old DirectX graphics rendering.
 
 ## References
 
@@ -87,8 +97,8 @@ Each track had its own pre-timed `.osz` file included with it and were released 
 20. [ppy blog - "20150623"](https://blog.ppy.sh/post/122272830393/20150623 "ppy blog")
 21. [osu! newspost [Tasha] (22 August 2015) - "osu!weekly #24"](https://osu.ppy.sh/home/news/2015-08-22-osuweekly-24)
 22. [osu! forum comment (Development) [IamKwaN] - "Staff Promotion/Retirement Log"](https://osu.ppy.sh/community/forums/topics/179514?start=4435972)
-23. [ppy blog - "20150902"](https://blog.ppy.sh/post/128182041198/20150902 "ppy blog")
-24. [osu! newspost [Tasha] (8 September 2015) - "osu!weekly #26"](https://osu.ppy.sh/home/news/2015-09-08-osuweekly-26)
+23. [ppy blog - "Mapping with Rewards (Sep. 2015)"](https://blog.ppy.sh/post/129936251068/mapping-with-rewards-sep-2015 "ppy blog")
+24. [osu! newspost [Tasha] (29 September 2015) - "osu!weekly #29"](https://osu.ppy.sh/home/news/2015-09-29-osuweekly-29)
 
 ---
 
