@@ -2,35 +2,25 @@
 
 ## January
 
-A brand new year with additions to the list of [community contributors](/wiki/People/Community_Contributors). Best of 2015 voting opened.
-
-Links:
-
-- [Community Contributor Badges (January 2016)](https://osu.ppy.sh/home/news/2016-01-09-community-contributor-badges-january-2016)
+The ability to see live previews of a selected skin in the options menu was re-added to osu! on 28 January 2016 after having been removed for two years. The feature was initially removed in 2014 due to an options menu refresh in 2014 [1,2][r].
 
 ## February
 
-A sneak peek of the osu!next design was on display in the 46th issue of osu!weekly. peppy blogged various improvements for the game. Most notably, the skin preview in the [options](/wiki/Options) and new skinnable interface sounds were added. The [Best of 2015](/wiki/Contests) results were in with [Panda Eyes & Teminite - Highscore (CiiyusMiapah)](https://osu.ppy.sh/beatmapsets/332532#osu/736215), [cillia - Fairytale, (mintong89)](https://osu.ppy.sh/beatmapsets/275331#taiko/624447), [Halozy - Genryuu Kaiko (Yukina)](https://osu.ppy.sh/beatmapsets/253969#fruits/582801), and [D(ABE3) - MANIERA (Jinjin)](https://osu.ppy.sh/beatmapsets/272871#mania/646681) taking in the most votes for the osu!, osu!taiko, osu!catch, and osu!mania respectively. New items were added to the osu!store; such as: the osu!mug (a coffee mug), the osu!mug with pippi (ditto), and osu!go (a USB thumb drive with osu! pre-installed). Thanks to [LiquidPL](https://osu.ppy.sh/users/5044384), reording of the sections, on the new website, in your profile was now possible.
+On 13 Febuary 2016, controversy had sparked from changes in the BAT (Beatmap Appreciation Team) and a new rule proposal that attempted to change the then-current beatmapset spread in Ranked beatmaps [3,4,5][r]. <!-- DO NOT oversimplify here. I'm gonna leave this to start writing later-->
 
-Links:
+Two new items were added to the osu!store in Febuary: the osu!mug, and the osu!go. The former being a typical coffee mug with the choice of either an osu! logo or a chibi pippi on it; the latter was a custom-designed USB stick that was preloaded with the osu! client, capable of playing osu! directly off of the USB stick [6][r]. <!--price missing; dates missing-->
 
-- [osu!weekly \#46](https://osu.ppy.sh/home/news/2016-02-02-osuweekly-46)
-- [2016-01](https://blog.ppy.sh/post/138642696393/2016-01)
-- [Best of 2015: Results](https://osu.ppy.sh/home/news/2016-02-06-best-of-2015-results)
-- [osu!weekly \#48](https://osu.ppy.sh/home/news/2016-02-16-osuweekly-48)
-- [osu!weekly \#49](https://osu.ppy.sh/home/news/2016-02-23-osuweekly-49)
+![](img/osu-mug-osu-go.jpg "The chibi pippi osu!mug (left) and the osu!go (right) [6][r]")
+
+## March
+
+On the very first day of March, Ephemeral created the first in a series of posts on [peppy's blog](https://blog.ppy.sh "ppy blog") that would become the "Meeting Notes", which served as an attempt to provide more transparency between the osu! team and the community. In these posts, Ephemeral would summarize the main objectives, ideas, and thoughts that the team had towards the future into digestible bullet points. The main thoughts and objectives described in this first post were primarily geared towards improving the team and their communication across the board (with emphasis mapping and modding) [7][r].
+
+The osu!hoodie and osu!buttons were added to the store for the first time during the third week of March [8][r].
 
 ## April
 
-The Oculus Rift as a "supported" input method was announced as an 2016 April Fools joke.
-
-[Maria](/wiki/Maria) joins the stage with [pippi](/wiki/pippi) and [Yuzu](/wiki/Yuzu) as osu!mania's new postergirl. The osu!taiko World Cup 2016 concluded with Japan being victorious against Taiwan.
-
-Links:
-
-- [Oculus Rift to be Supported as an Input Method (April Fools!)](https://osu.ppy.sh/home/news/2016-04-01-oculus-rift-to-be-supported-as-an-input-method)
-- [Meet Maria - osu!mania's new mascot!](https://osu.ppy.sh/home/news/2016-04-20-meet-maria-osumanias-new-mascot)
-- [osu!weekly \#58 (osu!taiko World Cup 2016 Results!)](https://osu.ppy.sh/home/news/2016-04-27-osuweekly-58-osutaiko-world-cup-2016-results)
+The modding panel on the new osu! website was set live for public testing on 11 April 2016; however, public testing was only available for [Ice - L2 - Ascension : Act 2 (Liberation) (LordRaika)](https://osu.ppy.sh/beatmapsets/123760) and [Camellia - overcomplexification (ProfessionalBox)](https://osu.ppy.sh/beatmapsets/351408). According to [Loctav](https://osu.ppy.sh/users/71366), the main idea of the panel was to make every user post every isue individually and discuss it individually, as part of the steps towards implementing the long awaited Modding V2
 
 ## May
 
@@ -124,3 +114,18 @@ Links:
 - [New Featured Artist: Loki/Thaehan](https://osu.ppy.sh/home/news/2016-12-13-new-featured-artist-lokithaehan)
 - [Season's Greetings From osu!](https://osu.ppy.sh/home/news/2016-12-19-seasons-greetings-from-osu)
 - [New Featured Artist: sakuraburst](https://osu.ppy.sh/home/news/2016-12-20-new-featured-artist-sakuraburst)
+
+---
+
+## References
+
+1. [osu!weekly #47](https://osu.ppy.sh/home/news/2016-02-09-osuweekly-47)
+2. [28 January 2016 changelog](https://osu.ppy.sh/home/changelog/cuttingedge/20160128)
+3. [Mapset and Spread Restructure (Proposed)](https://osu.ppy.sh/community/forums/topics/420223)
+4. [MEET EPHEMERAL!](https://blog.ppy.sh/post/139478794378/meet-ephemeral)
+5. [Timeline of Events Surrounding Recent Changes](https://docs.google.com/document/d/1VlFUIte8ho4tssRCucSBt96nTVAhsCLfJZcFVgzHjuk/edit)
+6. [osu!weekly #48](https://osu.ppy.sh/home/news/2016-02-16-osuweekly-48)
+7. [2016-02 MEETING NOTES](https://blog.ppy.sh/post/140259300353/2016-02-meeting-notes)
+8. [osu!weekly #53](https://osu.ppy.sh/home/news/2016-03-22-osuweekly-53)
+
+[r]: #references
