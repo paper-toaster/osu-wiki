@@ -2,25 +2,25 @@
 
 ## January
 
-The ability to see live previews of a selected skin in the options menu was re-added to osu! on 28 January 2016 after having been removed for two years. The feature was initially removed in 2014 due to an options menu refresh in 2014 [1,2][r].
+The ability to see live previews of a selected skin in the options menu was re-added to osu! on 28 January 2016 after having been removed for two years. The feature was initially removed in 2014 due to an options menu refresh in 2014 [[1,2]][r].
 
 ## February
 
-On 13 Febuary 2016, controversy had sparked from changes in the BAT (Beatmap Appreciation Team) and a new rule proposal that attempted to change the then-current beatmapset spread in Ranked beatmaps [3,4,5][r]. <!-- DO NOT oversimplify here. I'm gonna leave this to start writing later-->
+On 13 Febuary 2016, controversy had sparked from changes in the BAT (Beatmap Appreciation Team) and a new rule proposal that attempted to change the then-current beatmapset spread in Ranked beatmaps [[3,4,5]][r]. <!-- DO NOT oversimplify here. I'm gonna leave this to start writing later-->
 
-Two new items were added to the osu!store in Febuary: the osu!mug, and the osu!go. The former being a typical coffee mug with the choice of either an osu! logo or a chibi pippi on it; the latter was a custom-designed USB stick that was preloaded with the osu! client, capable of playing osu! directly off of the USB stick [6][r]. <!--price missing; dates missing-->
+Two new items were added to the osu!store in Febuary: the osu!mug, and the osu!go. The former being a typical coffee mug with the choice of either an osu! logo or a chibi pippi on it; the latter was a custom-designed USB stick that was preloaded with the osu! client, capable of playing osu! directly off of the USB stick [[6]][r]. <!--price missing; dates missing-->
 
-![](img/osu-mug-osu-go.jpg "The chibi pippi osu!mug (left) and the osu!go (right) [6][r]")
+![](img/osu-mug-osu-go.jpg "The chibi pippi osu!mug (left) and the osu!go (right) [[6]][r]")
 
 ## March
 
-On the very first day of March, Ephemeral created the first in a series of posts on [peppy's blog](https://blog.ppy.sh "ppy blog") that would become the "Meeting Notes", which served as an attempt to provide more transparency between the osu! team and the community. In these posts, Ephemeral would summarize the main objectives, ideas, and thoughts that the team had towards the future into digestible bullet points. The main thoughts and objectives described in this first post were primarily geared towards improving the team and their communication across the board (with emphasis mapping and modding) [7][r].
+On the very first day of March, Ephemeral created the first in a series of posts on [peppy's blog](https://blog.ppy.sh "ppy blog") that would become the "Meeting Notes", which served as an attempt to provide more transparency between the osu! team and the community. In these posts, Ephemeral would summarize the main objectives, ideas, and thoughts that the team had towards the future into digestible bullet points. The main thoughts and objectives described in this first post were primarily geared towards improving the team and their communication across the board (with emphasis mapping and modding) [[7]][r].
 
-The osu!hoodie and osu!buttons were added to the store for the first time during the third week of March [8][r].
+The osu!hoodie and osu!buttons were added to the store for the first time during the third week of March [[8]][r].
 
 ## April
 
-The modding panel on the new osu! website was set live for public testing on 11 April 2016; however, public testing was only available for [Ice - L2 - Ascension : Act 2 (Liberation) (LordRaika)](https://osu.ppy.sh/beatmapsets/123760) and [Camellia - overcomplexification (ProfessionalBox)](https://osu.ppy.sh/beatmapsets/351408). According to [Loctav](https://osu.ppy.sh/users/71366), the main idea of the panel was to make every user post every isue individually and discuss it individually, as part of the steps towards implementing the long awaited Modding V2
+The modding panel on the new osu! website was set live for public testing on 11 April 2016; however, public testing was only available for [Ice - L2 - Ascension : Act 2 (Liberation) (LordRaika)](https://osu.ppy.sh/beatmapsets/123760) and [Camellia - overcomplexification (ProfessionalBox)](https://osu.ppy.sh/beatmapsets/351408). According to [Loctav](https://osu.ppy.sh/users/71366), the main idea of the panel was to make every user post every isue individually and discuss it individually, as part of the steps towards implementing the long awaited Modding V2.
 
 ## May
 
