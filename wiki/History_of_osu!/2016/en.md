@@ -20,9 +20,15 @@ On the very first day of March, Ephemeral created the first in a series of posts
 
 The modding panel on the new osu! website (new.ppy.sh) was set live for public testing on 11 April 2016; however, public testing was only available for [Ice - L2 - Ascension : Act 2 (Liberation) (LordRaika)](https://osu.ppy.sh/beatmapsets/123760) and [Camellia - overcomplexification (ProfessionalBox)](https://osu.ppy.sh/beatmapsets/351408). According to [Loctav](https://osu.ppy.sh/users/71366), the main idea of the panel was to make every user post every isue individually and discuss it individually for easier tracking of issues and such as part of the steps towards implementing the long awaited Modding V2 [[9]][r]. <!--wayback snapshot broken-->
 
-New medal designs were added into osu! (shown below) on 14 April 2016 that were more in-line with the "[osu!next](https://osunext.tumblr.com/about "Tumblr")" design philosophy being used in osu!lazer and new website [[10,11]][r]
+New medal designs were added into osu! on 14 April 2016 that were more in-line with the "[osu!next](https://osunext.tumblr.com/about "Tumblr")" design philosophy being used in osu!lazer and new website [[10,11]][r]
 
 ![](img/new-medal-design-2016.jpg "Medal unlock graphic showcasing the new design that would appear in-game [[12]][r]")
+
+The first images of osu!mania's official mascot, Maria, were posted for the first time on 20 April 2016. In celebration of Maria's introduction to the community, a brand new medal named "A meganekko approaches" (obtained by achieving 100 combo on any beatmap in osu!mania) was added to the game along with a sprite of Maria being used in combo milestone bursts in osu!mania [[13]][r].
+
+![](img/maria.jpg "Official artwork of Maria in the her announcement newspost [[13]][r]")
+
+Changes to the QAT (Quality Assurance Team) and their involvement in the beatmapping and modding process were significantly changed on 25 April 2016. 
 
 ## May
 
@@ -133,5 +139,6 @@ Links:
 10. [osu!weekly #57](https://osu.ppy.sh/home/news/2016-04-20-osuweekly-57)
 11. [15 April 2016 changelog](https://osu.ppy.sh/home/changelog/cuttingedge/20160415)
 12. [osu! | How medals looks like? (Animations) | Achievements 20/04/2016](https://www.youtube.com/watch?v=sdGe-Gv38Yw)
+13. [Meet Maria - osu!mania's new mascot!](https://osu.ppy.sh/home/news/2016-04-20-meet-maria-osumanias-new-mascot)
 
 [r]: #references
