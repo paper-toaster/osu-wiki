@@ -28,17 +28,25 @@ The first images of osu!mania's official mascot, Maria, were posted for the firs
 
 ![](img/maria.jpg "Official artwork of Maria in the her announcement newspost [[13]][r]")
 
-Changes to the QAT (Quality Assurance Team) and their involvement in the beatmapping and modding process were significantly changed on 25 April 2016. 
+The QAT (Quality Assurance Team) and their involvement in the beatmapping and modding process was significantly changed on 25 April 2016. The changes made were described by [Loctav](https://osu.ppy.sh/users/71366) in a forum post at the time:
+
+> Going forward, the QAT will no longer be obligated to check every qualified beatmap for quality checks. Instead, they will be reactive in nature, responding to and addressing reports made by members of the community about a map’s quality.
+>
+> We want to return the responsibility for mapping quality and content to the community at large, rather than delegating it to a small group of people to enforce. We believe this change will achieve this.
+>
+> ...
+>
+> Going forward, we will also be releasing a Code of Conduct regarding Mapping and Modding affairs. This will ensure that there will be a base level of respect in the talks surrounding these issues, as they have been prone to problems in the past. Ultimately, all parties involved in the ranking/mapping process have the same ultimate goal - to get cool stuff ranked and available for play as quickly as possible with as little issue as possible.
+
+— Loctav, "Changes to the Quality Assurance Team" [[14]][r]
+
+Reception towards this change was overall mostly positive by the community; however, some users did have concerns about whether or not this change would cause some beatmaps to become ignored without a guaranteed mod by a QAT member [[14]][r].
 
 ## May
 
-The first osu! remix contest begins with the challenge of remixing nekodex's "circles!". From Polygon, Keiichi Yano, one of the leading minds behind games like Elite Beat Agents, has given praise towards osu! for its community that wants to share beatmaps they create. [Aspire](/wiki/Aspire) returns due to overwhelming demand.
+The very first osu! remix contest began on 6 May 2016. "osu! remix" was a new type of contest that challenged participants to make a remix of the song "[circles!](https://soundcloud.com/nekodex/circles "SoundCloud")" by [nekodex](https://osu.ppy.sh/users/102). As reward, the grand prize winner (chosen by osu! staff) would have their remix featured in osu! along with $250 USD in osu!store credit, a profile badge, and an official beatmapping contest featuring the remix; a secondary winner (chosen by community vote) would recieve $50 USD in osu!store credit. The deadline for the contest was set to be 9 July 2016 (00:00:00 UTC) [[15]][r].
 
-Links:
-
-- [osu! "circles!" Remix Contest](https://osu.ppy.sh/home/news/2016-05-06-osu-circles-remix-contest)
-- [osu!weekly \#60](https://osu.ppy.sh/home/news/2016-05-11-osuweekly-60)
-- [Aspire Returns (Beatmap Contest)](https://osu.ppy.sh/home/news/2016-05-17-aspire-returns-beatmap-contest)
+A request for "early bird contributors" was amade by [peppy](https://osu.ppy.sh/users/2) on 18 May 2016. The request specifically asked for individuals with enough free time, knowledge in [C#](https://en.wikipedia.org/wiki/C_Sharp_(programming_language) "Wikipedia") 6.0, and were willing and able to help clean-up and refractor large areas of the code base for osu!lazer. peppy also later asked for "reinforcements" in the form of more "early bird contributors" that were familiar with [Laravel](https://en.wikipedia.org/wiki/Laravel "Wikipedia") and [React](https://en.wikipedia.org/wiki/React_(JavaScript_library) "Wikipedia").
 
 ## June
 
@@ -140,5 +148,9 @@ Links:
 11. [15 April 2016 changelog](https://osu.ppy.sh/home/changelog/cuttingedge/20160415)
 12. [osu! | How medals looks like? (Animations) | Achievements 20/04/2016](https://www.youtube.com/watch?v=sdGe-Gv38Yw)
 13. [Meet Maria - osu!mania's new mascot!](https://osu.ppy.sh/home/news/2016-04-20-meet-maria-osumanias-new-mascot)
+14. [Changes to the Quality Assurance Team](https://osu.ppy.sh/community/forums/topics/447417)
+15. [osu! "circles!" Remix Contest](https://osu.ppy.sh/home/news/2016-05-06-osu-circles-remix-contest)
+16. [EARLY-BIRD CONTRIBUTORS](https://blog.ppy.sh/post/144539340703/early-bird-contributors)
+17. [31 May 2016 (6:22 AM UTC)](https://twitter.com/ppy/status/737529593184149504)
 
 [r]: #references
