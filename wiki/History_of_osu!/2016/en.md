@@ -46,38 +46,21 @@ Reception towards this change was overall mostly positive by the community; howe
 
 The very first osu! remix contest began on 6 May 2016. "osu! remix" was a new type of contest that challenged participants to make a remix of the song "[circles!](https://soundcloud.com/nekodex/circles "SoundCloud")" by [nekodex](https://osu.ppy.sh/users/102). As reward, the grand prize winner (chosen by osu! staff) would have their remix featured in osu! along with $250 USD in osu!store credit, a profile badge, and an official beatmapping contest featuring the remix; a secondary winner (chosen by community vote) would recieve $50 USD in osu!store credit. The deadline for the contest was set to be 9 July 2016 (00:00:00 UTC) [[15]][r].
 
-A request for "early bird contributors" was amade by [peppy](https://osu.ppy.sh/users/2) on 18 May 2016. The request specifically asked for individuals with enough free time, knowledge in [C#](https://en.wikipedia.org/wiki/C_Sharp_(programming_language) "Wikipedia") 6.0, and were willing and able to help clean-up and refractor large areas of the code base for osu!lazer. peppy also later asked for "reinforcements" in the form of more "early bird contributors" that were familiar with [Laravel](https://en.wikipedia.org/wiki/Laravel "Wikipedia") and [React](https://en.wikipedia.org/wiki/React_(JavaScript_library) "Wikipedia").
+A request for "early bird contributors" was amade by [peppy](https://osu.ppy.sh/users/2) on 18 May 2016. The request specifically asked for individuals with knowledge in [C#](https://en.wikipedia.org/wiki/C_Sharp_(programming_language) "Wikipedia") 6.0 and enough free time and willingness to help clean-up and refractor large areas of the code base for osu!lazer [[16]][r]. peppy also later asked for "reinforcements" in the form of more "early bird contributors" that were familiar with [Laravel](https://en.wikipedia.org/wiki/Laravel "Wikipedia") and [React](https://en.wikipedia.org/wiki/React_(JavaScript_library) "Wikipedia") [[17]][r].
 
 ## June
 
-Mapping With Rewards \#1, announced in the previous year, has finally been concluded. osu!idol 2016 opened. peppy announced osu!lazer, the soon-to-be successor of the current osu! client.
+After nine months, the results for the first [Mapping With Rewards](https://blog.ppy.sh/post/129936251068/mapping-with-rewards-sep-2015 "ppy blog") contest were finalized on 1 June 2016. There were three winners that were chosen in the contest—one for each beatmap of each song: [monstrata](https://osu.ppy.sh/users/2706438) (won [Manic](https://osu.ppy.sh/beatmapsets/361175#osu/793620)), [alacat](https://osu.ppy.sh/users/869782#osu) (won [House With Legs](https://osu.ppy.sh/beatmapsets/360680#osu/793357)), [Guy](https://osu.ppy.sh/users/91738) (won [Dovregubben's Hall](https://osu.ppy.sh/beatmapsets/360950#osu/793190)). In addition to having their beatmaps bundled into all new osu! installs, they also each recieved $50 USD in osu!store credit, and a unique profile badge as a prize [[18]][r].
 
-Links:
-
-- [Mapping With Rewards #1 - Bounties Complete!](https://osu.ppy.sh/home/news/2016-06-01-mapping-with-rewards-1-bounties-complete)
-- [osu!idol 2016 - Registrations open!](https://osu.ppy.sh/home/news/2016-06-03-osuidol-2016-registrations-open)
-- [a long-overdue update – ppy blog](https://blog.ppy.sh/post/146687255823/a-long-overdue-update)
+The osu!dev Discord server was released to the public on 9 June 2016. As announced on Twitter, the purpose of the server was to replace the public Slack team that was previously in place due to a lack of moderation controls. Anyone with the link to the server would be able to join and follow along with osu! development, however users would not be able to speak in text channels unless specifically given access to by a moderator [[19,20]][r].
 
 ## July
 
-[Aspire](/wiki/Aspire) 2 concluded with [Monstrata](https://osu.ppy.sh/users/2706438) as the Aspirant. osu! remix contest voting opened. The osu! team opened an osu!taiko design contest, as osu!taiko has yet to have one.
-
-Links:
-
-- [Aspire 2 Concludes: Winners Announced](https://osu.ppy.sh/home/news/2016-07-23-aspire-2-concludes-winners-announced)
-- [osu! mascot design contest](https://osu.ppy.sh/home/news/2016-07-18-osu-mascot-design-contest)
-- [osu!Remix Contest Community Vote!](https://osu.ppy.sh/home/news/2016-07-31-osuremix-contest-community-vote)
+A contest was designed and opened by the osu!team that challenged the community to create a new osu!taiko mascot design that would replace pippidon, the old mascot. The winner of the contest would recieve their design formally accepted the official osu!taiko mascot, an osu!artist forum title, 12 months of osu!supporter, and $50 USD in osu!store credit. The set deadline for entries was 16 August 2016 (00:00:00 UTC) [[21]][r].
 
 ## August
 
-A new set of Hush-Hush [medals](/wiki/Medals) were released. Previously, no one was allowed to discuss ways on obtaining these medals; however, going forward, it is encouraged to work together on figuring out ways to obtain these medals. Voting for the osu!taiko mascot fanart contest was opened. The osu! remix contest voting concluded with [BilliumMoto](https://osu.ppy.sh/users/3862471) taking the grand prize. osu! just ticked over 5 billion ranked plays!
-
-Links:
-
-- [New Hush-Hush Medals!](https://osu.ppy.sh/home/news/2016-08-17-new-hush-hush-medals)
-- [osu!taiko mascot voting](https://osu.ppy.sh/home/news/2016-08-22-osutaiko-mascot-voting)
-- [osu!remix contest #1: Results](https://osu.ppy.sh/home/news/2016-08-29-osuremix-contest-1-results)
-- [osu! on Twitter](https://twitter.com/osugame/status/770153577255796737)
+Changes towards how prizes were awarded for tournaments were made and announced on 24 July 2016. Due to the increasing amount of community-run tournaments being started around that time, the osu! team felt that a credits system that could be exchanged for osu!supporter tags <!--left off here-->
 
 ## September
 
@@ -151,6 +134,10 @@ Links:
 14. [Changes to the Quality Assurance Team](https://osu.ppy.sh/community/forums/topics/447417)
 15. [osu! "circles!" Remix Contest](https://osu.ppy.sh/home/news/2016-05-06-osu-circles-remix-contest)
 16. [EARLY-BIRD CONTRIBUTORS](https://blog.ppy.sh/post/144539340703/early-bird-contributors)
-17. [31 May 2016 (6:22 AM UTC)](https://twitter.com/ppy/status/737529593184149504)
+17. [31 May 2016 (18:22 UTC)](https://twitter.com/ppy/status/737529593184149504)
+18. [Mapping With Rewards #1 - Bounties Complete!](https://osu.ppy.sh/home/news/2016-06-01-mapping-with-rewards-1-bounties-complete)'
+19. [9 June 2016 (3:18 PM UTC))](https://twitter.com/ppy/status/741107246965235713)
+20. [osu!weekly #65](https://osu.ppy.sh/home/news/2016-06-24-osuweekly-65)
+21. [osu! mascot design contest](https://osu.ppy.sh/home/news/2016-07-18-osu-mascot-design-contest)
 
 [r]: #references
