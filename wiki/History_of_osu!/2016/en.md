@@ -46,7 +46,7 @@ Reception towards this change was overall mostly positive by the community; howe
 
 The very first osu! remix contest began on 6 May 2016. "osu! remix" was a new type of contest that challenged participants to make a remix of the song "[circles!](https://soundcloud.com/nekodex/circles "SoundCloud")" by [nekodex](https://osu.ppy.sh/users/102). As reward, the grand prize winner (chosen by osu! staff) would have their remix featured in osu! along with $250 USD in osu!store credit, a profile badge, and an official beatmapping contest featuring the remix; a secondary winner (chosen by community vote) would recieve $50 USD in osu!store credit. The deadline for the contest was set to be 9 July 2016 (00:00:00 UTC) [[15]][r].
 
-A request for "early bird contributors" was amade by [peppy](https://osu.ppy.sh/users/2) on 18 May 2016. The request specifically asked for individuals with knowledge in [C#](https://en.wikipedia.org/wiki/C_Sharp_(programming_language) "Wikipedia") 6.0 and enough free time and willingness to help clean-up and refractor large areas of the code base for osu!lazer [[16]][r]. peppy also later asked for "reinforcements" in the form of more "early bird contributors" that were familiar with [Laravel](https://en.wikipedia.org/wiki/Laravel "Wikipedia") and [React](https://en.wikipedia.org/wiki/React_(JavaScript_library) "Wikipedia") [[17]][r].
+A request for "early bird contributors" was made by [peppy](https://osu.ppy.sh/users/2) on 18 May 2016. The request specifically asked for individuals with knowledge in [C#](https://en.wikipedia.org/wiki/C_Sharp_(programming_language) "Wikipedia") 6.0 and enough free time and willingness to help clean-up and refractor large areas of the code base for osu!lazer [[16]][r]. peppy also later asked for "reinforcements" in the form of more "early bird contributors" that were familiar with [Laravel](https://en.wikipedia.org/wiki/Laravel "Wikipedia") and [React](https://en.wikipedia.org/wiki/React_(JavaScript_library) "Wikipedia") [[17]][r].
 
 ## June
 
@@ -60,18 +60,30 @@ A contest was designed and opened by the osu!team that challenged the community 
 
 ## August
 
-Changes towards how prizes were awarded for tournaments were made and announced on 24 July 2016. Due to the increasing amount of community-run tournaments being started around that time, the osu! team felt that a credits system that could be exchanged for osu!supporter tags <!--left off here-->
+Changes towards how prizes were awarded for tournaments were made and announced on 24 July 2016. Due to the increasing amount of community-run tournaments being started around that time, the osu! team felt that a system of credits that could be exchanged for osu!supporter tags would be more helpful and easier to keep track of for tournament planners and players. The credits awarded to contestants would be kept track of in a provided Google Sheet [[22]][r]. <!-- Google Sheet unavailable due to locked forum thread: https://osu.ppy.sh/community/forums/topics/481791 -->
+
+A new set of "Hush-Hush" medals arrived on 17 August 2016 and were gradually rolled out over the following day; users could tell if a new medal was obtainable in osu! if it was visible on the new website (new.ppy.sh). [[23]][r]. The medals that were announced to be added are shown below.
+
+![](img/hush-hush-medals.jpg "A visual list of all the new Hush-Hush medals added [[23]][r]")
+
+The results for the first "osu!remix" contest were formally announced on 29 August 2016:
+
+- **Staff vote:** "[HDHR](https://soundcloud.com/billiummoto/hdhr "SoundCloud")" by [BilliumMoto](https://osu.ppy.sh/users/3862471)
+- **First place community vote:** "HDHR" by BilliumMoto
+- **Second place community vote:** "[circles! (黒皇帝 Remix)](https://soundcloud.com/dialgadu77/circles-remix "SoundCloud")" by [Sayaka-](https://osu.ppy.sh/users/398275)
+- **Third place community vote:** "[circles! (happy30 Remix)](https://soundcloud.com/happy30/circles-happy30-remix "SoundCloud")" by [happy30](https://osu.ppy.sh/users/27767)
+
+As reward for winning the staff vote, BilliumMoto had his track featured in osu! as an official contest map, recieved $250 USD in osu!store credit, and a unique profile badge; however, because he also won first place in the community vote, the prize for the community vote winner ($50 USD in osu!store credit) was awarded to the runner-up, Sayaka. happy30 was listed as an honourable mention in the newspost for being the third place community vote [[24]][r].
 
 ## September
 
-[osu!mania 4k World Cup](/wiki/Tournaments/MWC/2016_4K) concluded with South Korea being victorious against Brazil. peppy tweeted regarding the 9th anniversary of osu!; however, stated that there nothing was planned for this year. The osu!taiko mascot voting results were in, peppy reminds that the community picked winner was *not* the new mascot since the osu!team wanted to take more into account than the mascots' loliciousness. [yuki.](https://osu.ppy.sh/beatmaps/artists/4), a brand new osu!musician, entered the stage with a new community mapping contest.
+The results for the community vote on the osu!taiko mascot contest were formally announced on 21 September 2016:
 
-Links:
+<!--TODO: add side-by-side image of the mascots' chosen-->
 
-- [osu!mania 4K World Cup Results!](https://osu.ppy.sh/home/news/2016-09-10-osumania-4k-world-cup-results)
-- [Dean Herbert on twitter](https://twitter.com/ppy/status/777101188277739522)
-- [osu!taiko Mascot Community Vote Results](https://osu.ppy.sh/home/news/2016-09-21-osutaiko-mascot-community-vote-results)
-- [Community Mapping Contest \#1 - yuki. (Nadeshiko Sensation)](https://osu.ppy.sh/home/news/2016-09-28-community-mapping-contest-1-yuki-nadeshiko)
+- **First place (left):** Aiko (愛子) by [JMC](https://osu.ppy.sh/users/774010)
+- **Second place (middle):** Alisa by [\[ Glitch \]](https://osu.ppy.sh/users/3781400)
+- **Third place (right):** Tama by [crystalsuicine](https://osu.ppy.sh/users/9974)
 
 ## October
 
@@ -139,5 +151,10 @@ Links:
 19. [9 June 2016 (3:18 PM UTC))](https://twitter.com/ppy/status/741107246965235713)
 20. [osu!weekly #65](https://osu.ppy.sh/home/news/2016-06-24-osuweekly-65)
 21. [osu! mascot design contest](https://osu.ppy.sh/home/news/2016-07-18-osu-mascot-design-contest)
+22. [osu!weekly #70](https://osu.ppy.sh/home/news/2016-08-07-osuweekly-70)
+23. [New Hush-Hush Medals!](https://osu.ppy.sh/home/news/2016-08-17-new-hush-hush-medals)
+24. [osu!remix contest #1: Results](https://osu.ppy.sh/home/news/2016-08-29-osuremix-contest-1-results)
+25. [osu!taiko Mascot Community Vote Results](https://osu.ppy.sh/home/news/2016-09-21-osutaiko-mascot-community-vote-results)
+26. blah
 
 [r]: #references
