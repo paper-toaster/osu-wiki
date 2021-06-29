@@ -79,28 +79,51 @@ As reward for winning the staff vote, BilliumMoto had his track featured in osu!
 
 The results for the community vote on the osu!taiko mascot contest were formally announced on 21 September 2016:
 
-<!--TODO: add side-by-side image of the mascots' chosen-->
+![](img/taiko-mascot-winners-community.jpg "The three community vote winners of the osu!taiko mascot contest: Aiko (left), Alisa (middle), and Tama (right)")
 
-- **First place (left):** Aiko (愛子) by [JMC](https://osu.ppy.sh/users/774010)
-- **Second place (middle):** Alisa by [\[ Glitch \]](https://osu.ppy.sh/users/3781400)
-- **Third place (right):** Tama by [crystalsuicine](https://osu.ppy.sh/users/9974)
+- **First place:** Aiko by [JMC](https://osu.ppy.sh/users/774010)
+- **Second place:** Alisa by [\[ Glitch \]](https://osu.ppy.sh/users/3781400)
+- **Third place:** Tama by [crystalsuicine](https://osu.ppy.sh/users/9974)
+
+As reward for their efforts, JMC recieved an "osu!artist" forum title, 12 months of osu!supporter, and $50 USD in osu!store credit as the first place winner; \[ Glitch \] recieved 3 months of osu!supporter as second place, and crystalsuicine recieved one month of osu!supporter as third. Despite these rewards, however, the actual, official mascot of osu!taiko would still be up to a staff vote, regardless of community vote results. The mascot chosen by staff was not announced by the end of the year [[25,26]][r].
 
 ## October
 
-osu! World Cup 2016 registrations opened. GML applications were opened for those who wish to join. The [loved](/wiki/Beatmap/Category#loved) beatmap status was introduced in its testing stage as a way to give community-loved, but unrankable, beatmaps leaderboards. Those types of beatmaps will, however, not award [pp](/wiki/Performance_Points) and their leaderboards could be deleted for when the creator updates their beatmap. The Halloween-themed 7th fanart contest opened. Loved was in its second testing state, ready for a new batch of beatmaps to enter this category. A new video featuring osu!lazer was released. Most notably, the hit circles had more textures to them and gave off a smooth and shiny look. osu!idol 2016 voting were opened. A few days before Halloween, the Halloween fanart contest was opened and concluded two days later. The osu!weekly released the 78th issue on Halloween, making it as spooky as possible (but where did the 77th issue go? We'll never know).
+The GMT (Global Moderation Team) began taking applications for the first in its history on 15 October 2016. Previously, members of the GMT would be inducted by process of nomination or recommendation by other GMT members. However, due to a recent increase in demand for more GMT members, the team decided that it would need to reach out to the community more:
 
-Links:
+> Over the past few months, we've been trying to get more in touch with the community as a whole. As a part of these efforts, we are now accepting applications from anyone who wishes to join the Global Moderation Team.
+>
+> ...
+>
+> As osu!next draws closer, we'll be making more efforts to get the community involved again. A big part of the rework involves not only redesigning the website and game client, but also how the community operates as well. We're very big on letting the community guide the course of the game, and it is our hope that by expanding the team with fresh new faces and outlooks, we'll be better able to achieve this going forward.
 
-- [osu! World Cup 2016 - Registrations now open!](https://osu.ppy.sh/home/news/2016-10-02-osu-world-cup-2016-registrations-now-open)
-- [GMT Applications Now Open](https://osu.ppy.sh/home/news/2016-10-15-gmt-applications-now-open)
-- [Here Comes the Love](https://osu.ppy.sh/home/news/2016-10-17-here-comes-the-love)
-- [Flash Fanart Contest \#7: Halloween](https://osu.ppy.sh/home/news/2016-10-19-flash-fanart-contest-7-halloween)
-- [Show Your Love!](https://osu.ppy.sh/home/news/2016-10-21-show-your-love)
-- [osu!weekly \#76](https://osu.ppy.sh/home/news/2016-10-24-osuweekly-76)
-- [osu!idol 2016 Finals - Community Voting](https://osu.ppy.sh/home/news/2016-10-25-osuidol-2016-finals-community-voting)
-- [Halloween Fanart Contest Voting Begins!](https://osu.ppy.sh/home/news/2016-10-27-halloween-fanart-contest-voting-begins)
-- [Halloween Cometh](https://osu.ppy.sh/home/news/2016-10-29-halloween-cometh)
-- [osu!weekly \#78 (Extra Spooky Edition)](https://osu.ppy.sh/home/news/2016-10-31-osuweekly-78-extra-spooky-edition)
+- [shARPII](https://osu.ppy.sh/users/776257), "GMT Applications Now Open" [[27]][r]
+
+The applications that were given out at the time were different from BN (Beatmap Nominator) applications in that simply filling out a form with "good answers" would not guarantee a possition; users who were of interest to the GMT would be spoken to by the GMT and further inspection would follow from there. Additionally, there was not a limited number of "spots" available for the GMT. If the team felt someone was qualified for the position, they would add them; there was no competition for joining [[27]][r].
+
+Open testing for the "Loved" ranking state for beatmaps was formally started and announced on 17 October 2016. Beatmaps in this category were beatmaps that may not have met the ranking criteria, but are held in such high regard by the community at large that they are given offical online leaderboards, with the caveat that they will not grant users performance points on any plays [[28]][r]. <!--not sure if i should use "were" or "are" here-->
+
+In its [announcment newspost](https://osu.ppy.sh/home/news/2016-10-17-here-comes-the-love), a set of pre-selected beatmaps were given the Loved status that served as the first ever beatmaps to be Loved:
+
+- [mocchie - Nyan Nyan Drive (D: (caren_sk)](https://osu.ppy.sh/beatmapsets/106318)
+- [The Quick Brown Fox - PACEMAKER (Kyshiro)](https://osu.ppy.sh/beatmapsets/180771)
+- [DM Ashura - deltaMAX (rustbell)](https://osu.ppy.sh/beatmapsets/18315)
+- [Omoi - Snow Drive (Arieeru)](https://osu.ppy.sh/beatmapsets/291154)
+- [The Quick Brown Fox - Big Money (Blue Dragon)](https://osu.ppy.sh/beatmapsets/293705)
+- [Nakajima Megumi - TRY UNITE! (aran Remix) (lahphnya)](https://osu.ppy.sh/beatmapsets/319815)
+- [Kitsune^2 - Free (Starrodkirby86)](https://osu.ppy.sh/beatmapsets/342207)
+- [xi - Garyou Tensei (fartownik)](https://osu.ppy.sh/beatmapsets/344371)
+- [tokiwa yuu - shounen ripples (lahphnya)](https://osu.ppy.sh/beatmapsets/356426)
+- [ZiGZaG HACKER - V^3 (Hello World) (rustbell)](https://oszu.ppy.sh/beatmapsets/365053)
+- [Fleshgod Apocalypse - The Deceit / The Violation (Mazzerin)](https://osu.ppy.sh/beatmapsets/367631)
+- [sHimaU - Slotcore is Dead (Zapy)](https://osu.ppy.sh/beatmapsets/37065)
+- [DJ Mass MAD Izm* - SHAKUNETSU Beach Side Bunny (rustbell)](https://osu.ppy.sh/beatmapsets/409345)
+- [Blue Stahli - Anti You (thatguy0815)](https://osu.ppy.sh/beatmapsets/42567)
+- [Cardboard Box - The Limit Does Not Exist (Blue Dragon)](https://osu.ppy.sh/beatmapsets/429469)
+- [Seether - Fake It ([Dellirium])](https://osu.ppy.sh/beatmapsets/48738)
+- [Vektor - Recharging the Void (Mazzerin)](https://osu.ppy.sh/beatmapsets/489236)
+
+Despite this  were reminded that the new ranking state was still in "open testing", and that the team still wasn't exactly sure of how the specifics of getting a beatmap into Loved should work; however, <!--left off here-->
 
 ## November
 
@@ -155,6 +178,9 @@ Links:
 23. [New Hush-Hush Medals!](https://osu.ppy.sh/home/news/2016-08-17-new-hush-hush-medals)
 24. [osu!remix contest #1: Results](https://osu.ppy.sh/home/news/2016-08-29-osuremix-contest-1-results)
 25. [osu!taiko Mascot Community Vote Results](https://osu.ppy.sh/home/news/2016-09-21-osutaiko-mascot-community-vote-results)
-26. blah
+26. [osu!taiko mascot voting](https://osu.ppy.sh/home/news/2016-08-22-osutaiko-mascot-voting)
+27. [GMT Applications Now Open](https://osu.ppy.sh/home/news/2016-10-15-gmt-applications-now-open)
+28. [Here Comes the Love](https://osu.ppy.sh/home/news/2016-10-17-here-comes-the-love)
+29. [Show Your Love!](https://osu.ppy.sh/home/news/2016-10-21-show-your-love)
 
 [r]: #references
