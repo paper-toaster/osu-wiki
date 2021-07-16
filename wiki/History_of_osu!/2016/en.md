@@ -6,15 +6,29 @@ The ability to see live previews of a selected skin in the options menu was re-a
 
 ## February
 
-On 13 Febuary 2016, controversy sparked across the beatmapping community as a result of then recent changes in the BAT (Beatmap Appreciation Team) and a new rule proposal that attempted to change the then-current beatmapset spread in Ranked beatmaps [[3,4,5]][r]. <!-- DO NOT oversimplify here. I'm gonna leave this to start writing later-->
-
 Two new items were added to the osu!store in Febuary: the osu!mug, and the osu!go. The former being a typical coffee mug with custom osu! designs on them (retailed for $15 USD at launch); the latter was a USB stick that was preloaded with the osu! client, capable of playing osu! directly off of the USB stick (retailed for $50 USD at launch) [[6,7]][r]. <!--dates missing-->
 
 ![](img/osu-mug-osu-go.jpg "The chibi pippi osu!mug (left) and the osu!go (right) [[6]][r]")
 
+On 13 Febuary 2016, a new rule change that attempted to change the then-current beatmapset spread criteria in ranked beatmaps sparked massive backlash from the beatmapping community [[3]][r].
+
+While much of the response from the community regarded their disapproval for the new rule change (which attempted to limit the amount of difficulties allowed in a single ranked beatmap), a much larger discussion was started that centred around many user's discontent towards the osu! staff due to what they felt was a lack of transparency and player representation regarding then recent changes being made to the BAT (Beatmap Appreciation Team) and the creation of the newly RCC (Ranking Criteria Council).
+
+A few days after the incident (17 Febuary), [Ephemeral](https://osu.ppy.sh/users/102335) posted to [peppy's blog](https://blog.ppy.sh "ppy blog") attempting to clarify the matter with a timeline of events leading up to the situation and what they intend to do to resolve it. With this, it was revealed that many changes were being made with regards to the structure of the BAT and general beatmapping and ranking processes in preparation for the highly anticipated "moddingV2" [[4,5]][r].
+
+Additionally, in response to the backlash from the community, Ephemeral promised that Ranking Criteria changes would be temporarily suspended and that the osu! team would commit to being more transparent in their processes:
+
+> So, going forward, we aim to be entirely transparent with our thought processes leading up to the big decisions that impact everyone in the community.
+>
+> ...
+>
+> We have suspended all movement in the Ranking Criteria changes for (at very least) the remainder of the week, and will use this time to gather your feedback and our thoughts on how we may best proceed from now on.
+
+— Ephemeral, "Meet Ephemeral!" [[4,5]][r]
+
 ## March
 
-On the very first day of March, Ephemeral created the first in a series of posts on [peppy's blog](https://blog.ppy.sh "ppy blog") that would become the "Meeting Notes", which served as an attempt to provide more transparency between the osu! team and the community. In these posts, Ephemeral would summarize the main objectives, ideas, and thoughts that the team had towards the future into digestible bullet points. The main thoughts and objectives described in this first post were primarily geared towards improving the team and their communication across the board (with emphasis mapping and modding) [[8]][r].
+On the very first day of March, Ephemeral created the first in a series of posts on peppy's blog that would become the "Meeting Notes", which served as an attempt to provide more transparency between the osu! team and the community. In these posts, Ephemeral would summarize the main objectives, ideas, and thoughts that the team had towards the future into digestible bullet points. The main thoughts and objectives described in this first post were primarily geared towards improving the team and their communication across the board (with emphasis mapping and modding) [[8]][r].
 
 ## April
 
