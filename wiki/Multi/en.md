@@ -23,7 +23,7 @@ In order to access multiplayer functions, users must be connected to the interne
 
 ## Lobby
 
-![](img/multi_lobby.jpg "Example of a typical day in the Multi lobby")
+![](img/Multi_lobby.jpg "Example of a typical day in the Multi lobby")
 
 The lobby is the main page of Multi mode and will show all the currently available [matches](<!---->) that are availble. This list of matches can be filtered through the toolbar at the top-left to better help users find the matches they want quicker.
 
