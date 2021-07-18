@@ -2,19 +2,19 @@
 
 ## January
 
-The ability to see live previews of a selected skin in the options menu was re-added to osu! on 28 January 2016 after having been removed for two years. The feature was initially removed in 2014 due to an options menu refresh in 2014 [[1,2]][r].
+**The ability to see live previews of a selected skin in the options menu was re-added to osu! on 28 January 2016 after having been removed for two years.** The feature was initially removed in 2014 due to an options menu refresh in 2014 [[1,2]][r].
 
 ## February
 
-Two new items were added to the osu!store in Febuary: the osu!mug, and the osu!go. The former being a typical coffee mug with custom osu! designs on them (retailed for $15 USD at launch); the latter was a USB stick that was preloaded with the osu! client, capable of playing osu! directly off of the USB stick (retailed for $50 USD at launch) [[6,7]][r]. <!--dates missing-->
+**Two new items were added to the osu!store in Febuary: the osu!mug, and the osu!go.** The former was a typical coffee mug with custom osu! designs on them ($15 USD at launch); the latter was a USB stick that was preloaded with the osu! client, capable of playing osu! directly off of it ($50 USD at launch) [[6,7]][r]. <!--dates missing-->
 
 ![](img/osu-mug-osu-go.jpg "The chibi pippi osu!mug (left) and the osu!go (right) [[6]][r]")
 
-On 13 Febuary 2016, a new rule change that attempted to change the then-current beatmapset spread criteria in ranked beatmaps sparked massive backlash from the beatmapping community [[3]][r].
+**On 13 Febuary 2016, a new rule change that attempted to change the then-current beatmapset spread criteria in ranked beatmaps sparked massive backlash from the beatmapping community** [[3]][r].
 
-While much of the response from the community regarded their disapproval for the new rule change (which attempted to limit the amount of difficulties allowed in a single ranked beatmap), a much larger discussion was started that centred around many user's discontent towards the osu! staff due to what they felt was a lack of transparency and player representation regarding then recent changes being made to the BAT (Beatmap Appreciation Team) and the creation of the newly RCC (Ranking Criteria Council).
+While much of the response from the community regarded their disapproval for the new rule change (which attempted to limit the amount of difficulties allowed in a single ranked beatmap), a much larger discussion was started that centred around many users' discontent towards the osu! staff due to what they felt was a lack of transparency and player representation regarding then recent changes in the BAT (Beatmap Appreciation Team) as well as the creation of the RCC (Ranking Criteria Council) [[3]][r].
 
-A few days after the incident (17 Febuary), [Ephemeral](https://osu.ppy.sh/users/102335) posted to [peppy's blog](https://blog.ppy.sh "ppy blog") attempting to clarify the matter with a timeline of events leading up to the situation and what they intend to do to resolve it. With this, it was revealed that many changes were being made with regards to the structure of the BAT and general beatmapping and ranking processes in preparation for the highly anticipated "moddingV2" [[4,5]][r].
+A few days after the incident (17 Febuary), [Ephemeral](https://osu.ppy.sh/users/102335) made a post on [peppy's blog](https://blog.ppy.sh "ppy blog") attempting to clarify the matter with a timeline of events leading up to the situation and what the osu! team intend to do to resolve it. With this, it was revealed that many changes were being made with regards to the structure of the BAT and general beatmapping and ranking processes in preparation for the highly anticipated "Modding V2" [[4,5]][r].
 
 Additionally, in response to the backlash from the community, Ephemeral promised that Ranking Criteria changes would be temporarily suspended and that the osu! team would commit to being more transparent in their processes:
 
@@ -22,27 +22,29 @@ Additionally, in response to the backlash from the community, Ephemeral promised
 >
 > ...
 >
+> It is our hope that by placing the events leading up to the birth of these decisions into the public view, we can work together to find out the best way of moving forward from here, and to make sure that something like this does not happen again.
+>
 > We have suspended all movement in the Ranking Criteria changes for (at very least) the remainder of the week, and will use this time to gather your feedback and our thoughts on how we may best proceed from now on.
 
 — Ephemeral, "Meet Ephemeral!" [[4,5]][r]
 
 ## March
 
-On the very first day of March, Ephemeral created the first in a series of posts on peppy's blog that would become the "Meeting Notes", which served as an attempt to provide more transparency between the osu! team and the community. In these posts, Ephemeral would summarize the main objectives, ideas, and thoughts that the team had towards the future into digestible bullet points. The main thoughts and objectives described in this first post were primarily geared towards improving the team and their communication across the board (with emphasis mapping and modding) [[8]][r].
+**On the very first day of March, Ephemeral created the first in a series of posts on peppy's blog that would become the "Meeting Notes", which served as an attempt to provide more transparency between the osu! team and the community.** In these posts, Ephemeral would summarize the main objectives, ideas, and thoughts that the team had towards the future into digestible bullet points. The main thoughts and objectives described in this first post were primarily geared towards improving the team and their communication across the board (with emphasis beatmapping and modding) [[8]][r].
 
 ## April
 
-The modding panel on the new osu! website (new.ppy.sh) was set live for public testing on 11 April 2016; however, public testing was only available for [Ice - L2 - Ascension : Act 2 (Liberation) (LordRaika)](https://osu.ppy.sh/beatmapsets/123760) and [Camellia - overcomplexification (ProfessionalBox)](https://osu.ppy.sh/beatmapsets/351408). According to [Loctav](https://osu.ppy.sh/users/71366), the main idea of the panel was to make every user post every isue individually and discuss it individually for easier tracking of issues and such as part of the steps towards implementing the long awaited Modding V2 [[9]][r]. <!--wayback snapshot broken-->
+**The modding panel on the new osu! website (new.ppy.sh) was set live for public testing on 11 April 2016**; however, public testing was only available for [Ice - L2 - Ascension : Act 2 (Liberation) (LordRaika)](https://osu.ppy.sh/beatmapsets/123760) and [Camellia - overcomplexification (ProfessionalBox)](https://osu.ppy.sh/beatmapsets/351408). According to [Loctav](https://osu.ppy.sh/users/71366), the main idea of the panel was to make every user post every issue individually and discuss it individually for easier tracking of issues and such as part of the steps towards implementing the long awaited "Modding V2" [[9]][r]. <!--wayback snapshot broken-->
 
-New medal designs were added into osu! on 14 April 2016 that were more in-line with the "[osu!next](https://osunext.tumblr.com/about "Tumblr")" design philosophy being used in osu!lazer and new website [[10,11]][r]
+**New medal designs were added into osu! on 14 April 2016**, meant to be more in-line with the "[osu!next](https://osunext.tumblr.com/about "Tumblr")" design philosophy being used in osu!lazer and new website [[10,11]][r]
 
 ![](img/new-medal-design-2016.jpg "Medal unlock graphic showcasing the new design that would appear in-game [[12]][r]")
 
-The first images of osu!mania's official mascot, Maria, were posted for the first time on 20 April 2016. In celebration of Maria's introduction to the community, a brand new medal named "A meganekko approaches" (obtained by achieving 100 combo on any beatmap in osu!mania) was added to the game along with a sprite of Maria being used in combo milestone bursts in osu!mania [[13]][r].
+**The first images of osu!mania's official mascot, Maria, were posted for the first time on 20 April 2016.** In celebration of Maria's introduction to the community, a brand new medal named "A meganekko approaches" (obtained by achieving 100 combo on any beatmap in osu!mania) was added to the game alongside a sprite of Maria being used in combo milestone bursts in osu!mania [[13]][r].
 
 ![](img/maria.jpg "Official artwork of Maria in the her announcement newspost [[13]][r]")
 
-The QAT (Quality Assurance Team) and their involvement in the beatmapping and modding process was significantly changed on 25 April 2016. The changes made were described by [Loctav](https://osu.ppy.sh/users/71366) in a forum post at the time:
+**The QAT (Quality Assurance Team) and their involvement in the beatmapping and modding process was significantly changed on 25 April 2016.** The changes made were described by [Loctav](https://osu.ppy.sh/users/71366) in a forum post at the time:
 
 > Going forward, the QAT will no longer be obligated to check every qualified beatmap for quality checks. Instead, they will be reactive in nature, responding to and addressing reports made by members of the community about a map’s quality.
 >
@@ -54,33 +56,33 @@ The QAT (Quality Assurance Team) and their involvement in the beatmapping and mo
 
 — Loctav, "Changes to the Quality Assurance Team" [[14]][r]
 
-Reception towards this change was overall mostly positive by the community; however, some users did have concerns about whether or not this change would cause some beatmaps to become ignored without a guaranteed mod by a QAT member [[14]][r].
+Reception towards this change was overall mostly positive by the community; however, some users did have concerns as to whether or not this change would cause some beatmaps to become ignored without a guaranteed mod by a QAT member [[14]][r].
 
 ## May
 
-The very first osu! remix contest began on 6 May 2016. "osu! remix" was a new type of contest that challenged participants to make a remix of the song "[circles!](https://soundcloud.com/nekodex/circles "SoundCloud")" by [nekodex](https://osu.ppy.sh/users/102). As reward, the grand prize winner (chosen by osu! staff) would have their remix featured in osu! along with $250 USD in osu!store credit, a profile badge, and an official beatmapping contest featuring the remix; a secondary winner (chosen by community vote) would recieve $50 USD in osu!store credit. The deadline for the contest was set to be 9 July 2016 (00:00:00 UTC) [[15]][r].
+**The very first osu! remix contest began on 6 May 2016.** "osu! remix" was a new type of contest that challenged participants to make a remix of the song "[circles!](https://soundcloud.com/nekodex/circles "SoundCloud")" by [nekodex](https://osu.ppy.sh/users/102). As reward, the grand prize winner (chosen by osu! staff) would have their remix featured in osu! along with $250 USD in osu!store credit, a profile badge, and an official beatmapping contest featuring the remix; a secondary winner (chosen by community vote) would recieve $50 USD in osu!store credit. The deadline for the contest was set to be 9 July 2016 (00:00:00 UTC) [[15]][r].
 
-A request for "early bird contributors" was made by [peppy](https://osu.ppy.sh/users/2) on 18 May 2016. The request specifically asked for individuals with knowledge in [C#](https://en.wikipedia.org/wiki/C_Sharp_(programming_language) "Wikipedia") 6.0 and enough free time and willingness to help clean-up and refractor large areas of the code base for osu!lazer [[16]][r]. peppy also later asked for "reinforcements" in the form of more "early bird contributors" that were familiar with [Laravel](https://en.wikipedia.org/wiki/Laravel "Wikipedia") and [React](https://en.wikipedia.org/wiki/React_(JavaScript_library) "Wikipedia") [[17]][r].
+**A request for "early bird contributors" was made by [peppy](https://osu.ppy.sh/users/2) on 18 May 2016.** The request specifically asked for individuals with knowledge in [C#](https://en.wikipedia.org/wiki/C_Sharp_(programming_language) "Wikipedia") 6.0 and enough free time and willingness to help clean-up and refractor large areas of the code base for osu!lazer [[16]][r]. peppy also later asked for "reinforcements" in the form of more of these contributors that were familiar with [Laravel](https://en.wikipedia.org/wiki/Laravel "Wikipedia") and [React](https://en.wikipedia.org/wiki/React_(JavaScript_library) "Wikipedia") [[17]][r].
 
 ## June
 
-After nine months, the results for the first [Mapping With Rewards](https://blog.ppy.sh/post/129936251068/mapping-with-rewards-sep-2015 "ppy blog") contest were finalized on 1 June 2016. There were three winners that were chosen in the contest—one for each beatmap of each song: [monstrata](https://osu.ppy.sh/users/2706438) (won [Manic](https://osu.ppy.sh/beatmapsets/361175#osu/793620)), [alacat](https://osu.ppy.sh/users/869782#osu) (won [House With Legs](https://osu.ppy.sh/beatmapsets/360680#osu/793357)), [Guy](https://osu.ppy.sh/users/91738) (won [Dovregubben's Hall](https://osu.ppy.sh/beatmapsets/360950#osu/793190)). In addition to having their beatmaps bundled into all new osu! installs, they also each recieved $50 USD in osu!store credit, and a unique profile badge as a prize [[18]][r].
+**After nine months, the results for the first [Mapping With Rewards](https://blog.ppy.sh/post/129936251068/mapping-with-rewards-sep-2015 "ppy blog") contest were finalized on 1 June 2016.** There were three winners that were chosen in the contest—one for each each song: [monstrata](https://osu.ppy.sh/users/2706438) (won [Manic](https://osu.ppy.sh/beatmapsets/361175#osu/793620)), [alacat](https://osu.ppy.sh/users/869782#osu) (won [House With Legs](https://osu.ppy.sh/beatmapsets/360680#osu/793357)), [Guy](https://osu.ppy.sh/users/91738) (won [Dovregubben's Hall](https://osu.ppy.sh/beatmapsets/360950#osu/793190)). In addition to having their beatmaps bundled into all new osu! installs, they also each recieved $50 USD in osu!store credit, and a unique profile badge as a prize [[18]][r].
 
-The osu!dev Discord server was released to the public on 9 June 2016. As announced on Twitter, the purpose of the server was to replace the public Slack team that was previously in place due to a lack of moderation controls. Anyone with the link to the server would be able to join and follow along with osu! development, however users would not be able to speak in text channels unless specifically given access to by a moderator [[19,20]][r].
+**The osu!dev Discord server was released to the public on 9 June 2016.** As announced on Twitter, the purpose of the server was to replace the public Slack team that was previously in place due to a lack of moderation controls. Anyone with the link to the server would be able to join and follow along with osu! development, however users would not be able to speak in text channels unless specifically given access to by a moderator [[19,20]][r].
 
 ## July
 
-A contest was designed and opened by the osu!team that challenged the community to create a new osu!taiko mascot design that would replace pippidon, the old mascot. The winner of the contest would recieve their design formally accepted the official osu!taiko mascot, an osu!artist forum title, 12 months of osu!supporter, and $50 USD in osu!store credit. The set deadline for entries was 16 August 2016 (00:00:00 UTC) [[21]][r].
+**A contest was designed and opened by the osu! team that challenged the community to create a new osu!taiko mascot design that would replace pippidon, the old mascot.** The winner of the contest would have their design formally accepted as the official osu!taiko mascot, recieve an osu!artist forum title, 12 months of osu!supporter, and $50 USD in osu!store credit. The set deadline for entries was 16 August 2016 (00:00:00 UTC) [[21]][r].
 
 ## August
 
-Changes towards how prizes were awarded for tournaments were made and announced on 24 July 2016. Due to the increasing amount of community-run tournaments being started around that time, the osu! team felt that a system of credits that could be exchanged for osu!supporter tags would be more helpful and easier to keep track of for tournament planners and players. The credits awarded to contestants would be kept track of in a provided Google Sheet [[22]][r]. <!-- Google Sheet unavailable due to locked forum thread: https://osu.ppy.sh/community/forums/topics/481791 -->
+**Changes towards how prizes were awarded for tournaments were made and announced on 24 July 2016.** Due to the increasing amount of community-run tournaments being started around that time, the osu! team felt that a system of credits that could be exchanged for osu!supporter tags would be more helpful and easier to keep track of for tournament planners and players. The credits awarded to contestants would be kept track of in a provided Google Sheet [[22]][r]. <!-- Google Sheet unavailable due to locked forum thread: https://osu.ppy.sh/community/forums/topics/481791 -->
 
-A new set of "Hush-Hush" medals arrived on 17 August 2016 and were gradually rolled out over the following day; users could tell if a new medal was obtainable in osu! if it was visible on the new website (new.ppy.sh). [[23]][r]. The medals that were announced to be added are shown below.
+**A new set of "Hush-Hush" medals arrived on 17 August 2016** and were gradually rolled out over the following day; users could tell if a new medal was obtainable in osu! if it was visible on the new website (new.ppy.sh). [[23]][r]. The medals that were announced to be added are shown below.
 
 ![](img/hush-hush-medals.jpg "A visual list of all the new Hush-Hush medals added [[23]][r]")
 
-The results for the first "osu!remix" contest were formally announced on 29 August 2016:
+**Results for the first "osu!remix" contest were formally announced on 29 August 2016**:
 
 - **Staff vote:** "[HDHR](https://soundcloud.com/billiummoto/hdhr "SoundCloud")" by [BilliumMoto](https://osu.ppy.sh/users/3862471)
 - **First place community vote:** "HDHR" by BilliumMoto
@@ -91,7 +93,7 @@ As reward for winning the staff vote, BilliumMoto had his track featured in osu!
 
 ## September
 
-The results for the community vote on the osu!taiko mascot contest were formally announced on 21 September 2016:
+**Results for the community vote on the osu!taiko mascot contest were formally announced on 21 September 2016**:
 
 ![](img/taiko-mascot-winners-community.jpg "The three community vote winners of the osu!taiko mascot contest: Aiko (left), Alisa (middle), and Tama (right)")
 
@@ -99,7 +101,7 @@ The results for the community vote on the osu!taiko mascot contest were formally
 - **Second place:** Alisa by [\[ Glitch \]](https://osu.ppy.sh/users/3781400)
 - **Third place:** Tama by [crystalsuicine](https://osu.ppy.sh/users/9974)
 
-As reward for their efforts, JMC recieved an "osu!artist" forum title, 12 months of osu!supporter, and $50 USD in osu!store credit as the first place winner; \[ Glitch \] recieved 3 months of osu!supporter as second place, and crystalsuicine recieved one month of osu!supporter as third. Despite these rewards, however, the actual, official mascot of osu!taiko would still be up to a staff vote, regardless of community vote results. The mascot chosen by staff was not announced by the end of the year [[25,26]][r].
+As reward for their efforts, JMC recieved an "osu!artist" forum title, 12 months of osu!supporter, and $50 USD in osu!store credit as the first place winner; \[ Glitch \] recieved 3 months of osu!supporter as second place, and crystalsuicine recieved one month of osu!supporter as third. Despite these rewards, however, the actual, official mascot of osu!taiko would still be up to a staff vote, regardless of community vote results, although the mascot chosen by staff was not announced by the end of the year [[25,26]][r].
 
 ## October
 
@@ -115,7 +117,7 @@ The GMT (Global Moderation Team) began taking applications for the first in its 
 
 The applications that were given out at the time were different from BN (Beatmap Nominator) applications in that simply filling out a form with "good answers" would not guarantee a possition; users who were of interest to the GMT would be spoken to by the GMT and further inspection would follow from there. Additionally, there was not a limited number of "spots" available for the GMT. If the team felt someone was qualified for the position, they would add them; there was no competition for joining [[27]][r].
 
-Open testing for the "Loved" ranking state for beatmaps was formally started and announced on 17 October 2016. Beatmaps in this category were beatmaps that may not have met the ranking criteria, but are held in such high regard by the community at large that they are given offical online leaderboards, with the caveat that they will not grant users performance points on any plays [[28]][r]. <!--not sure if i should use "were" or "are" here-->
+Open testing for the "Loved" ranking state for beatmaps was formally started and announced on 17 October 2016. This category was intended for beatmaps that were/are held in such high regard by the community at large that they are given offical online leaderboards, even if they may not meet the typical ranking criteria; however, beatmaps in the category would not grant users performance points on any plays [[28]][r].
 
 In its [announcment newspost](https://osu.ppy.sh/home/news/2016-10-17-here-comes-the-love), a set of pre-selected beatmaps were given the Loved status that served as the first ever beatmaps to be Loved:
 
@@ -137,31 +139,7 @@ In its [announcment newspost](https://osu.ppy.sh/home/news/2016-10-17-here-comes
 - [Seether - Fake It ([Dellirium])](https://osu.ppy.sh/beatmapsets/48738)
 - [Vektor - Recharging the Void (Mazzerin)](https://osu.ppy.sh/beatmapsets/489236)
 
-Despite this  were reminded that the new ranking state was still in "open testing", and that the team still wasn't exactly sure of how the specifics of getting a beatmap into Loved should work; however, <!--left off here-->
-
-## November
-
-Starting off in November, a new batch of [community contributors](/wiki/People/Community_Contributors) were announced. [ztrot](https://osu.ppy.sh/users/6347) and [deadbeat](https://osu.ppy.sh/users/128370) observes the history of osu! regarding its UI/UX from its beginnings to its present. [Slyleaf](https://osu.ppy.sh/users/3322032) takes 1st place in osu!idol 2016. Ending November, the Christmas-themed 8th fanart contest opened.
-
-Links:
-
-- [Recognising the Best of the Best](https://osu.ppy.sh/home/news/2016-11-02-recognising-the-best-of-the-best)
-- [A History of osu!: Episode One](https://osu.ppy.sh/home/news/2016-11-04-a-history-of-osu-episode-one)
-- [osu!idol 2016 Final results](https://osu.ppy.sh/home/news/2016-11-08-osuidol-2016-final-results)
-- [Fanart Contest #8: Christmas!](https://osu.ppy.sh/home/news/2016-11-28-fanart-contest-8-christmas)
-
-## December
-
-Voting for the community beatmapping contest \#1 (announced back in September) was opened. Monthly beatmapping contest \#13 was opened. osu!mania 7K World Cup 2017 registrations was opened. [cYsmix](https://osu.ppy.sh/beatmaps/artists/2) had outdone himself and produced a beautiful festive intro track for Christmas, which can be heard upon opening the game. [Loki/Thaehan](https://osu.ppy.sh/beatmaps/artists/7) and [sakuraburst](https://osu.ppy.sh/beatmaps/artists/8) were announced to be the newest featured artists in osu!. osu! World Cup 2016 concluded with United States overtaking China. A day past Christmas, the Christmas fanart contest resulted with [\[ Piyori \]](https://osu.ppy.sh/users/4457608) capturing the most votes.
-
-Links:
-
-- [Community Mapping Contest \#1 Voting Live](https://osu.ppy.sh/home/news/2016-12-02-community-mapping-contest-1-voting-live)
-- [Monthly Beatmapping Contest #13 Now Open!](https://osu.ppy.sh/home/news/2016-12-09-monthly-beatmapping-contest-13-now-open)
-- [osu!mania 7K World Cup 2017 - Registrations now open!](https://osu.ppy.sh/home/news/2016-12-12-osumania-7k-world-cup-2017-registrations-now)
-- [New Featured Artist: Loki/Thaehan](https://osu.ppy.sh/home/news/2016-12-13-new-featured-artist-lokithaehan)
-- [Season's Greetings From osu!](https://osu.ppy.sh/home/news/2016-12-19-seasons-greetings-from-osu)
-- [New Featured Artist: sakuraburst](https://osu.ppy.sh/home/news/2016-12-20-new-featured-artist-sakuraburst)
+Despite the list of first additions, however, users were reminded that the new ranking state was still in "open testing", and that the team still was not sure of how the specifics of getting a beatmap into Loved should work. Many different ideas for this were thrown around, although the first to be tested was a system of weekly community voting from a pool of ten maps chosen based on a "variety of factors" [[28,29]][r].
 
 ---
 
