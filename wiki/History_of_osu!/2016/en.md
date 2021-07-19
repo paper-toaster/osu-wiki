@@ -62,34 +62,36 @@ Reception towards this change was overall mostly positive by the community; howe
 
 **The very first osu! remix contest began on 6 May 2016.** "osu! remix" was a new contest that challenged participants to make a remix of the song "[circles!](https://soundcloud.com/nekodex/circles "SoundCloud")" by [nekodex](https://osu.ppy.sh/users/102). As reward, the grand prize winner (chosen by osu! staff) would have their remix featured in osu! along with $250 USD in osu!store credit, a profile badge, and an official beatmapping contest featuring the remix; a secondary winner (chosen by community vote) would recieve $50 USD in osu!store credit. The deadline for the contest was set to be 9 July 2016 (00:00:00 UTC) [[15]][r].
 
-**A request for "early bird contributors" was made by [peppy](https://osu.ppy.sh/users/2) on 18 May 2016.** The request specifically asked for individuals with knowledge in [C#](https://en.wikipedia.org/wiki/C_Sharp_(programming_language) "Wikipedia") 6.0 and enough free time and willingness to help clean-up and refractor large areas of the code base for osu!lazer [[16]][r]. peppy also later asked for "reinforcements" in the form of more of these contributors that were familiar with [Laravel](https://en.wikipedia.org/wiki/Laravel "Wikipedia") and [React](https://en.wikipedia.org/wiki/React_(JavaScript_library) "Wikipedia") [[17]][r].
+**A request for "early bird contributors" was made by [peppy](https://osu.ppy.sh/users/2) on 18 May 2016.** The request specifically asked for individuals with knowledge in [C#](https://en.wikipedia.org/wiki/C_Sharp_(programming_language) "Wikipedia") 6.0 and enough free time and willingness to help clean-up and refractor large areas of the code base for osu!lazer [[16]][r]. peppy also later asked for "reinforcements" in the form of additional contributors that were familiar with [Laravel](https://en.wikipedia.org/wiki/Laravel "Wikipedia") and [React](https://en.wikipedia.org/wiki/React_(JavaScript_library) "Wikipedia") [[17]][r].
 
 ## June
 
 **After nine months, the results for the first [Mapping With Rewards](https://blog.ppy.sh/post/129936251068/mapping-with-rewards-sep-2015 "ppy blog") contest were finalized on 1 June 2016.** There were three winners that were chosen in the contest—one for each each song: [monstrata](https://osu.ppy.sh/users/2706438) (won [Manic](https://osu.ppy.sh/beatmapsets/361175#osu/793620)), [alacat](https://osu.ppy.sh/users/869782#osu) (won [House With Legs](https://osu.ppy.sh/beatmapsets/360680#osu/793357)), [Guy](https://osu.ppy.sh/users/91738) (won [Dovregubben's Hall](https://osu.ppy.sh/beatmapsets/360950#osu/793190)). In addition to having their beatmaps bundled into all new osu! installs, they also each recieved $50 USD in osu!store credit, and a unique profile badge as a prize [[18]][r].
 
-**The osu!dev Discord server was released to the public on 9 June 2016.** As announced on Twitter, the purpose of the server was to replace the public Slack team that was previously in place due to a lack of moderation controls. Anyone with the link to the server would be able to join and follow along with osu! development, however users would not be able to speak in text channels unless specifically given access to by a moderator [[19,20]][r].
+**The osu!dev Discord server was released to the public on 9 June 2016.** As announced on Twitter, the purpose of the server was to replace the public Slack team that was previously in place due to its lack of moderation controls. Anyone with the link to the Discord server would be able to join and follow along with osu! development, however users would not be able to speak in text channels unless specifically given access to by a moderator [[19,20]][r].
 
 ## July
 
-**A contest was designed and opened by the osu! team that challenged the community to create a new osu!taiko mascot design that would replace pippidon, the old mascot.** The winner of the contest would have their design formally accepted as the official osu!taiko mascot, recieve an osu!artist forum title, 12 months of osu!supporter, and $50 USD in osu!store credit. The set deadline for entries was 16 August 2016 (00:00:00 UTC) [[21]][r].
-
-## August
+**A new contest designed to challenge the community to create a new osu!taiko mascot design that would replace pippidon, the old mascot, was announced and began on 18 July 2016.** The winner of the contest would have their design formally accepted as the official osu!taiko mascot, recieve an osu!artist forum title, 12 months of osu!supporter, and $50 USD in osu!store credit. The set deadline for entries was 16 August 2016 (00:00:00 UTC) [[21]][r].
 
 **Changes towards how prizes were awarded for tournaments were made and announced on 24 July 2016.** Due to the increasing amount of community-run tournaments being started around that time, the osu! team felt that a system of credits that could be exchanged for osu!supporter tags would be more helpful and easier to keep track of for tournament planners and players. The credits awarded to contestants would be kept track of in a provided Google Sheet [[22]][r]. <!-- Google Sheet unavailable due to locked forum thread: https://osu.ppy.sh/community/forums/topics/481791 -->
 
-**A new set of "Hush-Hush" medals arrived on 17 August 2016** and were gradually rolled out over the following day; users could tell if a new medal was obtainable in osu! if it was visible on the new website (new.ppy.sh). [[23]][r]. The medals that were announced to be added are shown below.
+## August
+
+**A new set of "Hush-Hush" medals arrived on 17 August 2016** and were gradually rolled out over the following day. Users could tell if a new medal was obtainable in osu! if it was visible on the new website (new.ppy.sh) [[23]][r]. The medals that were announced to be added are shown below.
 
 ![](img/hush-hush-medals.jpg "A visual list of all the new Hush-Hush medals added [[23]][r]")
 
 **Results for the first "osu!remix" contest were formally announced on 29 August 2016**:
 
-- **Staff vote:** "[HDHR](https://soundcloud.com/billiummoto/hdhr "SoundCloud")" by [BilliumMoto](https://osu.ppy.sh/users/3862471)
-- **First place community vote:** "HDHR" by BilliumMoto
-- **Second place community vote:** "[circles! (黒皇帝 Remix)](https://soundcloud.com/dialgadu77/circles-remix "SoundCloud")" by [Sayaka-](https://osu.ppy.sh/users/398275)
-- **Third place community vote:** "[circles! (happy30 Remix)](https://soundcloud.com/happy30/circles-happy30-remix "SoundCloud")" by [happy30](https://osu.ppy.sh/users/27767)
+| Placement | Track | Artist | Prize |
+| :-- | :-: | :-: | :-- |
+| **Staff vote** | [HDHR](https://soundcloud.com/billiummoto/hdhr "SoundCloud") | [BilliumMoto](https://osu.ppy.sh/users/3862471) | Track featured as an official contest beatmap, $250 USD osu!store credit, unique profile badge |
+| **First place community vote** | HDHR | BilliumMoto | N/A |
+| **Second place community vote** | [circles! (黒皇帝 Remix)](https://soundcloud.com/dialgadu77/circles-remix "SoundCloud") | [Sayaka-](https://osu.ppy.sh/users/398275) | $50 USD osu!store credit |
+| **Third place community vote** | [circles! (happy30 Remix)](https://soundcloud.com/happy30/circles-happy30-remix "SoundCloud") | [happy30](https://osu.ppy.sh/users/27767) | Honourable mention |
 
-As reward for winning the staff vote, BilliumMoto had his track featured in osu! as an official contest map, recieved $250 USD in osu!store credit, and a unique profile badge; however, because he also won first place in the community vote, the prize for the community vote winner ($50 USD in osu!store credit) was awarded to the runner-up, Sayaka. happy30 was listed as an honourable mention in the newspost for being the third place community vote [[24]][r].
+Although BilliumMoto won first place in the community vote, the prize for the community vote winner ($50 USD in osu!store credit) was awarded to the runner-up, Sayaka, as BilliumMoto had already won the staff vote and it's prizes [[24]][r].
 
 ## September
 
@@ -97,15 +99,17 @@ As reward for winning the staff vote, BilliumMoto had his track featured in osu!
 
 ![](img/taiko-mascot-winners-community.jpg "The three community vote winners of the osu!taiko mascot contest: Aiko (left), Alisa (middle), and Tama (right)")
 
-- **First place:** Aiko by [JMC](https://osu.ppy.sh/users/774010)
-- **Second place:** Alisa by [\[ Glitch \]](https://osu.ppy.sh/users/3781400)
-- **Third place:** Tama by [crystalsuicine](https://osu.ppy.sh/users/9974)
+| Placement | Character | Artist | Prize |
+| :-- | :-: | :-: | :-- |
+| **First place** | Aiko | [JMC](https://osu.ppy.sh/users/774010) | "osu!artist" forum title, 12 months of osu!supporter, $50 USD osu!store credit |
+| **Second place** | Alisa | [\[ Glitch \]](https://osu.ppy.sh/users/3781400) | 3 months of osu!supporter |
+| **Third place** | Tama | [crystalsuicine](https://osu.ppy.sh/users/9974) | 1 month of osu!supporter |
 
-As reward for their efforts, JMC recieved an "osu!artist" forum title, 12 months of osu!supporter, and $50 USD in osu!store credit as the first place winner; \[ Glitch \] recieved 3 months of osu!supporter as second place, and crystalsuicine recieved one month of osu!supporter as third. Despite these rewards, however, the actual, official mascot of osu!taiko would still be up to a staff vote, regardless of community vote results, although the mascot chosen by staff was not announced by the end of the year [[25,26]][r].
+Despite these rankings and rewards, users were reminded that the official mascot of osu!taiko would still be up to a staff vote, regardless of community vote results, although the mascot chosen by staff did not end up being announced by the end of the year [[25,26]][r].
 
 ## October
 
-**The GMT (Global Moderation Team) began taking applications for the first in its history on 15 October 2016.** Previously, members of the GMT would be inducted via process of nomination or recommendation by other GMT members. However, due to a recent increase in demand for more members, the team decided that it would need to reach out to the community more:
+**The GMT (Global Moderation Team) began taking applications for the first in its history on 15 October 2016.** Previously, members of the GMT would be inducted via process of nomination or recommendation by other GMT members; however, due to a recent increase in demand for more members, the team decided that it would need to reach out to the community more:
 
 > Over the past few months, we've been trying to get more in touch with the community as a whole. As a part of these efforts, we are now accepting applications from anyone who wishes to join the Global Moderation Team.
 >
@@ -115,9 +119,9 @@ As reward for their efforts, JMC recieved an "osu!artist" forum title, 12 months
 
 - [shARPII](https://osu.ppy.sh/users/776257), "GMT Applications Now Open" [[27]][r]
 
-The applications that were given out at the time were different from BN (Beatmap Nominator) applications in that simply filling out a form with "good answers" would not guarantee a position; users who were of interest to the GMT would be spoken to by the GMT and further inspection would follow from there. Additionally, there was not a limited number of "spots" available for the GMT. If the team felt someone was qualified for the position, they would add them; there was no competition for joining [[27]][r].
+The applications that were given out at the time were different from BN (Beatmap Nominator) applications in that simply filling out a form with "good answers" would not guarantee a position: users who were of interest to the GMT would be spoken to by the GMT and further inspection would follow from there. Additionally, there was not a limited number of "spots" available for the GMT. If the team felt someone was qualified for the position, they would add them, regardless of the amount of current members [[27]][r].
 
-**Open testing for the "Loved" ranking state for beatmaps was formally started and announced on 17 October 2016.** This category was intended for beatmaps that were held in such high regard by the community at large that they are given offical online leaderboards, even if they may not meet the typical ranking criteria; however, beatmaps in the category would not grant users performance points on any plays [[28]][r].
+**Open testing for the "Loved" ranking state for beatmaps was formally started and announced on 17 October 2016.** The category, intended for beatmaps held in such high regard by the community at large, gave beatmaps in it offical online leaderboards, with the caveat that they would not grant users performance points on any plays. The purpose of this was to allow for beatmaps that may not meet ranking criteria to still be given online leaderboards and a more "official" recognition for their beloved status in the community [[28]][r].
 
 In its [announcment newspost](https://osu.ppy.sh/home/news/2016-10-17-here-comes-the-love), a set of pre-selected beatmaps were given the Loved status that served as the first ever beatmaps to be Loved:
 
