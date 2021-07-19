@@ -6,15 +6,15 @@
 
 ## February
 
-**Two new items were added to the osu!store in Febuary: the osu!mug, and the osu!go.** The former was a typical coffee mug with custom osu! designs on them ($15 USD at launch); the latter was a USB stick that was preloaded with the osu! client, capable of playing osu! directly off of it ($50 USD at launch) [[6,7]][r]. <!--dates missing-->
+**Two new items were added to the osu!store in Febuary: the osu!mug, and the osu!go.** The former being a typical coffee mug with custom osu! designs on it ($15 USD at launch); while the latter was a USB stick that was preloaded with the osu! client, capable of playing osu! directly off of it ($50 USD at launch) [[6,7]][r]. <!--dates missing-->
 
 ![](img/osu-mug-osu-go.jpg "The chibi pippi osu!mug (left) and the osu!go (right) [[6]][r]")
 
-**On 13 Febuary 2016, a new rule change that attempted to change the then-current beatmapset spread criteria in ranked beatmaps sparked massive backlash from the beatmapping community** [[3]][r].
+**On 13 Febuary 2016, a new rule change that attempted to change the then current beatmap difficulty spread criteria in ranked beatmaps sparked massive backlash from the beatmapping community** [[3]][r].
 
 While much of the response from the community regarded their disapproval for the new rule change (which attempted to limit the amount of difficulties allowed in a single ranked beatmap), a much larger discussion was started that centred around many users' discontent towards the osu! staff due to what they felt was a lack of transparency and player representation regarding then recent changes in the BAT (Beatmap Appreciation Team) as well as the creation of the RCC (Ranking Criteria Council) [[3]][r].
 
-A few days after the incident (17 Febuary), [Ephemeral](https://osu.ppy.sh/users/102335) made a post on [peppy's blog](https://blog.ppy.sh "ppy blog") attempting to clarify the matter with a timeline of events leading up to the situation and what the osu! team intend to do to resolve it. With this, it was revealed that many changes were being made with regards to the structure of the BAT and general beatmapping and ranking processes in preparation for the highly anticipated "Modding V2" [[4,5]][r].
+A few days after the incident (17 Febuary), [Ephemeral](https://osu.ppy.sh/users/102335) made a post on [peppy's blog](https://blog.ppy.sh "ppy blog") attempting to clarify the matter with a timeline of events leading up to the situation and what the osu! team intend to do to resolve it. With this, it was revealed that many changes were being made with regards to the structure of the BAT and general beatmapping and ranking processes with little-to-no prior discussion or explicit approval from the BAT or QAT [[4,5]][r].
 
 Additionally, in response to the backlash from the community, Ephemeral promised that Ranking Criteria changes would be temporarily suspended and that the osu! team would commit to being more transparent in their processes:
 
@@ -30,11 +30,11 @@ Additionally, in response to the backlash from the community, Ephemeral promised
 
 ## March
 
-**On the very first day of March, Ephemeral created the first in a series of posts on peppy's blog that would become the "Meeting Notes", which served as an attempt to provide more transparency between the osu! team and the community.** In these posts, Ephemeral would summarize the main objectives, ideas, and thoughts that the team had towards the future into digestible bullet points. The main thoughts and objectives described in this first post were primarily geared towards improving the team and their communication across the board (with emphasis beatmapping and modding) [[8]][r].
+**On the very first day of March, Ephemeral created the first in a series of posts on peppy's blog that would become the "Meeting Notes", which served as an attempt to provide more transparency between the osu! team and the community.** In these posts, Ephemeral would summarize the main objectives, ideas, and thoughts that the team had towards the future into digestible bullet points. The main thoughts and objectives described in this first post were primarily geared towards improving the team and their communication across the board (with emphasis on beatmapping and modding) [[8]][r].
 
 ## April
 
-**The modding panel on the new osu! website (new.ppy.sh) was set live for public testing on 11 April 2016**; however, public testing was only available for [Ice - L2 - Ascension : Act 2 (Liberation) (LordRaika)](https://osu.ppy.sh/beatmapsets/123760) and [Camellia - overcomplexification (ProfessionalBox)](https://osu.ppy.sh/beatmapsets/351408). According to [Loctav](https://osu.ppy.sh/users/71366), the main idea of the panel was to make every user post every issue individually and discuss it individually for easier tracking of issues and such as part of the steps towards implementing the long awaited "Modding V2" [[9]][r]. <!--wayback snapshot broken-->
+**The modding panel on the new osu! website (new.ppy.sh) was set live for public testing on 11 April 2016**; however, the testing was only available for [Ice - L2 - Ascension : Act 2 (Liberation) (LordRaika)](https://osu.ppy.sh/beatmapsets/123760) and [Camellia - overcomplexification (ProfessionalBox)](https://osu.ppy.sh/beatmapsets/351408). According to [Loctav](https://osu.ppy.sh/users/71366), the main idea of the panel was to make every user post every issue individually and discuss it individually for easier tracking of issues and such as part of the steps towards implementing the long awaited "Modding V2" [[9]][r]. <!--wayback snapshot broken-->
 
 **New medal designs were added into osu! on 14 April 2016**, meant to be more in-line with the "[osu!next](https://osunext.tumblr.com/about "Tumblr")" design philosophy being used in osu!lazer and new website [[10,11]][r]
 
@@ -60,7 +60,7 @@ Reception towards this change was overall mostly positive by the community; howe
 
 ## May
 
-**The very first osu! remix contest began on 6 May 2016.** "osu! remix" was a new type of contest that challenged participants to make a remix of the song "[circles!](https://soundcloud.com/nekodex/circles "SoundCloud")" by [nekodex](https://osu.ppy.sh/users/102). As reward, the grand prize winner (chosen by osu! staff) would have their remix featured in osu! along with $250 USD in osu!store credit, a profile badge, and an official beatmapping contest featuring the remix; a secondary winner (chosen by community vote) would recieve $50 USD in osu!store credit. The deadline for the contest was set to be 9 July 2016 (00:00:00 UTC) [[15]][r].
+**The very first osu! remix contest began on 6 May 2016.** "osu! remix" was a new contest that challenged participants to make a remix of the song "[circles!](https://soundcloud.com/nekodex/circles "SoundCloud")" by [nekodex](https://osu.ppy.sh/users/102). As reward, the grand prize winner (chosen by osu! staff) would have their remix featured in osu! along with $250 USD in osu!store credit, a profile badge, and an official beatmapping contest featuring the remix; a secondary winner (chosen by community vote) would recieve $50 USD in osu!store credit. The deadline for the contest was set to be 9 July 2016 (00:00:00 UTC) [[15]][r].
 
 **A request for "early bird contributors" was made by [peppy](https://osu.ppy.sh/users/2) on 18 May 2016.** The request specifically asked for individuals with knowledge in [C#](https://en.wikipedia.org/wiki/C_Sharp_(programming_language) "Wikipedia") 6.0 and enough free time and willingness to help clean-up and refractor large areas of the code base for osu!lazer [[16]][r]. peppy also later asked for "reinforcements" in the form of more of these contributors that were familiar with [Laravel](https://en.wikipedia.org/wiki/Laravel "Wikipedia") and [React](https://en.wikipedia.org/wiki/React_(JavaScript_library) "Wikipedia") [[17]][r].
 
@@ -105,7 +105,7 @@ As reward for their efforts, JMC recieved an "osu!artist" forum title, 12 months
 
 ## October
 
-The GMT (Global Moderation Team) began taking applications for the first in its history on 15 October 2016. Previously, members of the GMT would be inducted by process of nomination or recommendation by other GMT members. However, due to a recent increase in demand for more GMT members, the team decided that it would need to reach out to the community more:
+**The GMT (Global Moderation Team) began taking applications for the first in its history on 15 October 2016.** Previously, members of the GMT would be inducted via process of nomination or recommendation by other GMT members. However, due to a recent increase in demand for more members, the team decided that it would need to reach out to the community more:
 
 > Over the past few months, we've been trying to get more in touch with the community as a whole. As a part of these efforts, we are now accepting applications from anyone who wishes to join the Global Moderation Team.
 >
@@ -115,9 +115,9 @@ The GMT (Global Moderation Team) began taking applications for the first in its 
 
 - [shARPII](https://osu.ppy.sh/users/776257), "GMT Applications Now Open" [[27]][r]
 
-The applications that were given out at the time were different from BN (Beatmap Nominator) applications in that simply filling out a form with "good answers" would not guarantee a possition; users who were of interest to the GMT would be spoken to by the GMT and further inspection would follow from there. Additionally, there was not a limited number of "spots" available for the GMT. If the team felt someone was qualified for the position, they would add them; there was no competition for joining [[27]][r].
+The applications that were given out at the time were different from BN (Beatmap Nominator) applications in that simply filling out a form with "good answers" would not guarantee a position; users who were of interest to the GMT would be spoken to by the GMT and further inspection would follow from there. Additionally, there was not a limited number of "spots" available for the GMT. If the team felt someone was qualified for the position, they would add them; there was no competition for joining [[27]][r].
 
-Open testing for the "Loved" ranking state for beatmaps was formally started and announced on 17 October 2016. This category was intended for beatmaps that were/are held in such high regard by the community at large that they are given offical online leaderboards, even if they may not meet the typical ranking criteria; however, beatmaps in the category would not grant users performance points on any plays [[28]][r].
+**Open testing for the "Loved" ranking state for beatmaps was formally started and announced on 17 October 2016.** This category was intended for beatmaps that were held in such high regard by the community at large that they are given offical online leaderboards, even if they may not meet the typical ranking criteria; however, beatmaps in the category would not grant users performance points on any plays [[28]][r].
 
 In its [announcment newspost](https://osu.ppy.sh/home/news/2016-10-17-here-comes-the-love), a set of pre-selected beatmaps were given the Loved status that served as the first ever beatmaps to be Loved:
 
