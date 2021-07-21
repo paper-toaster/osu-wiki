@@ -1,57 +1,45 @@
 # History of osu! 2017
 
-## January
-
-[Ephemeral](https://osu.ppy.sh/users/102335) posted a news post regarding the new year to reassure that many big things are bound to happen in 2017. [S3RL](https://osu.ppy.sh/beatmaps/artists/9) and [nanobii](https://osu.ppy.sh/beatmaps/artists/10) were announced to be osu!'s new featured artists. [cYsmix](https://osu.ppy.sh/beatmaps/artists/2), [yuki.](https://osu.ppy.sh/beatmaps/artists/4) and [Helblinde](https://osu.ppy.sh/beatmaps/artists/5) each released a new album giving osu! 26 new songs to beatmap. Aspire returns for 2017.
-
-Links:
-
-- [Happy New Year!](https://osu.ppy.sh/home/news/2017-01-01-happy-new-year)
-- [New Featured Artists: S3RL and nanobii](https://osu.ppy.sh/home/news/2017-01-09-new-featured-artists-s3rl-and-nanobii)
-- [Aspire Returns For 2017](https://osu.ppy.sh/home/news/2017-01-21-aspire-returns-for-2017)
-
 ## February
 
-[Ben Briggs](https://osu.ppy.sh/beatmaps/artists/11) was announced to be another featured artist. The first osu!lazer build was released!
-
-Links:
-
-- [New Featured Artist: Ben Briggs](https://osu.ppy.sh/home/news/2017-02-08-new-featured-artist-ben-briggs)
-- [Release 0.0.3 · ppy/osu](https://github.com/ppy/osu/releases/tag/v0.0.3)
+**The first public osu!lazer pre-release build was released on 12 February 2017** [[1]][r].
 
 ## March
 
-Monthly Beatmapping Contest revolving around osu!catch has begun. [LukHash](https://osu.ppy.sh/beatmaps/artists/12) was announced as another featured artist. Aspire 2017 voting had begun. Spotlights was announced to co-exist with Ranking Charts. The Spring-themed 9th fanart contest was opened.
+**Beatmap Spotlights were formally introduced to the public on 18 March 2017** [[2,3]][r]. First mentioned in a [developer meeting post on peppy's blog](https://blog.ppy.sh/post/149588555393/2016-08-dev-meeting "ppy blog"), Spotlights intended to fully replace the Ranking Charts that had been in place for so long, by following a system split into two "rubrics" described in its [announcement newspost](https://osu.ppy.sh/home/news/2017-03-18-introducing-to-you-spotlights):
 
-Links:
+> - Spotlights: Similar to the previous Charts, this is where the most noteworthy maps of each month will be showcased, awarding the #1 placed mapper with 1 month of supporter. These maps will be included in the Beatmap Pack Listing.
+>
+> - Themed Spotlights: Released in a bi-monthly manner, at the end of these months players will be able to compete on themed compilations, such as "Electronic" or "Summer", awarding the #1 placed player with 1 month of supporter. Additionally, by completing a whole themed pack you will gain achievements.
 
-- [Monthly Beatmapping Contest March 2017: osu!catch](https://osu.ppy.sh/home/news/2017-03-01-monthly-beatmapping-contest-march-2017-osucatch)
-- [New Featured Artist: LukHash](https://osu.ppy.sh/home/news/2017-03-03-new-featured-artist-lukhash)
-- [Aspire 2017 - Voting Now Open!](https://osu.ppy.sh/home/news/2017-03-13-aspire-2017-voting-now-open)
-- [Introducing to you: Spotlights](https://osu.ppy.sh/home/news/2017-03-18-introducing-to-you-spotlights)
-- [Fanart Contest \#9: Spring](https://osu.ppy.sh/home/news/2017-03-21-fanart-contest-9-spring)
+— OnosakiHito, "Introducing to you: Spotlights" [[2]][r]
 
 ## April
 
-Monthly Beatmapping Contest \#13 concluded with [RyoKazuka](https://osu.ppy.sh/users/6258586) taking first place. Apsire 2017: Stage One concluded with [ProfessionalBox](https://osu.ppy.sh/users/3250792) taking first place. The voting for the Spring fanart contest was opened. The 100th(?) issue of osu!weekly was released. The osu!taiko World Cup 2017 concluded with Japan winning against Taiwan. Before April ended, the Spring fanart contest votes were in, allowing [Evaine](https://osu.ppy.sh/users/7295733) to take first place.
+**Several significant updates to osu!lazer were made in April:**
 
-Links:
-
-- [Monthly Beatmapping Contest \#13 Results](https://osu.ppy.sh/home/news/2017-04-02-monthly-beatmapping-contest-13-results)
-- [Aspire 2017 Stage One Concludes](https://osu.ppy.sh/home/news/2017-04-03-aspire-2017-stage-one-concludes)
-- [Spring Fan Art Contest Voting Now Open](https://osu.ppy.sh/home/news/2017-04-11-spring-fan-art-contest-voting-now-open)
-- [osu!weekly \#100](https://osu.ppy.sh/home/news/2017-04-15-osuweekly-100)
-- [osu!taiko World Cup 2017 Results](https://osu.ppy.sh/home/news/2017-04-22-osutaiko-world-cup-2017-results)
+- The beatmap details panel on the song select screen was added on 12 April 2017 [[4,5]][r]
+- Rulesets became completely modular on 17 April [[6,7]][r]
+- Player retry logic was improved to reduce/limit memory usage over time on 18 April [[8,9]][r]
+- The Double Time, Nightcore, and Half Time mods were added on 21 April [[10]][r]
 
 ## May
 
-osu!catch World Cup 2017 was opened for registrations. [Kuba Oms](https://osu.ppy.sh/beatmaps/artists/13) was featured as another artist of osu!. osu! was announced to be at Anime Expo 2017. In almost over a whole year, the osu!taiko mascot was announced. [Mocha](/wiki/Mocha) has entered the scene with [pippi](/wiki/pippi), [Yuzu](/wiki/Yuzu), and [Maria](/wiki/Maria). Lastly, [Rin / Function Phantom](https://osu.ppy.sh/beatmaps/artists/14) was announced to be part of the featured artists of osu!. Voting for both osu!mania and osu!catch beatmapping contests were opened.
+**Several significant updates to osu!lazer were made in early May:**
 
-- [osu!catch World Cup 2017 - Registrations now open!](https://osu.ppy.sh/home/news/2017-05-03-osucatch-world-cup-2017-registrations-now-open)
-- [osu! at anime expo 2017](https://osu.ppy.sh/home/news/2017-05-09-osu-at-anime-expo-2017)
-- [The new osu!taiko mascot is here!](https://osu.ppy.sh/home/news/2017-05-25-the-new-osutaiko-mascot-is-here)
-- [New Featured Artist: Rin / Function Phantom](https://osu.ppy.sh/home/news/2017-05-30-new-featured-artist-rin-function-phantom)
-- [Monthly Beatmapping Contest Voting Now Open: osu!catch and osu!mania](https://osu.ppy.sh/home/news/2017-06-01-monthly-beatmapping-contest-voting-now-open)
+- Playlist controls were added on 1 May 2017 [[11,12]][r]
+- Nested dependency support was added on 2 May [[12,14]][r]
+- The mod overlay was added on 8 May [[15]][r]
+
+<!--optionally add the poster image for osu! at Anime Expo here-->
+
+**On 9 May 2017 it was announced that osu! would attend [Anime Expo](https://lite.anime-expo.org/ "Anime Exop") 2017 as part of their 10th anniversary celebration** [[]][r].
+
+The general plan was to have a free-play set up of around eight computers to run tournaments for each day of the event. In addition to this, several panels would be run that would go further into the hisotry of osu!, along with an open Q&A session with various team and community members.
+
+The event ran from 1–4 July 2017 at Los Angeles Convention Center, and was remarked as being quite successful by those involved <!--left off here-->
+
+osu!catch World Cup 2017 was opened for registrations. [Kuba Oms](https://osu.ppy.sh/beatmaps/artists/13) was featured as another artist of osu!. osu! was announced to be at Anime Expo 2017. In almost over a whole year, the osu!taiko mascot was announced. [Mocha](/wiki/Mocha) has entered the scene with [pippi](/wiki/pippi), [Yuzu](/wiki/Yuzu), and [Maria](/wiki/Maria). Lastly, [Rin / Function Phantom](https://osu.ppy.sh/beatmaps/artists/14) was announced to be part of the featured artists of osu!. Voting for both osu!mania and osu!catch beatmapping contests were opened.
 
 ## June
 
@@ -130,3 +118,23 @@ Links:
 - [Community Contributors: 2017](https://osu.ppy.sh/home/news/2017-12-24-community-contributors-2017)
 - [osu!status on Twitter](https://twitter.com/osustatus/status/945098179183181824)
 - [and so 2017 comes to an end!](https://www.youtube.com/watch?v=5x7VnC1R0Do)
+
+## References
+
+1. [Release v0.0.3](https://github.com/ppy/osu/releases/tag/v0.0.3 "Github")
+2. [Introducing to you: Spotlights](https://osu.ppy.sh/home/news/2017-03-18-introducing-to-you-spotlights)
+3. [2016-08 Dev Meeting](https://blog.ppy.sh/post/149588555393/2016-08-dev-meeting "ppy blog")
+4. [2017 04 12](https://blog.ppy.sh/2017-04-12/ "ppy blog")
+5. [Beatmap Details #574](https://github.com/ppy/osu/pull/574 "GitHub")
+6. [Remove PlayMode enum and make Rulesets modular #640](https://github.com/ppy/osu/pull/640 "GitHub")
+7. [2017 04 17](https://blog.ppy.sh/2017-04-17/ "ppy blog")
+8. [2017 04 18](https://blog.ppy.sh/2017-04-18/ "ppy blog")
+9. [Memory increase on restart fix #644](https://github.com/ppy/osu/pull/644 "GitHub")
+10. [2017 04 21](https://blog.ppy.sh/2017-04-21/ "ppy blog")
+11. [2017 05 01](https://blog.ppy.sh/2017-05-01/ "ppy blog")
+12. [Playlist #687](https://github.com/ppy/osu/pull/687 "GitHub")
+13. [2017 05 02](https://blog.ppy.sh/2017-05-02/ "ppy blog")
+14. [Add basic nested DI support. #685](https://github.com/ppy/osu-framework/pull/685 "GitHub")
+15. [2017 05 08](https://blog.ppy.sh/2017-05-08/ "ppy blog")
+
+[r]: #references
